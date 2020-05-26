@@ -2,6 +2,7 @@
 layout: default
 ---
 ![Intro](assets/images/schwarzwald3.jpg)
+Foto: Die idyllische Landschaft am Feldberg im Südschwarzwald. Hier ist es noch manchmal ruhig, außer es kommt ein Sportflieger
 
 ## Es braucht nur ein paar wenige rücksichtslose Menschen um ganze Naturregionen bzw. Erholungsgebiete für Tausende von Menschen zu entwerten. Nämlich dann, wenn diese Gebiete mit lauten Motorrädern, Quads oder auf Sound getunten Sportwagen befahren oder mit dem Sport- oder Leichtflugzeug überflogen werden. 
 
