@@ -9,7 +9,7 @@ Wer kenn das nicht: Ein einziger Sportflieger fliegt mit einem Sportflugzeug ode
 
 Die Initiative "Rettet die Stille" möchte auf den Verlust der Stille aufmerksam machen und versuchen, mehr Menschen für effektiven Lärmschutz zu gewinnen. Und dies nicht durch den Bau von teuren Lärmschutzwänden oder passiven Schallschutz an den Fenstern der Wohnungen, sondern ganz einfach und kostengünstig dadurch, dass die bestehenden Lärmschutzverordnungen grundsätzlich überarbeitet werden. Sie sind löchrig, durch beständige Lobbyarbeit der Fahrzeugindustrie ausgehöhlt und mittlerweile völlig nutzlos. Die darin enthaltenen Dezibel-Grenzwerte sind viel zu hoch angesetzt. Wer wirklich mal nachmisst, wie laut Fahrzeuge (und übrigens auch andere technische Anlagen) sein dürfen, bevor ein Grenzwert erreicht wird, der wird sich wundern.
 
-Das hat leider mittlerweile auch die Industrie entdeckt und nutzt bestehende Freiräume gnadenlos aus. Teilweise wird sogar durch technische Maßnahmen dafür gesorgt, dass Fahrzeuge nicht leiser, sondern absichtlich lauter werden. Ein "kerniger" Motorsound in einem Audu entsteht nicht im Motor oder Auspuss, sondern in einer schnöden Plastikbox unterhalb des Kofferaums.
+Das hat leider mittlerweile auch die Industrie entdeckt und nutzt bestehende Freiräume gnadenlos aus. Teilweise wird sogar durch technische Maßnahmen dafür gesorgt, dass Fahrzeuge nicht leiser, sondern absichtlich lauter werden. Ein "kerniger" Motorsound in einem Audi entsteht nicht im Motor oder Auspuff, sondern in einer schnöden Plastikbox unterhalb des Kofferaums.
 
 Leider ist die Lobby der Krach-Fetischisten sehr viel besser organisiert (z.B. in Industrie- oder Motorradverbänden) als die Lärm-Leidtragenden. Ein Kampf David gegen Goliath.
 
