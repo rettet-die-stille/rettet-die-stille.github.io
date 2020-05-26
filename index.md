@@ -2,7 +2,7 @@
 layout: default
 title: Rettet-die-Stille
 ---
-![Dies ist ein Beispielbild.](assets/images/example.jpg)
+![Intro](assets/images/schwarzwald2.jpg)
 
 # Rettet-die-Stille
 
