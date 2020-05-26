@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Rettet-die-Stille
 ---
 ![Intro](assets/images/schwarzwald2.jpg)
 
