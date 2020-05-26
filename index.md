@@ -1,14 +1,13 @@
 ---
 layout: default
-title: 
 ---
 ![Intro](assets/images/schwarzwald2.jpg)
 
 # Es braucht nur ganz wenige Egoisten um Erholungs- und Naturgebiete für tausende zu Menschen entwerten
 
-## nämlich dann, wenn Sie absichtlich laute Motorräder oder Sportwagen fahren oder in niedriger Höhe mit dem Sportflugzeug 
+## Nämlich dann, wenn Sie mit lauten Motorräder oder Sportwagen in Erholungsgebiete fahren oder diese in niedriger Höhe mit dem Sportflugzeug überfliegen.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+Wer kenn das nicht: Ein einziger Sportflieger fliegt mit einem Sportflugzeug oder Gyrocopter über ein Erholungs- oder Naturgebiet, tausende Menschen sind genervt, damit 1 odr 2 Leute im Cockpit ihren Spaß haben. Oder ...
 
 ## Lorem ipsum
 
