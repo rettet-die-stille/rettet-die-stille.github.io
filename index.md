@@ -3,9 +3,9 @@ layout: default
 ---
 ![Intro](assets/images/schwarzwald2.jpg)
 
-# Es braucht nur ganz wenige Egoisten um Erholungs- und Naturgebiete für tausende zu Menschen entwerten
+# Es braucht nur ganz wenige Egoisten ... 
 
-## Nämlich dann, wenn Sie mit lauten Motorräder oder Sportwagen in Erholungsgebiete fahren oder diese in niedriger Höhe mit dem Sportflugzeug überfliegen.
+## um Erholungs- und Naturgebiete für tausende zu Menschen entwerten. Nämlich dann, wenn Sie mit lauten Motorräder oder Sportwagen in Erholungsgebiete fahren oder diese in niedriger Höhe mit dem Sportflugzeug überfliegen.
 
 Wer kenn das nicht: Ein einziger Sportflieger fliegt mit einem Sportflugzeug oder Gyrocopter über ein Erholungs- oder Naturgebiet, tausende Menschen sind genervt, damit 1 odr 2 Leute im Cockpit ihren Spaß haben. Oder ...
 
