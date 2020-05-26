@@ -16,3 +16,5 @@ Leider ist die Lobby der Krach-Fetischisten sehr viel besser organisiert (z.B. i
 Was übrigens - anders als viele denken - keine Lösung ist, ist der Ruf nach mehr Polizeikontrollen. Wer mit Polizisten darüber spricht, der erfährt sehr schnell, dass der Polizei aufgrund der löchrigen Lärmvorschriften die Hände gebunden sind. Viele Fahrzeuge, die der Laie als "manipuliert" empfindet, sind absolut legal. Das ist sehr frustrierend, auch für die Mitarbeiter der Polizeibehörden. 
 
 Eine Änderung der Situation kann nur in der Politik auf Bundes- und EU-Ebene erfolgen. Denn dort werden diese Verordnungen gemacht. Bislang dominiert dort allerdings der Einfluss der Lärmlobby. Vielleicht kann diese Website ein bisschen dazu beitragen, dass sich das ändert. 
+
+PS: Damit sich was ändert, bitte schreiben Sie nicht mir, sondern ihrem Landes-, Bundestags- oder EU-Abgeordneten. Oder dem Landes- bzw. Bundesverkehrsminister oder an die zuständigen EU-Behörden. Ich kann nichts ändern, aber eine Vielzahl von Zuschriften an die politischen Entscheidungsträger kann vielleich etwas bewirken. Aber haben Sie Geduld. 
