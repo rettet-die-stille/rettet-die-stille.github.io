@@ -3,7 +3,7 @@ layout: default
 ---
 ![Intro](assets/images/schwarzwald3.jpg)
 
-## Es braucht nur ganz wenige Egoisten um ganze Naturregionen oder Erholungsgebiete für Tausende von Menschen zu entwerten. Nämlich dann, wenn Sie mit extra lauten Motorrädern, Quads oder auf Sound getunten Sportwagen in Erholungsgebiete fahren oder diese in niedriger Höhe mit dem Sportflugzeug überfliegen.
+## Es braucht nur ganz wenige Egoisten um ganze Naturregionen oder Erholungsgebiete für Tausende von Menschen zu entwerten. Nämlich dann, wenn Sie mit extra lauten Motorrädern, Quads oder auf Sound getunten Sportwagen in Erholungsgebiete fahren oder diese in niedriger Höhe mit dem Sportflugzeug überfliegen. Das darf nicht so bleiben, auch wenn unser Verkehrsminister "Benzin im Blut" hat.
 
 Wer kenn das nicht: Ein einziger Sportflieger fliegt mit einem Sportflugzeug oder Gyrocopter über ein Erholungs- oder Naturgebiet, tausende Menschen sind genervt, damit 1 odr 2 Leute im Cockpit ihren Spaß haben.
 
