@@ -4,7 +4,7 @@ title: Impressum und Datenschutzerklärung
 
 # Impressum und Datenschutzerklärung gemäß DSGVO
 
-Vorabn eine Meinungsäußerung: Man würde sich wünschen, dass der Schutz vor Lärm genauso akribisch und weitreichend wie der Datenschutz in der DSGVO betrieben werden würde :-) 
+Vorab eine Meinungsäußerung: Man würde sich wünschen, dass der Schutz vor Lärm genauso akribisch und weitreichend wie der Datenschutz in der DSGVO betrieben werden würde :-) 
 
 ## Hinweis: 
 
