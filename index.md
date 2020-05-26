@@ -1,5 +1,6 @@
 ---
 layout: default
+title:
 ---
 ![Intro](assets/images/schwarzwald2.jpg)
 
