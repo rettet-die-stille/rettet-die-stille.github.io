@@ -1,6 +1,8 @@
 ---
 layout: default
+title: Rettet-die-Stille
 ---
+![Dies ist ein Beispielbild.](assets/images/example.jpg)
 
 # Rettet-die-Stille
 
