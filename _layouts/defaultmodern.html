@@ -1,6 +1,7 @@
-<!DOCTYPE html>
-<html lang="de">
-
+---
+layout: default
+---
+    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -96,12 +97,14 @@
         <div class="fakeimg" style="height:200px;">Image</div>
         {{ content }}
       </div>
-      <div class="card">
-        <h2>TITLE HEADING</h2>
-        <h5>Title description, Sep 2, 2017</h5>
-        <div class="fakeimg" style="height:200px;">Image</div>
-        <p>Some text..</p>
-      </div>
+      {% for post in site.posts %}
+          <div class="card">
+            <h2>TITLE HEADING</h2>
+            <h5><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
+            <div class="fakeimg" style="height:200px;">Image</div>          
+            <p>Some text..</p>
+          </div>
+       {% endfor %}
     </div>
     <div class="rightcolumn">
       <div class="card">
