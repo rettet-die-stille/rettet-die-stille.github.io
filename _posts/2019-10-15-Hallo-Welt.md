@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Geräuschmessung durch die Polizei"
+title: "Geräuschmessungen durch die Polizei"
 date: 2020-05-28
-shorttext: "Dieser Beitrag zeigt auf, wie wenig Möglichkeiten die Polizeibehörden und der TÜV haben, mittels Gräuschmessungen Lärmüberschreitungen festzustellen und zu ahnden."
+shorttext: "Dieser Beitrag mit Originalzitat zeigt auf, wie wenig - bis keine - Möglichkeiten die Polizeibehörden und sogar teilweise der TÜV haben, mittels Gräuschmessungen Lärmüberschreitungen festzustellen und zu ahnden. Aber lesen sie selbst."
 ---
 
 ## Geräuschmessung durch die Polizei
+
+ {{shorttext}}
 
 Sehr geehrter Raue,
 
