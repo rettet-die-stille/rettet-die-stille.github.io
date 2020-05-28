@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Hallo Welt - der Post"
+title: "Blog Beitrag"
 date: 2019-10-15
+shorttext: "Dies ist eine Inhaltsangabe"
 ---
 
 Hallo Welt!
