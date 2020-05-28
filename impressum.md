@@ -1,3 +1,5 @@
+<div class="card">
+  
 ---
 title: Impressum und Datenschutzerklärung
 ---
@@ -189,3 +191,5 @@ http://vimeo.com/privacy
 weitere Informationen zur Erhebung und Nutzung der Daten sowie zu Ihren Rechten und Möglichkeiten zum Schutz Ihrer Privatsphäre an.
 
 Quelle: Muster-Datenschutzerklärung der Anwaltskanzlei Weiß & Partner
+
+</div>
