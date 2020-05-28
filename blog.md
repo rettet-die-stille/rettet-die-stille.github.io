@@ -12,6 +12,6 @@ title: Blog
 <hr>
 <h1><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
 <h5>Erstellt am: <span>{{ post.date | date_to_string }}</span></h5>
-<p>{{post.shorttext}} &nbsp;<a href="{{ post.url }}" title="{{ post.title }}">Lesen...</a></p>  
+<p>{{post.shorttext}} ;<a href="{{ post.url }}" title="{{ post.title }}">Mehr...</a></p>  
 </div>
 {% endfor %}
