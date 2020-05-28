@@ -12,7 +12,6 @@ title: Blog
   <hr>
   <h1>{{ post.title }}</h1>
   <h5>Erstellt am: <span>{{ post.date | date_to_string }}</span></h5>
-  <div class="fakeimg" style="height:200px;">Image</div>          
   <p>{{post.shorttext}} <a href="{{ post.url }}" title="{{ post.title }}">Lesen...</a></p>  
   </div>
 {% endfor %}
