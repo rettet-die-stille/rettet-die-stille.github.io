@@ -7,9 +7,9 @@ shorttext: "Dieser Beitrag mit Originalzitat zeigt auf, wie wenig - bis keine - 
 
 ## Geräuschmessung durch die Polizei
 
- {{shorttext}}
+ {{post.shorttext}}
 
-Email von der Verkehrspolizeiinspektion Freiburg vom 14. Februar 2020
+### Email von der Verkehrspolizeiinspektion Freiburg vom 14. Februar 2020
 
 [Anmerkung: Kennzeichen und Namen des Polizeioberkommissars wurden aus Datenschutzgründen "ausgeixt".]
 
