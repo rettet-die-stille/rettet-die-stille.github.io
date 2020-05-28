@@ -9,6 +9,11 @@ shorttext: "Dieser Beitrag mit Originalzitat zeigt auf, wie wenig - bis keine - 
 
  {{shorttext}}
 
+Email von der Verkehrspolizeiinspektion Freiburg vom 14. Februar 2020
+
+[Anmerkung: Kennzeichen und Namen des Polizeioberkommissars wurden aus Datenschutzgründen "ausgeixt".]
+
+
 Sehr geehrter Raue,
 
 hiermit bestätigen wir den Eingang ihrer Anzeige bezüglich des schwarzen Pkw Mercedes, amtl. Kennzeichen XX-XX-XXX 
@@ -41,7 +46,7 @@ Sollten Sie weitere Fragen zum vorliegenden Fall haben, können Sie sich gerne a
 
 Mit freundlichen Grüßen
  
-Abcdefefj kljef
+XXXXX-XXXXXXXXX
 - Polizeioberkommissar -
  
 POLIZEIPRÄSIDIUM FREIBURG
