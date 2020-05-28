@@ -1,10 +1,9 @@
-
-
-<div class="card">
-  
 ---
+layout: defaultmodern
 title: Impressum und Datenschutzerklärung
 ---
+
+<div class="card">
 
 # Impressum und Datenschutzerklärung gemäß DSGVO
 
