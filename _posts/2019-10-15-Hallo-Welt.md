@@ -8,9 +8,13 @@ shorttext: "Dieser Beitrag zeigt auf, wie wenig Möglichkeiten die Polizeibehör
 # Geräuschmessung durch die Polizei
 
 Sehr geehrter Raue,
+
 hiermit bestätigen wir den Eingang ihrer Anzeige bezüglich des schwarzen Pkw Mercedes, amtl. Kennzeichen XX-XX-XXX 
+
 Das Fahrzeug wird durch Kollegen der Verkehrspolizei, im Rahmen unserer Möglichkeiten, auf technische Manipulationen/Veränderungen der Auspuffanlage überprüft.
+
 Dies ist uns jedoch leider nur in sehr eingeschränkten Umfang möglich, da die Polizei lediglich Standgeräuschmessungen durchführen kann.
+
 Bei dem Fahrzeug handelt es sich um einen Pkw Mercedes AMG (die Mercedes-AMG GmbH ist eine Tochtergesellschaft der Daimler AG und zuständig für die High-Performance-Fahrzeuge des Konzerns), welcher nicht nur auf Leistung (sprich PS), sondern auch auf „Sound“ (sprich Lärm) „optimiert“ ist. Solche Fahrzeuge verfügen über eine s.g. Klappenauspuffanlage.
 Dies bedeutet, dass solche Fahrzeuge in der Regel die vom Verordnungsgeber vorgegebenen Dezibelwerte einhalten. Die im Fahrzeugschein eingetragenen Grenzwerte für das Stand- bzw. Fahrgeräusch müssen nur in einem vorgegebenen Rahmen eingehalten werden.
 Im vorliegenden Fall darf das Fahrzeug bei einer Drehzahl von 3.750 U/min einen Dezibelwert von 100 dB (A) im Stand erreichen. Die Klappenauspuffanlage ist Drehzahlabhängig so geregelt, dass der Grenzwert von 100 dB (A) (normalerweise) eingehalten wird.
