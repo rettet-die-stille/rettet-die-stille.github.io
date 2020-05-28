@@ -2,15 +2,15 @@
 layout: defaultmodern
 title: Blog
 ---
-
-<h1>{{ page.title }}</h1>
-
-<ul class="posts">
-
+ 
+ <div class="card">
+  <h2>Alle Beiträge</h2>
+</div>
 {% for post in site.posts %}
-
-<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-
-{% endfor %}
-
-</ul>
+    <div class="card">
+      <h2>post.title</h2>
+      <h5><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
+      <div class="fakeimg" style="height:200px;">Image</div>          
+      <p>Some text..</p>
+    </div>
+ {% endfor %}
