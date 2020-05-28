@@ -3,7 +3,7 @@ layout: defaultmodern
 title: Impressum und Datenschutzerklärung
 ---
 
-<div class="card">
+
 
 # Impressum und Datenschutzerklärung gemäß DSGVO
 
@@ -193,4 +193,4 @@ weitere Informationen zur Erhebung und Nutzung der Daten sowie zu Ihren Rechten 
 
 Quelle: Muster-Datenschutzerklärung der Anwaltskanzlei Weiß & Partner
 
-</div>
+
