@@ -1,5 +1,5 @@
 ---
-layout: defaultmodern
+layout: impressum
 title: Impressum und Datenschutzerklärung
 ---
 
