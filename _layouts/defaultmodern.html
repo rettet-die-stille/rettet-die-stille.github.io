@@ -82,34 +82,36 @@ layout: default
 </head>
 
 <body>
-  <div id="header">
-            {% include _nav.html %}
-  </div>
-<div class="header2">
-      <img src="/assets/images/schwarzwald3.jpg" alt="Die idyllische Landschaft" title="" />
-      <sub>Foto: Die idyllische Landschaft am Feldberg im Südschwarzwald. Hier ist es noch manchmal echte Stille, außer es kommt ein Sportflieger.</sub>
-</div>
-  <div class="row">
-    <div class="leftcolumn">
-     {{content}}
+  <div id="frame">
+    <div id="header">
+              {% include _nav.html %}
     </div>
-    <div class="rightcolumn">
-        <!--
+  <div class="header2">
+        <img src="/assets/images/schwarzwald3.jpg" alt="Die idyllische Landschaft" title="" />
+        <sub>Foto: Die idyllische Landschaft am Feldberg im Südschwarzwald. Hier ist es noch manchmal echte Stille, außer es kommt ein Sportflieger.</sub>
+  </div>
+    <div class="row">
+      <div class="leftcolumn">
+      {{content}}
+      </div>
+      <div class="rightcolumn">
+          <!--
+          <div class="card">
+          <h2>About Me</h2>
+          <div class="fakeimg" style="height:100px;">Image</div>
+          <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+        </div>
+        -->
         <div class="card">
-        <h2>About Me</h2>
-        <div class="fakeimg" style="height:100px;">Image</div>
-        <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-      </div>
-      -->
-      <div class="card">
-        <h3>Blogbeiträge:</h3>
-        {% for post in site.posts %}
-        <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>  
-        {% endfor %}
-      </div>
-      <div class="card">
-        <h3>Folge mir auf:</h3>
-        <p><a href="https://www.instagram.com/rettet.die.stille">Instagram</p>
+          <h3>Blogbeiträge:</h3>
+          {% for post in site.posts %}
+          <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>  
+          {% endfor %}
+        </div>
+        <div class="card">
+          <h3>Folge mir auf:</h3>
+          <p><a href="https://www.instagram.com/rettet.die.stille">Instagram</p>
+        </div>
       </div>
     </div>
   </div>
