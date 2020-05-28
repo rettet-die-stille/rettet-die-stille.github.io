@@ -25,3 +25,13 @@ Was übrigens - anders als viele denken - keine Lösung ist, ist der Ruf nach me
 Eine Änderung der Situation kann nur in der Politik auf Bundes- und EU-Ebene erfolgen. Denn dort werden diese Verordnungen gemacht. Bislang dominiert dort allerdings der Einfluss der Lärmlobby. Vielleicht kann diese Website ein bisschen dazu beitragen, dass sich das ändert. 
 
 PS: Damit sich was ändert, bitte schreiben Sie nicht mir, sondern ihrem Landes-, Bundestags- oder EU-Abgeordneten. Oder dem Landes- bzw. Bundesverkehrsminister oder an die zuständigen EU-Behörden. Ich kann nichts ändern, aber eine Vielzahl von Zuschriften an die politischen Entscheidungsträger kann vielleich etwas bewirken. Allerdings sind Geduld und Ausdauer von Nöten!
+
+<ul class="posts">
+
+{% for post in site.posts %}
+
+<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+
+{% endfor %}
+
+</ul>
