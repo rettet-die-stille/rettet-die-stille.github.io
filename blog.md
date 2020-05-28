@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultmodern
 title: Blog
 ---
 
