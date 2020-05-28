@@ -5,7 +5,7 @@ title: Blog
  
 <div class="card">
   <h1>Alle Beiträge</h1>
-  <p>Hier sehen Sie eine Übersicht über alle Blog-Beiträge auf meiner Website</p>
+  <p>Hier sehen Sie eine Übersicht über alle Blog-Beiträge auf dieser Website</p>
 </div>
 {% for post in site.posts %}
 <div class="card">
