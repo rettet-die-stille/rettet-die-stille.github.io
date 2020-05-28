@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultmodern
 ---
 ![Intro](assets/images/schwarzwald3.jpg)
 <sub>Foto: Die idyllische Landschaft am Feldberg im Südschwarzwald. Hier ist es noch manchmal ruhig, außer es kommt ein Sportflieger.</sub>
