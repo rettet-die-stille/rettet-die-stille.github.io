@@ -51,6 +51,8 @@ a {
     text-decoration: none;
 }
 
+a:hover {text-decoration: underline}
+
 .nav {
     grid-area: nav;
     display: inline-block;
