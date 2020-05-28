@@ -10,8 +10,10 @@ title: Blog
 {% for post in site.posts %}
 <div class="card">
 <hr>
-<h1>
+<h1> 
+ 
    <a href="{{ post.url }}" title="{{ post.title }}"</a>
+   
 </h1>
 <h5>Erstellt am: <span>{{ post.date | date_to_string }}</span></h5>
 <p>{{post.shorttext}} &nbsp;<a href="{{ post.url }}" title="{{ post.title }}">Lesen...</a></p>  
