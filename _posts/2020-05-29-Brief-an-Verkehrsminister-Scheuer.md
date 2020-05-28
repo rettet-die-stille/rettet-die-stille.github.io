@@ -7,6 +7,8 @@ shorttext: "Nach dem Studium des Schreibens der Verkehrspolizeiinspektion Freibu
 
 ## {{page.shorttext}}
 
+<br />
+<br />
 An 
 den Bundesminister für Verkehr und digitale Infrastruktur<br />
 Herrn Andreas Scheuer (persönlich)<br />
