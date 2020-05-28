@@ -2,19 +2,18 @@
 layout: post
 title: "Brief an Verkehrsminister Scheuer"
 date: 2020-05-29
-shorttext: "Nach dem Studium der Bestandsanalyse der Verkehrspolizeiinspektion Freiburg zum Thema Lärmmessung hatte ich mich im Februar 2020 entschlossen, die sich daraus ergebenden Fragen an das BMVI zu senden. Leider bislang ohne Antwort."
+shorttext: "Nach dem Studium des Schreibens der Verkehrspolizeiinspektion Freiburg zum Thema Lärmmessung hatte ich mich im Februar 2020 entschlossen, die sich daraus ergebenden Fragen an das BMVI zu senden. Leider bislang ohne Antwort."
 ---
 
 ## {{page.shorttext}}
 
 An 
-den Bundesminister für Verkehr und digitale Infrastruktur
-
-Herrn Andreas Scheuer (persönlich)
-
-Invalidenstraße 44
-
-10115 Berlin
+den Bundesminister für Verkehr und digitale Infrastruktur<br />
+Herrn Andreas Scheuer (persönlich)<br />
+Invalidenstraße 44<br />
+10115 Berlin<br />
+<br />
+<br />
 
 Sehr geehrter Herr Minister Scheuer,
 
