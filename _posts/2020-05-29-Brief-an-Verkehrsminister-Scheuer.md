@@ -2,8 +2,7 @@
 layout: post
 title: "Brief an Verkehrsminister Scheuer"
 date: 2020-05-29
-shorttext: "Nach dem Studium der Bestandsanalyse der Verkehrspolizeiinspektion Freiburg zum Thema Lärm hatte ich mich im Februar 2020 entschlossen, 
-die sich daraus ergebenden Fragen an das Bundesministerium für Verkehr und digitale Infrastruktur zu senden. Leider bislang ohne Antwort.
+shorttext: "Nach dem Studium der Bestandsanalyse der Verkehrspolizeiinspektion Freiburg zum Thema Lärm hatte ich mich im Februar 2020 entschlossen, die sich daraus ergebenden Fragen an das Bundesministerium für Verkehr und digitale Infrastruktur zu senden. Leider bislang ohne Antwort."
 ---
 
 ## {{page.shorttext}}
@@ -14,17 +13,20 @@ Herrn Andreas Scheuer (persönlich)
 Invalidenstraße 44
 10115 Berlin
 
-Kirchzarten, 24.2.2020
-
 Sehr geehrter Herr Minister Scheuer,
 
 zum Thema Motorrad- und Sportwagenlärm („Lärmposer“) wird immer wieder der Ruf nach mehr Polizeikontrollen hörbar. Man geht davon aus, dass es Fahrzeughalter gibt, die Manipulationen an ihren Fahrzeugen vornehmen und man müsse diese nur „herausfischen“.
 
-Mit meinem Schreiben möchte ich darauf aufmerksam machen, dass es 
+Mit meinem Schreiben möchte ich darauf aufmerksam machen, dass es
+
 a)	nicht notwendig ist, Fahrzeuge zu manipulieren, um teilweise gewaltige Lärmemissionen hervorzurufen. Die Lücken in den Verordnungen sind m.E. so groß, dass man ganz legal beliebig laut sein darf und dass deshalb Polizeikontrollen sinnlos und zudem frustrierend für die Beamten sind,
+
 b)	es dringend notwendig ist, die bestehenden Gesetze und Verordnungen zu ändern, damit überhaupt eine Kontrolle der zulassungsbedingten Lärmwerte möglich ist und
+
 c)	dass es möglich wäre, den §1 der StVO konsequenter durchzusetzen. Dieser würde dann auch die Fahrer von Bestandsfahrzeugen einschließen (die ja durch optimierte Zulassungsvorschriften nicht erfasst werden)
+
 Zum Thema Lärmkontrollen habe ich aktuell das untenstehende E-Mail der Verkehrspolizeiinspektion Freiburg erhalten, das m.E. andeutet, dass bei der bestehenden Lärmschutz-Rechtslage die Durchführung von Polizeikontrollen an Fahrzeugen im Prinzip sinnlos erscheinen.
+
 Ich habe dazu die folgenden Fragen, die sich auf das Mail unten beziehen und bitte ausdrücklich um Einzel-Beantwortung jeder der Fragen.
 1.	Ist es richtig, dass die Polizei nur Standgeräuschmessungen, nicht aber Fahrgeräuschmessungen durchführen kann?
 2.	Ist es zutreffen, dass bei Fahrzeugen, die unter die neue EU-Verordnung Nr. 540/2014 fallen, selbst der TÜV aufgrund der komplizierten Verordnung technisch nicht in der Lage ist eine Fahrgeräuschmessung durchzuführen?
@@ -49,4 +51,5 @@ Vielen Dank für die Beantwortung dieser Fragen.
 Ich gehe davon aus, dass ich die Antworten auf diese Fragen ggfs. dann auch in der Öffentlichkeit verwenden darf.
 
 Mit freundlichen Grüßen
+
 Kristian Raue
