@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Blog Beitrag"
-date: 2019-10-15
-shorttext: "Dies ist eine Inhaltsangabe"
+title: "Geräuschmessung durch die Polizei"
+date: 2020-05-28
+shorttext: "Dieser Beitrag zeigt auf, wie wenig Möglichkeiten die Polizeibehörden und der TÜV haben, mittels Gräuschmessungen Lärmüberschreitungen festzustellen und zu ahnden."
 ---
 
-# Lärmmessung durch die Polizei
+# Geräuschmessung durch die Polizei
 
 Sehr geehrter Raue,
 hiermit bestätigen wir den Eingang ihrer Anzeige bezüglich des schwarzen Pkw Mercedes, amtl. Kennzeichen XX-XX-XXX 
