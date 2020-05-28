@@ -14,7 +14,7 @@ title: Blog
 
 <div class="card">
  
-##{{ post.title }}
+## {{ post.title }}
 ### Erstellt am: <span>{{ post.date | date_to_string }}</span>
 
    <div class="fakeimg" style="height:200px;">Image</div>          
