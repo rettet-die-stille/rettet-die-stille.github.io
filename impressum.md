@@ -11,7 +11,7 @@ Vorab eine Meinungsäußerung: Man würde sich wünschen, dass der Schutz vor L�
 
 ## Hinweis: 
 
-Diese Website ist eine private Website ohne Gewinnerzielungsabsicht. Er werden keine Daten erhoben oder automatisch gesammelt. Alle Inhalte geben die private Meinung des Betreibers wieder.
+Diese Website ist eine private Website ohne Gewinnerzielungsabsicht. Alle Inhalte geben die private Meinung des Betreibers wieder.
 
 ## Betreiber
 
