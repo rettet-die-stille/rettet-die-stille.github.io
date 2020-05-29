@@ -5,8 +5,6 @@ date: 2020-05-28
 shorttext: "Dieser Beitrag mit Originalzitat zeigt auf, wie wenig - bis keine - Möglichkeiten die Polizeibehörden und sogar teilweise der TÜV haben, mittels Gräuschmessungen Lärmüberschreitungen festzustellen und zu ahnden. Aber lesen sie selbst."
 ---
 
-## {{page.shorttext}}
-
 [Anmerkung: Kennzeichen und Namen des Polizeioberkommissars wurden aus Datenschutzgründen "ausgeixt".]
 
 ### Email von der Verkehrspolizeiinspektion Freiburg vom 14. Februar 2020
