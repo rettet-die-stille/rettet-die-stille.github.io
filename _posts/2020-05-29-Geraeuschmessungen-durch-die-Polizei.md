@@ -7,6 +7,7 @@ shorttext: "Dieser Beitrag mit Originalzitat zeigt auf, wie wenig - bis keine - 
 
 [Anmerkung: Kennzeichen und Namen des Polizeioberkommissars wurden aus Datenschutzgründen "ausgeixt".]
 <br />
+<br />
 ### Email von der Verkehrspolizeiinspektion Freiburg vom 14. Februar 2020
 <br />
 Sehr geehrter Raue,
