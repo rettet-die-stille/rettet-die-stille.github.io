@@ -16,7 +16,7 @@ layout: default
     body {
       font-family: Arial;
       padding: 10px;
-      background:white;
+      background:grey;
     }
 
     /* Header/Blog Title */
@@ -103,12 +103,14 @@ layout: default
         -->
         <div class="card">
           <h3>Blogbeiträge:</h3>
+          <hr>
           {% for post in site.posts %}
           <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>  
           {% endfor %}
         </div>
         <div class="card">
           <h3>Folge mir auf:</h3>
+          <hr>
           <p><a href="https://www.instagram.com/rettet.die.stille">Instagram</p>
         </div>
       </div>
