@@ -26,7 +26,7 @@ b)	es dringend notwendig ist, die bestehenden Gesetze und Verordnungen zu änder
 
 c)	dass es möglich wäre, den §1 der StVO konsequenter durchzusetzen. Dieser würde dann auch die Fahrer von Bestandsfahrzeugen einschließen (die ja durch optimierte Zulassungsvorschriften nicht erfasst werden)
 
-Zum Thema Lärmkontrollen habe ich aktuell das untenstehende E-Mail der Verkehrspolizeiinspektion Freiburg erhalten, das m.E. andeutet, dass bei der bestehenden Lärmschutz-Rechtslage die Durchführung von Polizeikontrollen an Fahrzeugen im Prinzip sinnlos erscheinen.
+Zum Thema Lärmkontrollen habe ich aktuell das <a href='/2020/05/28/Geraeuschmessungen-durch-die-Polizei.html'>untenstehende E-Mail der Verkehrspolizeiinspektion Freiburg</a> erhalten, das m.E. andeutet, dass bei der bestehenden Lärmschutz-Rechtslage die Durchführung von Polizeikontrollen an Fahrzeugen im Prinzip sinnlos erscheinen.
 
 Ich habe dazu die folgenden Fragen, die sich auf das Mail unten beziehen und bitte ausdrücklich um Einzel-Beantwortung jeder der Fragen.
 1.	Ist es richtig, dass die Polizei nur Standgeräuschmessungen, nicht aber Fahrgeräuschmessungen durchführen kann?
