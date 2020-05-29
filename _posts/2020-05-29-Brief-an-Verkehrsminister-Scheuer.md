@@ -2,7 +2,7 @@
 layout: post
 title: "Brief an Verkehrsminister Scheuer"
 date: 2020-05-29
-shorttext: "Nach dem Studium des Schreibens der <span style="text-decoration: underline;"><a href='/2020/05/28/Geraeuschmessungen-durch-die-Polizei.html'>Verkehrs&shy;polizei&shy;inspektion Freiburg</a></span> zum Thema Geräuschmessungen hatte ich mich im Februar 2020 entschlossen, die sich daraus ergebenden Fragen an das BMVI zu senden. Leider bislang ohne Antwort."
+shorttext: "Nach dem Studium des Schreibens der <span style='text-decoration: underline;'><a href='/2020/05/28/Geraeuschmessungen-durch-die-Polizei.html'>Verkehrs&shy;polizei&shy;inspektion Freiburg</a></span> zum Thema Geräuschmessungen hatte ich mich im Februar 2020 entschlossen, die sich daraus ergebenden Fragen an das BMVI zu senden. Leider bislang ohne Antwort."
 ---
 <br />
 <br />
