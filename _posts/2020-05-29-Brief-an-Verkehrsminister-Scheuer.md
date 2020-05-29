@@ -4,9 +4,6 @@ title: "Brief an Verkehrsminister Scheuer"
 date: 2020-05-29
 shorttext: "Nach dem Studium des Schreibens der Verkehrspolizeiinspektion Freiburg zum Thema Lärmmessung hatte ich mich im Februar 2020 entschlossen, die sich daraus ergebenden Fragen an das BMVI zu senden. Leider bislang ohne Antwort."
 ---
-
-## {{page.shorttext}}
-
 <br />
 <br />
 An 
