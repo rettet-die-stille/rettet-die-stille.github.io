@@ -8,3 +8,5 @@ shorttext: "Das sollte ein Vorbild f체r Deutschland sein. Wer schon im Standger�
 Hier ist der entsprechende [Bericht von Spiegel Online.](https://www.spiegel.de/auto/oesterreich-tirol-beschliesst-fahrverbote-fuer-laute-motorraeder-a-d049f6ac-9c2e-48b8-bb82-c4bb5190466d)
 
 Mein Vorschlag: Die Rennstrecken im S체dschwarzwald, z.B. die B 317 und die B 500 selektiv f체r Motorr채der zu sperren. Ich bin sicher, dass viele Leser da weitere Vorschl채ge haben.
+
+Unser Verkehrsminister hat aber offenbar [eine andere Sichtweise.](https://www.spiegel.de/auto/motorraeder-andreas-scheuer-lehnt-fahrverbote-am-sonntag-ab-a-914a3a0c-e58d-4058-8b5b-e83c167cb250)
