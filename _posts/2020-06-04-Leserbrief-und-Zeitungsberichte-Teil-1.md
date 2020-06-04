@@ -28,7 +28,7 @@ Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xki3b7yix--185178804.html){:target="_blank"}</span>
 
 <br />
-<b>Am 22. Mai 2020 erschien in der Badischen Zeitung unter dem Titel "Für alle Raser Grenzen wieder schließe" ein Leserbrief, aus dem das folgende Zitat steht:</b>
+<b>Am 22. Mai 2020 erschien in der Badischen Zeitung unter dem Titel "Für alle Raser Grenzen wieder schließen" ein Leserbrief, aus dem das folgende Zitat steht:</b>
 
 <i>"Ein zweifelhafter Segen der Grenzöffnung zur Schweiz war schon Sonntagvormittags zu erleben. Eine etwa zehnköpfige Gruppe Motorradfahrer mit Zürcher Kennzeichen suchte den Hotzenwald heim mit gnadenlosem Lärm und klarer Missachtung von Tempolimits. Sie hatten wohl alle einen "triftigen" Grund für den Grenzübertritt, mussten sie doch den Wettbewerb mit der schwäbischen Lärm- und Raserverwandtschaft frühestmöglich wieder aufnehmen und ihnen zeigen, wo der Hammer hängt."</i>
 
