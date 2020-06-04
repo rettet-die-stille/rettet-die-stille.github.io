@@ -18,7 +18,7 @@ Das hat leider mittlerweile auch die Industrie entdeckt und nutzt bestehende Fre
 
 Das absichtliche "Lautmachen" soll eigentlich der § 49 (1) StVZO verhindern, da heisst es klipp und klar: "Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt." Aber diese sehr sinnvolle Regelung wurde schon vor Jahren durch die Einführung der EU-Typzulassung unwirksam gemacht. Sehr schade! Der § 49 (1) StVZO muss unbedingt wieder wirksam gemacht werden, und zwar für alle Fahrzeuge in Deutschland.
 
-Leider ist die Lobby der Krach-Fetischisten sehr viel besser organisiert (z.B. in Industrie- oder Motorradverbänden) als die Lärm-Leidtragenden. Ein Kampf David gegen Goliath. Es gibt viele Motorräder, die sind nicht lauter als 60 dB, aber Motorradverbände behaupten allen ernstes, eine Lärmgrenze von 80 dB (das ist 4 x lauter als 60 dB) wäre technisch nicht machtbar.
+Leider ist die Lobby der Krach-Fetischisten sehr viel besser organisiert (z.B. in Industrie- oder Motorradverbänden) als die Lärm-Leidtragenden. Ein Kampf David gegen Goliath. Es gibt Motorräder, die sind nicht lauter als 70 dB, aber Motorradverbände behaupten allen ernstes, eine Lärmgrenze von 80 dB (das ist doppelt so laut wie 70 dB) wäre technisch nicht machtbar.
 
 Was übrigens - anders als viele denken - keine Lösung ist, ist der Ruf nach mehr Polizeikontrollen. Wer mit Polizisten darüber spricht, der erfährt sehr schnell, dass der Polizei aufgrund der löchrigen Lärmvorschriften die Hände gebunden sind. Viele Fahrzeuge, die der Laie als "manipuliert" empfindet, sind absolut legal. Das ist sehr frustrierend, auch für die Mitarbeiter der Polizeibehörden. 
 
