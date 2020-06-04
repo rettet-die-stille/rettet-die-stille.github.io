@@ -33,9 +33,19 @@ Am 22. Mai 2020 erschien in der Badischen Zeitung unter dem Titel "Für alle Ras
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xukunneqx){:target="_blank"}</span>
 
 
-
 Am 30. Mai 2020 erschien in der Badischen Zeitung unter dem Titel "Motorradlärm - Nur Tempolimit und Kontrollen helfen" ein Leserbrief mit den folgenden Textpassagen: 
 
 <i>"Seit es am Schauinsland nicht mehr dröhnt und knallt, müssen leider andere Gegenden den Lärm erdulden und das macht die Menschen auf Dauer immer aggressiver. Wer den Begriff Motorradlärm in eine Suchmaschine gibt, wird feststellen, dass es bereits auf gefährliche Eskalationen zwischen Bewohnern und Bikern zusteuert. Im Odenwald zum Beispiel geht inzwischen schon die Angst bei Motorradfahrern um, dass Anwohner zur Selbstjustiz greifen könnten. Dass dies inakzeptabel ist, steht völlig außer Frage, aber wenn Einwohner über Jahre hinweg "terrorisiert" werden und sie keine sicht-/hörbaren Veränderungen erkennen können, sind solche "wirre Gedanken" vorprogrammiert."</i>
 
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xnsfm6tix--185972104.html){:target="_blank"}</span>
+
+
+Am 1. Juni hat die Badische Zeitung das Thema Motorradlärm in einen redaktionellen Beitrag unter dem Titel "Wie die Motorradlärm-Debatte die Wirte auf dem Hotzenwald spaltet". Der Artikel ist sehr lesenswert. Unter anderem findet man dort eine Erklärung für den Motorrad-Tourismus aus der Schweiz.
+
+<i>"Auch zwei junge Zürcher: Sebastian P. (24) und Oliver K. (22). Sie wollen den ganzen Namen lieber nicht nennen, da wegen Corona Vergnügungsfahrten bis Mitte Juni untersagt sind. In den Schwarzwald fahren sie gerne, weil sie auf Landstraßen 100 Stundenkilometer fahren dürfen, statt 80 wie in der Schweiz. Zudem sind die Bußgelder geringer.</i>
+
+Weiter unten im Artikel wird dann eine Gruppe von Harley-Fahrern mit den folgenden Worten zitiert:
+
+<i>"Trotz ihres Lärmbewusstseins bricht bei der Gruppe immer wieder mal der Spaß an lauten Motoren durch. "Brumm, wumm, wumm, dieser tiefe archaische Sound, das ist wie am Lagerfeuer", versucht Martins seine Begeisterung zu erklären."</i>
+
+Den kompletten BZ-Beitrag findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/wie-die-motorradlaerm-debatte-die-wirte-auf-dem-hotzenwald-spaltet){:target="_blank"}</span>
