@@ -9,11 +9,11 @@ Am 16. April 2020 erschien in der Badischen Zeitung unter dem Titel <b>"Motorrä
 
 "Von Karfreitag bis Ostermontag war hier, trotz Grenzsperrung zur Schweiz, ein massiver Verkehr von Motorrädern und getunten Kfz. Ein großer Anteil deutlich zu laut und viel zu schnell. Für die Anwohner war es unerträglich. [...] Wenn man sich am Hochkopf das Geschehen anschaut, stellt man regelmäßig fest, dass Motorradfahrer auf dem Pass umdrehen, wieder ins Tal fahren und dann nach ca. 15 bis 20 Minuten wieder ankommen. Und das mehrmals."
 
- Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit  <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xmack7fqx--184823445.html)</span>
+ Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xmack7fqx--184823445.html){:target="_blank"}</span>
  
-Am 16. April 2020 erschien in der Badischen Zeitung unter dem Titel <b>"Motorräder und getunte KFZ - Für die Anwohner war es unerträglich"</b> ein Leserbrief unter anderem mit folgenden Textpassagen: 
+Am 18. April 2020 erschien in der Badischen Zeitung unter dem Titel <b>"Lärm in Todtmoos - Ein Fahrverbot für Motorräder muss her"</b> ein Leserbrief, in dem es unter anderem hieß: 
 
-"Von Karfreitag bis Ostermontag war hier, trotz Grenzsperrung zur Schweiz, ein massiver Verkehr von Motorrädern und getunten Kfz. Ein großer Anteil deutlich zu laut und viel zu schnell. Für die Anwohner war es unerträglich. [...] Wenn man sich am Hochkopf das Geschehen anschaut, stellt man regelmäßig fest, dass Motorradfahrer auf dem Pass umdrehen, wieder ins Tal fahren und dann nach ca. 15 bis 20 Minuten wieder ankommen. Und das mehrmals."
+"Trotz Corona-Zeiten wurde die Wanderung jäh gestört von ekelhaftem, lautem und störendem Motorenlärm. Bewegt man sich auf Anhöhen oder markanten Orten wie dem Bildsteinfelsen, wird das Genießen der Natur, Vogelgezwitscher, Rauschen des Waldes durch den Wind oder einfach die absolute Ruhe immer wieder gestört von lautem, aggressivem Motorenlärm. [...] Meiner Meinung nach ist ein Fahrverbot an Samstagen und Sonntagen für Motorräder unumgänglich. Nur so kann man die Bewohner und den Schwarzwald schützen."
 
- Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit  <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xmack7fqx--184823445.html)</span>
+ Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-x3seqfiax--184886863.html){:target="_blank"}</span>
  
