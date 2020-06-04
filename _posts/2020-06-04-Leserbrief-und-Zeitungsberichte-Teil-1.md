@@ -7,21 +7,21 @@ shorttext: "Kaum ein Tag vergeht, in dem in den lokalen Medien nicht ein Leserbr
 
 Die folgende Auflistung der Leserbrief und redaktionellen Berichte beginnt am 16. April. Natürlich waren schon vor diesem Datum hunderte von Berichten erschienen.
 
-Am 16. April 2020 erschien in der Badischen Zeitung unter dem Titel "Für die Anwohner war es unerträglich" ein Leserbrief unter anderem mit folgenden Textpassagen: 
+<b>Am 16. April 2020 erschien in der Badischen Zeitung unter dem Titel "Für die Anwohner war es unerträglich" ein Leserbrief unter anderem mit folgenden Textpassagen:</b>
 
 <i>"Von Karfreitag bis Ostermontag war hier, trotz Grenzsperrung zur Schweiz, ein massiver Verkehr von Motorrädern und getunten Kfz. Ein großer Anteil deutlich zu laut und viel zu schnell. Für die Anwohner war es unerträglich. [...] Wenn man sich am Hochkopf das Geschehen anschaut, stellt man regelmäßig fest, dass Motorradfahrer auf dem Pass umdrehen, wieder ins Tal fahren und dann nach ca. 15 bis 20 Minuten wieder ankommen. Und das mehrmals."</i>
 
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xmack7fqx--184823445.html){:target="_blank"}</span>
  
 <br />
-Am 18. April 2020 erschien in der Badischen Zeitung unter dem Titel "Ein Fahrverbot für Motorräder muss her" ein Leserbrief, in dem es unter anderem hieß: 
+<b>Am 18. April 2020 erschien in der Badischen Zeitung unter dem Titel "Ein Fahrverbot für Motorräder muss her" ein Leserbrief, in dem es unter anderem hieß:</b>
 
 <i>"Trotz Corona-Zeiten wurde die Wanderung jäh gestört von ekelhaftem, lautem und störendem Motorenlärm. Bewegt man sich auf Anhöhen oder markanten Orten wie dem Bildsteinfelsen, wird das Genießen der Natur, Vogelgezwitscher, Rauschen des Waldes durch den Wind oder einfach die absolute Ruhe immer wieder gestört von lautem, aggressivem Motorenlärm. [...] Meiner Meinung nach ist ein Fahrverbot an Samstagen und Sonntagen für Motorräder unumgänglich. Nur so kann man die Bewohner und den Schwarzwald schützen."</i>
 
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-x3seqfiax--184886863.html){:target="_blank"}</span>
 
 <br />
-Am 28. April 2020 erschien in der Badischen Zeitung unter dem Titel "Von Polizeikontrollen meilenweit entfernt" ein Leserbrief, in dem es unter anderem hieß: 
+<b>Am 28. April 2020 erschien in der Badischen Zeitung unter dem Titel "Von Polizeikontrollen meilenweit entfernt" ein Leserbrief, in dem es unter anderem hieß:</b>
 
 <i>"Fünf bis zehn Motorradfahrer hintereinander lassen sich problemlos beobachten. Man sucht vergeblich die Polizeikontrollen. Waren es vor der Corona-Krise zusätzlich unsere Schweizer Nachbarn, die mit Gedröhne durch die herrliche Landschaft rasten, so lässt sich jetzt bei Grenzschließung feststellen, dass wir auch ohne Hilfe unserer Grenznachbarn in der Lage sind, den Lärmpegel nahezu konstant hoch zu halten. [...] Ich würde mir eine Stellungnahme der zuständigen Behörden wünschen, warum wir hier auf dem Berg keinen Anspruch auf Verkehrssicherheit und Einhaltung der Lärmgrenzwerte haben"</i>
 
