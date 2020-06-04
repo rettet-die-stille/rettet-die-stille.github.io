@@ -54,7 +54,7 @@ Den kompletten BZ-Beitrag findet man online auf dem Portal der Badischen Zeitung
 
 
 <br />
-<b>Am 2. Juni berichtet die Badische-Zeitung von einem schweren Motorradunfall unter dem Titel "Schweizer Motorradfahrer in Todtmoos verunglückt". Das ist eine traurige Nachricht, allerdings muss auch erwähnt werdem, dass zu diesem Zeitpunkt für Schweizer touristische Ausflugsfahrten in Deutschland eingentlich verboten waren.</b>
+<b>Am 2. Juni berichtet die Badische-Zeitung von einem schweren Motorradunfall unter dem Titel "Schweizer Motorradfahrer in Todtmoos verunglückt". Das ist eine traurige Nachricht, allerdings muss auch erwähnt werden, dass zu diesem Zeitpunkt für Schweizer touristische Ausflugsfahrten in Deutschland eingentlich verboten waren.</b>
 
 <i>"Gegen 13.15 Uhr hatte der Motorradfahrer nach Polizeiangaben in einer Kurve die Kontrolle verloren und war gestürzt. Er und seine Mitfahrerin rutschten von der Straße eine Böschung hinunter. Neben dem Rettungsdienst und der Polizei war auch die Bergwacht im Einsatz, um die Verletzten zu versorgen und zu retten."</i>
 
