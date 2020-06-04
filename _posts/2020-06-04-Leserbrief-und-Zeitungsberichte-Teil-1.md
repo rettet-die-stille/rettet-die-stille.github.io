@@ -11,17 +11,28 @@ Am 16. April 2020 erschien in der Badischen Zeitung unter dem Titel "Für die An
 
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xmack7fqx--184823445.html){:target="_blank"}</span>
  
+
 Am 18. April 2020 erschien in der Badischen Zeitung unter dem Titel "Ein Fahrverbot für Motorräder muss her" ein Leserbrief, in dem es unter anderem hieß: 
 
 <i>"Trotz Corona-Zeiten wurde die Wanderung jäh gestört von ekelhaftem, lautem und störendem Motorenlärm. Bewegt man sich auf Anhöhen oder markanten Orten wie dem Bildsteinfelsen, wird das Genießen der Natur, Vogelgezwitscher, Rauschen des Waldes durch den Wind oder einfach die absolute Ruhe immer wieder gestört von lautem, aggressivem Motorenlärm. [...] Meiner Meinung nach ist ein Fahrverbot an Samstagen und Sonntagen für Motorräder unumgänglich. Nur so kann man die Bewohner und den Schwarzwald schützen."</i>
 
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-x3seqfiax--184886863.html){:target="_blank"}</span>
 
+
 Am 28. April 2020 erschien in der Badischen Zeitung unter dem Titel "Von Polizeikontrollen meilenweit entfernt" ein Leserbrief, in dem es unter anderem hieß: 
 
 <i>"Fünf bis zehn Motorradfahrer hintereinander lassen sich problemlos beobachten. Man sucht vergeblich die Polizeikontrollen. Waren es vor der Corona-Krise zusätzlich unsere Schweizer Nachbarn, die mit Gedröhne durch die herrliche Landschaft rasten, so lässt sich jetzt bei Grenzschließung feststellen, dass wir auch ohne Hilfe unserer Grenznachbarn in der Lage sind, den Lärmpegel nahezu konstant hoch zu halten. [...] Ich würde mir eine Stellungnahme der zuständigen Behörden wünschen, warum wir hier auf dem Berg keinen Anspruch auf Verkehrssicherheit und Einhaltung der Lärmgrenzwerte haben"</i>
 
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xki3b7yix--185178804.html){:target="_blank"}</span>
+
+
+Am 22. Mai 2020 erschien in der Badischen Zeitung unter dem Titel "Für alle Raser Grenzen wieder schließe" ein Leserbrief, aus dem das folgende Zitat steht: 
+
+<i>"Ein zweifelhafter Segen der Grenzöffnung zur Schweiz war schon Sonntagvormittags zu erleben. Eine etwa zehnköpfige Gruppe Motorradfahrer mit Zürcher Kennzeichen suchte den Hotzenwald heim mit gnadenlosem Lärm und klarer Missachtung von Tempolimits. Sie hatten wohl alle einen "triftigen" Grund für den Grenzübertritt, mussten sie doch den Wettbewerb mit der schwäbischen Lärm- und Raserverwandtschaft frühestmöglich wieder aufnehmen und ihnen zeigen, wo der Hammer hängt."</i>
+
+Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xukunneqx){:target="_blank"}</span>
+
+
 
 Am 30. Mai 2020 erschien in der Badischen Zeitung unter dem Titel "Motorradlärm - Nur Tempolimit und Kontrollen helfen" ein Leserbrief mit den folgenden Textpassagen: 
 
