@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Motorradlärm im Hochschwarzwald. Leserbriefe und Zeitungsberichte"
+title: "Leserbriefe und Zeitungsberichte Teil 1"
 date: 2020-06-04
 shorttext: "Kaum ein Tag vergeht, in dem in den lokalen Medien nicht ein Leserbrief oder Bericht über Motorradfahrer erscheint. Viel zu oft sind es Berichte über Tote oder Schwerverletzte, die auf den Rennstrecken rund um B 500, B 317 und B31 verunglücken. Und mindestens genauso oft gibt es redaktionelle Beiträge oder Leserbriefe, in dem Menschen über ihren verzweifelten Kampf gegen den Lärm berichten."
 ---
