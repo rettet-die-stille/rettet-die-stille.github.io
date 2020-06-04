@@ -40,9 +40,9 @@ Am 30. Mai 2020 erschien in der Badischen Zeitung unter dem Titel "Motorradlärm
 Den kompletten Leserbrief findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/leserbriefe-xnsfm6tix--185972104.html){:target="_blank"}</span>
 
 <br />
-Am 1. Juni hat die Badische Zeitung das Thema Motorradlärm in einen redaktionellen Beitrag unter dem Titel "Wie die Motorradlärm-Debatte die Wirte auf dem Hotzenwald spaltet". Der Artikel ist sehr lesenswert. Unter anderem findet man dort eine Erklärung für den Motorrad-Tourismus aus der Schweiz.
+Am 1. Juni bringt die Badische Zeitung das Thema Motorradlärm in einem redaktionellen Beitrag unter dem Titel "Wie die Motorradlärm-Debatte die Wirte auf dem Hotzenwald spaltet". Der Artikel ist sehr lesenswert. Unter anderem findet man dort eine Erklärung für den Motorrad-Tourismus aus der Schweiz.
 
-<i>"Auch zwei junge Zürcher: Sebastian P. (24) und Oliver K. (22). Sie wollen den ganzen Namen lieber nicht nennen, da wegen Corona Vergnügungsfahrten bis Mitte Juni untersagt sind. In den Schwarzwald fahren sie gerne, weil sie auf Landstraßen 100 Stundenkilometer fahren dürfen, statt 80 wie in der Schweiz. Zudem sind die Bußgelder geringer.</i>
+<i>"Auch zwei junge Zürcher: Sebastian P. (24) und Oliver K. (22). Sie wollen den ganzen Namen lieber nicht nennen, da wegen Corona Vergnügungsfahrten bis Mitte Juni untersagt sind. In den Schwarzwald fahren sie gerne, weil sie auf Landstraßen 100 Stundenkilometer fahren dürfen, statt 80 wie in der Schweiz. Zudem sind die Bußgelder geringer."</i>
 
 Weiter unten im Artikel wird dann eine Gruppe von Harley-Fahrern mit den folgenden Worten zitiert:
 
@@ -52,7 +52,15 @@ Den kompletten BZ-Beitrag findet man online auf dem Portal der Badischen Zeitung
 
 
 <br />
-Schon zwei Tage später, am 3. Juni hat die Badische Zeitung das Thema Motorradlärm erneut in einen redaktionellen Beitrag unter dem Titel "Wie Kommunen im Hochschwarzwald Motorradlärm reduzieren wollen". Darin findet sich u.a. die folgende Textpassage:
+Am 2. Juni berichtet die Badische-Zeitung von einem schweren Motorradunfall unter dem Titel "Schweizer Motorradfahrer in Todtmoos verunglückt". Das ist eine traurige Nachricht, allerdings muss auch erwähnt werdem, dass zu diesem Zeitpunkt für Schweizer touristische Ausflugsfahrten in Deutschland eingentlich verboten waren.
+
+<i>"Gegen 13.15 Uhr hatte der Motorradfahrer nach Polizeiangaben in einer Kurve die Kontrolle verloren und war gestürzt. Er und seine Mitfahrerin rutschten von der Straße eine Böschung hinunter. Neben dem Rettungsdienst und der Polizei war auch die Bergwacht im Einsatz, um die Verletzten zu versorgen und zu retten."</i>
+
+Die BZ-Meldung findet man online auf dem Portal der Badischen Zeitung mit <span style="text-decoration: underline;">[diesem Link](https://www.badische-zeitung.de/schweizer-motorradfahrer-in-todtmoos-verunglueckt?cx_testId=6&cx_testVariant=cx_15&cx_artPos=0#cxrecs_s){:target="_blank"}</span>
+
+
+<br />
+Ein Tag später, am 3. Juni hat die Badische Zeitung das Thema Motorradlärm erneut in einen redaktionellen Beitrag unter dem Titel "Wie Kommunen im Hochschwarzwald Motorradlärm reduzieren wollen" aufgenommen. Darin findet sich u.a. die folgende Textpassage:
 
 <i>"Doch die Freude ende da, wo eine Minderheit ihren Spaß auf Kosten der Mehrheit auslebe. "Mehr und mehr Beschwerden sind im Rathaus wegen Motorradlärms angekommen", sagt Manfred Kreutz. Er habe deshalb entschieden, als Gemeinde der Initiative Motorradlärm beizutreten. Feldberg ist bereits im vergangenen Jahr Mitglied geworden, Schluchsee im März. Man verspreche sich Lösungsansätze dort, wo das Problem beginnt: bei den zulässigen Lärmwerten und damit dem Bau der Maschinen. "Das muss auf Bundes- oder gar Europaebene geklärt werden", macht Jürgen Kaiser deutlich."</i>
 
