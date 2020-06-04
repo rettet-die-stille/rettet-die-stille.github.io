@@ -72,10 +72,10 @@ PS: Spannend bei diesem Artikel sind auch die Ausführungen eines Online-Komment
 
 <i>"Tatsache ist aber, dass es die CDU/CSU war, die maßgeblich die Reform der StVO von 2014 gegen die Grünen und die SPD vorantrieb und sich dann auch durchsetzte.
 
-Was galt vor der Reform:
+<i>Was galt vor der Reform:</i>
 
-Klappenauspuffe waren verboten und so waren Serienmaschinen sehr leise. Wer daran herumbastelte und erwischt wurde kassierte Punkte in Flensburg und fuhr nach einer Polizeikontrolle keinen Meter mehr weiter, musste es an Ort und Stelle reparieren oder das Motorrad mit dem Hänger abholen und das war auch gut so.
+<i>Klappenauspuffe waren verboten und so waren Serienmaschinen sehr leise. Wer daran herumbastelte und erwischt wurde kassierte Punkte in Flensburg und fuhr nach einer Polizeikontrolle keinen Meter mehr weiter, musste es an Ort und Stelle reparieren oder das Motorrad mit dem Hänger abholen und das war auch gut so.</i>
 
-Was gilt seit 2014:
+<i>Was gilt seit 2014:</i>
 
-Klappen Auspuffanlagen wurden erlaubt und so gibt es seither kaum mehr Serienmotorräder ohne diese Klappen. Das heißt, dass das Motorrad bei einer bestimmten Drehzahl, bei der er für die Erstzulassung getestet wird, leise ist, aber in hohen Drehzahlen extrem laut wird. Der Schalldämpfer wird sozusagen ab einer vom Hersteller festgelegten Drehzahl deaktiviert und der Abgasstrom wird am Dämpfer vorbeigeführt."</i>
+<i>Klappen Auspuffanlagen wurden erlaubt und so gibt es seither kaum mehr Serienmotorräder ohne diese Klappen. Das heißt, dass das Motorrad bei einer bestimmten Drehzahl, bei der er für die Erstzulassung getestet wird, leise ist, aber in hohen Drehzahlen extrem laut wird. Der Schalldämpfer wird sozusagen ab einer vom Hersteller festgelegten Drehzahl deaktiviert und der Abgasstrom wird am Dämpfer vorbeigeführt."</i>
