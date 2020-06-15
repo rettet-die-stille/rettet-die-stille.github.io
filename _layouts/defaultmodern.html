@@ -138,11 +138,19 @@ layout: default
         integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" 
         crossorigin="anonymous">
       </script>
-    <script src="jquery.cookieBar.min.js"></script>
+    <script src="/assets/cookie/jquery.cookieBar.min.js"></script>
     <script>
       $(function() {
+        $.cookieBar('addTranslation', 'de', {
+          message:	'Zur Bereitstellung von Diensten verwenden wir Cookies. Durch die Nutzung dieser Website stimmen Sie zu.',
+          acceptText:	'OK',
+          infoText:	'Mehr Informationen',
+          privacyText:	'Datenschutz'
+        });
         $.cookieBar({
-          style: 'bottom'
+          style: 'bottom',
+          infoLink: "https://www.rettet-die-stille.de/impressum.html",
+          language: 'de'
         });
       });
     </script>
