@@ -70,7 +70,7 @@ gelten im jeweiligen Einzelfall die besonderen Nutzungsbedingungen.
 Quelle: Impressum Muster von JuraForum.de
 
 
-<h4>Datenschutzerklärung</h4>
+<h1>Datenschutzerklärung</h1>
 
 <p>Wir freuen uns sehr über Ihr Interesse an unserer Website. Datenschutz hat einen besonders hohen Stellenwert für die Betreiber von Rettet die Stille. Eine Nutzung der Internetseiten der Rettet die Stille ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unserer Inititiatve über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.</p>
 
