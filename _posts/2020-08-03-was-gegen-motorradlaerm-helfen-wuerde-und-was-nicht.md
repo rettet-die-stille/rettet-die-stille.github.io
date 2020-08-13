@@ -21,7 +21,7 @@ Man könnte zum Beispiel festlegen, dass ein Fahrzeug in allen Fahrsituationen (
 
 Generelle Fahrverbote für Motorräder sind Unsinn und sind auch nicht durchsetzbar! Die Mehrheit der vernünftigen Fahrer würde für die Rücksichtslosigkeit einer Minderheit bestraft.
 
-## Fahrverbote für extra laute Fahrzeuge?
+## Fahrverbote für extralaute Fahrzeuge?
 
 Das ist ein guter Schritt und in <span style="text-decoration: underline;">[Tirol](https://www.motorradonline.de/ratgeber/fahrverbote-oesterreich-offiziell-bestaetigt-laute-bikes-tirol-95-db-2020){:target="_blank"}</span> wird das ja schon erfolgreich gemacht!
 
@@ -33,7 +33,7 @@ Man würde festlegen, dass alle Fahrzeuge (übrigens Motorräder und Sportwagen 
 * Die oft zitierte Gastronomie in den Tourismusregionen würde maximal 10-20% der Motorradfahrer verlieren. Aber das sind ja genau die Fahrzeuge, die heute andere Gäste davon abhalten, sich überhaupt noch in einen an einer Straße gelegenen Gastronomiebetriebe zu setzen. Der Effekt dürften also für den Gastronom positiv ausfallen. Ein paar weniger Motorradfahrer, aber dafür mehr Gäste, die sich über die neu gewonnene Ruhe freuen. Und weiterhin die 80-90% der Motorradfahrer als zahlende Gäste.
 * Fahrzeugführer mit einem zu lauten Fahrzeug können die Fahrverbote jederzeit legal "umgehen". Ganz einfach, in dem sie Geld für eine leisere Auspuffanlage ausgeben und sich den neuen Standgeräusch-Wert im KfZ eintragen lassen (bislang geben einige ja eher Geld dafür aus, sich um lautere Auspuff-Anlagen zu montieren, müsste also auch umgekehrt funktionieren).
 * Man braucht keine neuen technischen Normen, Messverfahren, etc. Die Regelung kann also kurzfristig umgesetzt werden  
-* Die Polizei kann ganz einfach kontrollieren. Zum einem würde sie auf den für extra laute Fahrzeuge gesperrte Strecken stichprobenartig Fahrzeuge herausziehen und einfach nur den KFZ-Schein kontrollieren. Zudem kann sie bei verdächtig lauten Fahrzeugen den heute schon praktizierten Standgeräusch-Test machen.
+* Die Polizei kann ganz einfach kontrollieren. Zum einem würde sie auf den für extralaute Fahrzeuge gesperrte Strecken stichprobenartig Fahrzeuge herausziehen und einfach nur den KFZ-Schein kontrollieren. Zudem kann sie bei verdächtig lauten Fahrzeugen den heute schon praktizierten Standgeräusch-Test machen.
 * Ganz wichtig: die vielen lauten Bestandsfahrzeuge sind vollumfänglich erfasst. Man muss also nicht warten, bis die in 10 oder 20 Jahren aus Altersgründen aus dem Verkehr genommen werden. Es wird also sofort zu einer dramatischen Verbesserung der Situation kommen.
 * Die Regelung scheint konform mit EU-Gesetzen zu sein. Schließlich ist Österreich in der EU und bislang hat keiner argumentiert, die Tiroler Regelung verstoße gegen EU-Recht.
 * Die 80-90 % Biker, die heute schon leise fahren, werden diese Regelung gerne unterstützen. Ergo: die 10 bis 20% extralauten Radau-Fahrer stehen plötzlich alleine auf dem Feld.
