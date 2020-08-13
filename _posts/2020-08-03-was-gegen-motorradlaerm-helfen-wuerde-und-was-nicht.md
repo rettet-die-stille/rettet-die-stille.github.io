@@ -2,7 +2,7 @@
 layout: post
 title: "Was gegen Motorradlaerm helfen würde und was nicht"
 date: 2020-08-03
-shorttext: "Es gibt viele Vorschläge und Meinungen, was man gegen ausuferenden Motorrad- und Fahrzeuglärm machen könnte. Nicht alle sind effektiv. So geht z.B. der Ruf nach mehr Polizei-Kontrollen in Leere, schlicht weil die gesetzlichen Grundlagen desaströs sind. Im nachfolgenden Beitrag erfolgt eine Bewertung möglicher Maßnahmen."
+shorttext: "Es gibt viele Vorschläge und Meinungen, was man gegen den ausuferenden Motorrad- und Fahrzeuglärm tun könnte. Nicht alle sind effektiv. So geht z.B. der Ruf nach mehr Polizei-Kontrollen in Leere, schlicht weil die gesetzlichen Grundlagen desaströs sind. Im nachfolgenden Beitrag erfolgt eine Bewertung möglicher Maßnahmen."
 ---
 
 ### Mehr Polizeikontrollen?
@@ -34,7 +34,7 @@ Man würde festlegen, dass alle Fahrzeuge (übrigens Motorräder und Sportwagen 
 * Die Regelung scheint konform mit EU-Gesetzen zu sein. Schließlich ist Österreich in der EU und bislang hat keiner argumentiert, die Tiroler Regelung verstoße gegen EU-Recht.
 * Die 80-90 % Biker, die heute schon leise fahren, werden diese Regelung gerne unterstützen. Ergo: die 10 bis 20% extralauten Radau-Fahrer stehen plötzlich alleine auf dem Feld.
 
-### Konsequente Anwendung des Paragraphen 1 der STVO.
+## Konsequente Anwendung des Paragraphen 1 der STVO.
 
 Neben den zulassungsbedingten Lärmschutzvorschriften gibt es in Deutschland auch noch verhaltensbezogene Vorschriften, z.B. den Paragraphen 1 (2) der StVO, der wie folgt lautet:
 
@@ -46,13 +46,15 @@ Dies wäre eine Grundlage, damit die Polizei einen Fahrer, der z.B. beim Beschle
 
 Dazu folgende Erläuterung: Ein Fahrzeug, das laut Zulassung im KFZ-Schein 200 km/h fahren darf, hat damit ja auch noch nicht automatisch das Recht erwirkt, dass es z.B. innerhalb geschlossener Ortschaften schneller als 50 km/h fahren darf. Genauso sollten gelten, dass ein Fahrzeug, dass laut Zulassung z.B. 100 dB laut sein darf, diese maximale Geräuschentwicklung durch das Verhalten des Fahrers nur dann entfalten darf, wenn man nicht z.B. durch ein bewohntes Gebiet oder ein Erholungsgebiet fährt. Wenn es also in diesem Gebieten möglich ist, ohne Ausnutzung des vollen Lärmpotentials die Strecke zu befahren, dann müsste das verpflichtend sein und ein entsprechender Verstoß müsste nach den Vorgaben des BGH-Beschlusses (also ohne Lärmmessgerät) kontrolliert und ggfs. geahndet werden können.
 
-### Anwendung des Paragraph 49 (1) StVZO auf Fahrzeuge mit EU-Typgenehmigung
+## Anwendung des Paragraph 49 (1) StVZO auf Fahrzeuge mit EU-Typgenehmigung
 
 Es gibt im deutschen Recht den Paragraph 49 (1) StVZO. Er lautet wie folgt:
 
 "Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt."
 
-Allerdings gilt der nicht für Fahrzeuge mit EU-Typgenehmigung. Hier bricht EU-Recht leider das Bundesrecht. Nachdem die Fahrzeugindustrie das entdeckt hatte, begann der Unsinn mit Sound-Management, Klappenauspuffanlagen, Außenlautsprechern und künstlichen Fehlzündungen. Das sind alles Einrichtungen, die ein leises Fahrzeug absichtlich laut machen. Die gehören verboten, auch unter EU-Recht.
+Allerdings gilt der nicht für Fahrzeuge mit EU-Typgenehmigung. Hier bricht EU-Recht leider das Bundesrecht. Nachdem die Fahrzeugindustrie das entdeckt hatte, begann der Unsinn mit Sound-Management, Klappenauspuffanlagen, Außenlautsprechern und künstlichen Fehlzündungen. Das sind alles Einrichtungen, die ein leises Fahrzeug absichtlich laut machen. Die gehören verboten!
+
+Auch unter EU-Recht muss gelten: "Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt."
 
 
 
