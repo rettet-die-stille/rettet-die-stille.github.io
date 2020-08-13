@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regierungspräsidium Freiburg widerspricht dem Bundesverkehrsministerium"
-date: 2020-06-07
+date: 2020-08-08
 shorttext: "Spiegel online berichtet im Kontext der diskutierten Streckensperrungen über die Aussage des Bundesverkehrsministeriums, dass die zuständigen Straßenverkehrsbehörden aus Lärmschutzgründen schon jetzt die Möglichkeit hätten, die Benutzung bestimmter Straßen oder Straßenstrecken zu beschränken oder den Verkehr umzuleiten. Das Regierungspräsidium Freiburg erteilte dem jetzt eine klare Absage."
 ---
 
