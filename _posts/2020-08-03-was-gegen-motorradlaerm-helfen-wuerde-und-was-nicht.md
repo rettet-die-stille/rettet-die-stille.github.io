@@ -66,12 +66,12 @@ Auch unter EU-Recht muss gelten: "Kraftfahrzeuge und ihre Anhänger müssen so b
 
 Ansonsten muss man sich schon fragen, warum wir Deutschland und EU-weit zig Millarden für Lärmschutzmassnahmen und für die Behandlung lärmbedingter Gesundheitsschäden ausgeben, aber gleichzeitig per Gesetz die absichtliche Erzeugung von unnötigem Lärm erlauben.
 
-## Von den Schweizern lernen!
+## Von den Schweizern lernen: Tempo 80
 
 In der Schweiz gilt für Motorräder außerorts ein Geschwindigkeitslimit von 80 Km/h. Nur auch Schnellstraßen bzw. Autobahnen darf man schneller als 80 km/h fahren. Auf normalen Straßen (z.B. in Erholungs- und Naturgebieten) ist es also schon deshalb ruhiger als bei uns in Deutschland. 
 
-(Hinzu kommt die Reduzierung der Unfallfolgen: Solange Motorräder keine Knautschzonen und keine Sicherheitsgurte haben, erfordert doch schon die Fürsorgepflicht des Staates, die maximale Geschwindigkeit für Motorräder in Deutschland nach dem Vorbild der Schweiz auf 80 km/h zu reduzieren.)
+Zudem werden in der Schweiz die Verstöße gegen Tempolimits und Lärmbestimmungen deutlich drastischer bestraft als in Deutschland.
 
-Außerdem werden in der Schweiz die Verstöße gegen Fahrgebote und Lärmbestimmungen deutlich drastischer bestraft als in Deutschland.
+Für die Zweirad-Tempolimitierung auf 80 km/h spricht natürlich auch der zu erwartende deutliche Rückgang der Anzahl Unfalltoten und Schwerverletzten. Solange Motorräder keine Knautschzonen und keine Sicherheitsgurte haben, erfordert eigentlich schon die Fürsorgepflicht des Staates, die maximale Geschwindigkeit für Motorräder nach dem Vorbild der Schweiz auf 80 km/h zu reduzieren.
 
-Zudem gilt: Solange die deutschen Regeln nicht an die schweizer Regeln angepasst werden, kommt es zu einem zunehmenden Motorrad-Tourismus der schweizer Motorrad-Fahrer in die angrenzenden deutschen Gebiete, z.B. in den Schwarzwald. Dadurch stärkt der Lärm hier noch mehr an.
+Zudem gilt: Solange die deutschen Regeln nicht an die Schweizer Regeln angepasst werden, kommt es zu einem zunehmenden Motorrad-Tourismus der Schweizer Motorrad-Fahrer in die angrenzenden deutschen Gebiete, z.B. in den Schwarzwald. Dadurch stärkt der Lärm hier noch mehr an.
