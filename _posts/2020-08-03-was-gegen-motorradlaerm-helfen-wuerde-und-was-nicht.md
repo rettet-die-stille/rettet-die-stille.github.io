@@ -74,4 +74,4 @@ In der Schweiz gilt für Motorräder außerorts ein Geschwindigkeitslimit von 80
 
 Außerdem werden in der Schweiz die Verstöße gegen Fahrgebote und Lärmbestimmungen deutlich drastischer bestraft als in Deutschland.
 
-Zudem gilt: Solange die deutschen Regeln nicht an die schweizer Regeln angepasst werden, kommt es zu einem zunehmenden Motorrad-Tourismus der schweizer Motorrad-Fahrer in die angrenzenden deutschen Gebiete, z.B. in den Schwarzwald. Dadurch stärkt der Lärm dort weiter an.
+Zudem gilt: Solange die deutschen Regeln nicht an die schweizer Regeln angepasst werden, kommt es zu einem zunehmenden Motorrad-Tourismus der schweizer Motorrad-Fahrer in die angrenzenden deutschen Gebiete, z.B. in den Schwarzwald. Dadurch stärkt der Lärm hier noch mehr an.
