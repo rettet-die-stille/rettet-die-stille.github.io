@@ -7,7 +7,9 @@ shorttext: "Spiegel online berichtet im Kontext der diskutierten Streckensperrun
 
 Spiegel online <span style="text-decoration: underline;">[zitiert](https://www.spiegel.de/auto/fahrkultur/motorraeder-andreas-scheuer-unterstuetzt-proteste-gegen-motorrad-fahrverbote-a-a68b30cb-7f75-466d-8686-0c5faffd9d8b){:target="_blank"}</span> das Bundesverkehrsministerium mit der Aussage: "Das Bundesverkehrsministerium teilte dazu mit, die zuständigen Straßenverkehrsbehörden könnten die konkrete Lage vor Ort am besten einschätzen und aus Lärmschutzgründen im Einzelfall entsprechende Maßnahmen anordnen. Sie hätten zum Beispiel bereits jetzt die Möglichkeit, die Benutzung bestimmter Straßen oder Straßenstrecken zu beschränken oder den Verkehr umzuleiten."
 
-Konfrontiert man das Regierungspräsidium Freiburg mit dieser Aussage, so erhält man unter anderem die folgenden Aussagen, die ein ganz anderes Bild der Möglichkeiten vermitteln.
+Konfrontiert man das Regierungspräsidium Freiburg mit dieser Aussage, so erhält man unter anderem die folgenden Aussagen, die ein ganz anderes Bild der Möglichkeiten vermitteln. 
+
+Wörtlich heißt es im Schreiben des Regierungspräsidiums:
 
 "Streckensperrungen für Motorräder aus Lärmschutzgründen kommen, selbst wenn der Motorradverkehr gegenüber dem sonstigen Verkehr temporär deutlich überwiegt, in der Regel aus Gründen der Verhältnismäßigkeit nicht in Betracht, da dies zur Verdrängung des Verkehrs in andere, ggf. ebenso schützenswerte Bereiche führt."
 
