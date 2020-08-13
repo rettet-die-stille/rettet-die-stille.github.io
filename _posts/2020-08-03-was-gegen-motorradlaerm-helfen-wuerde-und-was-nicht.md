@@ -70,8 +70,8 @@ Ansonsten muss man sich schon fragen, warum wir Deutschland und EU-weit zig Mill
 
 In der Schweiz gilt für Motorräder außerorts ein Geschwindigkeitslimit von 80 Km/h. Nur auch Schnellstraßen bzw. Autobahnen darf man schneller als 80 km/h fahren. Auf normalen Straßen (z.B. in Erholungs- und Naturgebieten) ist es also schon deshalb ruhiger als bei uns in Deutschland. 
 
-Hinzu kommt die Reduzierung der Unfallfolgen. Solange Motorräder keine Knautschzonen und keine Sicherheitsgurte haben, sollte der deutsche Staat aufgrund seiner Fürsorgepflicht die maximale Geschwindigkeit für Motorräder auf 80 km/h reduzieren.
+(Hinzu kommt die Reduzierung der Unfallfolgen: Solange Motorräder keine Knautschzonen und keine Sicherheitsgurte haben, erfordert doch schon die Fürsorgepflicht des Staates, die maximale Geschwindigkeit für Motorräder in Deutschland nach dem Vorbild der Schweiz auf 80 km/h zu reduzieren.)
 
-Zudem werden in der Schweiz die Verstöße gegen Fahrgebote und Lärmbestimmungen deutlich drastischer bestraft als in Deutschland.
+Außerdem werden in der Schweiz die Verstöße gegen Fahrgebote und Lärmbestimmungen deutlich drastischer bestraft als in Deutschland.
 
-Zudem gilt: Solange die deutschen Regeln nicht an die schweizer Regeln angepasst werden, kommt es zu einem zunehmenden Motorrad-Tourismus der Schweizer Motorrad-Fahrer in die angrenzenden Gebiete, z.B. in den Schwarzwald. Dadurch stärkt der Lärm dort weiter an.
+Zudem gilt: Solange die deutschen Regeln nicht an die schweizer Regeln angepasst werden, kommt es zu einem zunehmenden Motorrad-Tourismus der schweizer Motorrad-Fahrer in die angrenzenden deutschen Gebiete, z.B. in den Schwarzwald. Dadurch stärkt der Lärm dort weiter an.
