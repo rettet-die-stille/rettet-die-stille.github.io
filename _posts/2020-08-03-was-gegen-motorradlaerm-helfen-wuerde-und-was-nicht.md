@@ -5,19 +5,19 @@ date: 2020-08-03
 shorttext: "Es gibt viele Vorschläge und Meinungen, was man gegen den ausuferenden Motorrad- und Fahrzeuglärm tun könnte. Nicht alle sind effektiv. So geht z.B. der Ruf nach mehr Polizei-Kontrollen in Leere, schlicht weil die gesetzlichen Grundlagen desaströs sind. Im nachfolgenden Beitrag erfolgt eine Bewertung möglicher Maßnahmen."
 ---
 
-### Mehr Polizeikontrollen?
+## Mehr Polizeikontrollen?
 
 Die Polizei kann nur das Standgeräusch (Nahfeldmessmethode) messen und es mit dem Wert vergleichen, der im Fahrzeugschein steht. Wenn jemand an seinem Motorrad manipuliert hat, dann kann die Polizei das beanstanden und bestrafen. Damit werden die Motorradfahrer erwischt, die ihr Motorrad manipuliert haben. Aber wenn der Hersteller 105 dB eingetragen hat und 105 dB auch gemessen werden, dann ist alles gut. Mit anderen Worten: Die super lauten Motorräder dürfen weiterhin legal fahren. Das ist unbefriedigend und löst das Lärmproblem also nicht wirklich.
 
-### Strengere Zulassungsvorschriften?
+## Strengere Zulassungsvorschriften?
 
 Man könnte zum Beispiel festlegen, dass ein Fahrzeug in allen Fahrsituationen (nicht nur bei der Beschleunigung von 50 auf 80 km/h) die Lärmgrenze von 78 dB nicht überschreiten dürfen. (Das hat der Bundesrat jetzt ja auch gefordert). Allerdings bringen die Maßnahmen nur sehr langfristig etwas, da Motorräder durchaus 10 oder 20 Jahre gefahren werden. Und die alten Fahrzeuge haben Bestandsschutz. Kurz- und mittelfristig bringen strengere Zulassungsvorschriften also nicht die dringend notwendige Entlastung. Zudem wird die Gremienarbeit dazu erfahrungsgemäß 5, 10 oder noch mehr Jahre dauern, insbesondere da das ja ein EU-Thema ist (Stichwort: EU-Typgenehmigung).
 
-### Generelle Fahrverbote für Motorräder?
+## Generelle Fahrverbote für Motorräder?
 
 Generelle Fahrverbote für Motorräder sind Unsinn und sind auch nicht durchsetzbar! Die Mehrheit der vernünftigen Fahrer würde für die Rücksichtslosigkeit einer Minderheit bestraft.
 
-### Fahrverbote für extra laute Fahrzeuge?
+## Fahrverbote für extra laute Fahrzeuge?
 
 Das ist ein guter Schritt und in <span style="text-decoration: underline;">[Tirol](https://www.motorradonline.de/ratgeber/fahrverbote-oesterreich-offiziell-bestaetigt-laute-bikes-tirol-95-db-2020){:target="_blank"}</span> wird das ja schon erfolgreich gemacht!
 
@@ -55,7 +55,3 @@ Es gibt im deutschen Recht den Paragraph 49 (1) StVZO. Er lautet wie folgt:
 Allerdings gilt der nicht für Fahrzeuge mit EU-Typgenehmigung. Hier bricht EU-Recht leider das Bundesrecht. Nachdem die Fahrzeugindustrie das entdeckt hatte, begann der Unsinn mit Sound-Management, Klappenauspuffanlagen, Außenlautsprechern und künstlichen Fehlzündungen. Das sind alles Einrichtungen, die ein leises Fahrzeug absichtlich laut machen. Die gehören verboten!
 
 Auch unter EU-Recht muss gelten: "Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt."
-
-
-
-
