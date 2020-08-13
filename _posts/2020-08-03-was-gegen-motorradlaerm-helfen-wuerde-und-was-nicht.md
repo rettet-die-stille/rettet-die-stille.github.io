@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was gegen Motorradlaerm helfen würde und was nicht"
+title: "Was gegen Motorradlaerm helfen würde (und was nicht)"
 date: 2020-08-03
 shorttext: "Es gibt viele Vorschläge und Meinungen, was man gegen den ausufernden Motorrad- und Fahrzeuglärm tun könnte. Nicht alle sind effektiv. So geht z.B. der Ruf nach mehr Polizei-Kontrollen in Leere, schlicht weil die gesetzlichen Grundlagen desaströs sind. Im nachfolgenden Beitrag erfolgt eine Bewertung möglicher Maßnahmen."
 ---
