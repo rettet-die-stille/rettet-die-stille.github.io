@@ -64,4 +64,4 @@ Allerdings gilt der nicht für Fahrzeuge mit EU-Typgenehmigung. Hier bricht EU-R
 
 Auch unter EU-Recht muss gelten: "Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt.". 
 
-Ansonsten muss man sich schon fragen, warum wir Deutschland und EU-weit zig Millarden für Lärmschutzmassnahmen und für die Behandlung lärmbedingter Gesundheitsschäden ausgeben, aber Gleichzeitig per Gesetz die absichtliche Erzeugung von unnötigem Lärm erlauben.
+Ansonsten muss man sich schon fragen, warum wir Deutschland und EU-weit zig Millarden für Lärmschutzmassnahmen und für die Behandlung lärmbedingter Gesundheitsschäden ausgeben, aber gleichzeitig per Gesetz die absichtliche Erzeugung von unnötigem Lärm erlauben.
