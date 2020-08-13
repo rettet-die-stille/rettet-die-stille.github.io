@@ -11,7 +11,7 @@ Die Polizei kann nur das Standgeräusch (Nahfeldmessmethode) messen und es mit d
 
 Aber wenn der Hersteller im Fahrzeugschein 105 dB eingetragen bekommen hat und 105 dB auch gemessen werden, dann ist alles gut. Mit anderen Worten: Die superlauten Motorräder dürfen weiterhin legal fahren. Das ist unbefriedigend und löst das Lärmproblem also nicht wirklich. 
 
-Auf <span style="text-decoration: underline;">[dieser Website](https://www.motorradonline.de/ratgeber/laermfahrverbot-oesterreich-tirol-betroffene-modelle/){:target="_blank"}</span> kann man sehen, wieviele Motorräder es gibt, die die Grenze von 95 Dezibel (!) bereits im Standgeräusch überschreiten und in Deutschland trotzdem unbehelligt und legal fahren dürfen.
+Auf <span style="text-decoration: underline;">[dieser Website](https://www.motorradonline.de/ratgeber/laermfahrverbot-oesterreich-tirol-betroffene-modelle/){:target="_blank"}</span> kann man sehen, wieviele Motorräder es gibt, die die Grenze von 95 Dezibel (!) bereits im Standgeräusch überschreiten und in Deutschland trotzdem unbehelligt und legal fahren dürfen. (Hinweis: die verlinkte Seite runterscrollen, bis man zu den Lärmwerten der einzelnen Hersteller kommt)
 
 ## Strengere Zulassungsvorschriften?
 
