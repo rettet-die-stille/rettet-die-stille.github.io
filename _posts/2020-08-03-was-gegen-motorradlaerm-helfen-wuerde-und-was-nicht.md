@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Was gegen Motorradlaerm helfen würde (und was nicht)"
+title: "Was gegen Motorradlärm helfen würde (und was nicht)"
 date: 2020-08-03
 shorttext: "Es gibt viele Vorschläge und Meinungen, was man gegen den ausufernden Motorrad- und Fahrzeuglärm tun könnte. Nicht alle sind effektiv. So geht z.B. der Ruf nach mehr Polizei-Kontrollen in Leere, schlicht weil die gesetzlichen Grundlagen desaströs sind. Im nachfolgenden Beitrag erfolgt eine Bewertung möglicher Maßnahmen."
 ---
@@ -38,7 +38,7 @@ Man würde festlegen, dass alle Fahrzeuge (übrigens Motorräder und Sportwagen 
 * Die Regelung scheint konform mit EU-Gesetzen zu sein. Schließlich ist Österreich in der EU und bislang hat keiner argumentiert, die Tiroler Regelung verstoße gegen EU-Recht.
 * Die 80-90 % Biker, die heute schon leise fahren, werden diese Regelung gerne unterstützen. Ergo: die 10 bis 20% extralauten Radau-Fahrer stehen plötzlich alleine auf dem Feld.
 
-## Konsequente Anwendung des Paragraphen 1 der STVO.
+## Konsequente Anwendung des Paragraphen 1 der StVO.
 
 Neben den zulassungsbedingten Lärmschutzvorschriften gibt es in Deutschland auch noch verhaltensbezogene Vorschriften, z.B. den Paragraphen 1 (2) der StVO, der wie folgt lautet:
 
