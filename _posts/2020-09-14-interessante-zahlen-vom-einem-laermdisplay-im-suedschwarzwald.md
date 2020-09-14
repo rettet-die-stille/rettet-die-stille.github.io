@@ -5,17 +5,23 @@ date: 2020-09-14
 shorttext: "Das Landratsamt Lörrach hat auf einer beliebten Motorrad-Rennstrecke im Südschwarzwald ein Lärmdisplay mit intelligenter Sensorik aufgestellt. Das Messgerät an der L 151 in der Gemeinde Präg kann nicht nur die aktuell gefahrene Lautstärke, sondern auch die Geschwindigkeit und den Fahrzeugtyp erfassen."
 ---
 
-Mehrere Medien und auch die <span style="text-decoration: underline;">[Badische Zeitung](https://www.badische-zeitung.de/fast-40-prozent-sind-zu-laut-unterwegs){:target="_blank"}</span> berichten von den Ergebnissen. 
+Mehrere Medien und auch die <span style="text-decoration: underline;">[Badische Zeitung](https://www.badische-zeitung.de/fast-40-prozent-sind-zu-laut-unterwegs){:target="_blank"}</span> berichten von den Ergebnissen aus Präg. 
 
-Zum einem sind die Ortschaftsräte "erschüttert" über die Ergebnisse, denn die Lärmbelastung ist gewaltig. Und deshalb wollen sie auch dem Lärmschutzbeauftragten des Landes Baden-Württemberg Thomas Marwein die Zahlen bei seinem Besuch im Präger Gemeindehaus präsentieren. Er wird allerdings nur mit die Schultern zucken, denn auch er kann am Motorradlärm nichts ändern, solange die GroKo weiterhin dem Treiben der Lärmlobby willenlos gegenübersteht und das Verkehrsministerium alle erfolgversprechenden Maßnahmen zur Reduzierung des Lärms abblockt.
+Zum einem sind die Ortschaftsräte des Ortes "erschüttert" über die Ergebnisse, denn die Lärmbelastung ist gewaltig. Und deshalb wollen sie auch dem Lärmschutzbeauftragten des Landes Baden-Württemberg Thomas Marwein die Zahlen bei seinem Besuch im Präger Gemeindehaus präsentieren. 
 
-Neben der Dokumentation der Lärmbelastung liefert das Messgerät an der L 151 auf auch interessante und belastbare Daten zum Zusammenhang zwischen Geschwindigkeit und Lärmbelastung. Während einige Bundestagsabgeordnete tatsächlich die Meinung vertreten, Geschwindigkeitsbegrenzungen sowie vermehrte Kontrollen der Geschwindigkeit würden das Motorradlärmproblem lösen, beweisen die Zahlen aus Präg, dass der Lärm auch bei reduzierten Geschwindigkeit von unter 80 km/h alles zumutbare überschreitet.
+Herr Marwein wird allerdings nur mit die Schultern zucken, denn auch er kann am Motorradlärm nichts ändern, solange die GroKo weiterhin dem Treiben der Lärmlobby willenlos gegenübersteht und das Verkehrsministerium alle erfolgversprechenden Maßnahmen zur Reduzierung des Lärms abblockt.
 
-Nachfolgend ein Blick auf die erfassten Zahlen im verkehrsreichsten Monat 2020, nämlich dem Juni 2020:
+Neben der Dokumentation der Lärmbelastung liefert das Messgerät an der L 151 aber auch interessante und belastbare Daten zum Zusammenhang zwischen Geschwindigkeit und Lärmbelastung. 
 
-Die Medien berichten, dass 39,1 Prozent aller gezählten Motorräder zu laut waren. Aus dem veröffentlichten Zahlen ergibt sich aber auch, nur 4,1 % aller gezählten PKW zu laut waren. Motorräder fallen also in Sachen Lärm 10-mal häufiger negativ auf als PKW. Handlungsbedarf besteht also vordringlich bei Zweirädern.
+Während einige Bundestagsabgeordnete tatsächlich die Meinung vertreten, Geschwindigkeitsbegrenzungen sowie vermehrte Kontrollen der Geschwindigkeit würden das Motorradlärmproblem lösen, beweisen die Zahlen aus Präg, dass der Lärm auch bei reduzierten Geschwindigkeit von unter 80 km/h alles zumutbare überschreitet.
 
-Zum Thema Geschwindigkeit und Lärm: Von den Motorrädern, die mit mehr als 85 dB gemessen wurden, fuhren 58,8 Prozent mit einer Geschwindigkeit von unter 80 km/h. Und man darf zudem vermuten, dass viele von den 1056 Motorrädern, die zu laut und mit mehr als 80 km/h gemessen wurden, auch bei einer Geschwindigkeit von unter 80 km/h immer noch lauter als 85 dB gewesen wären.
+Dazu nachfolgend ein Blick auf die erfassten Zahlen im verkehrsreichsten Monat 2020, nämlich dem Juni 2020:
+
+Die Medien berichten, dass ca. 40 Prozent aller gezählten Motorräder zu laut waren. Aus dem veröffentlichten Zahlen ergibt sich aber auch, dass nur 4,1 % aller gezählten PKW zu laut waren. 
+
+Motorräder fallen also in Sachen Lärm 10-mal häufiger negativ auf als PKW. Handlungsbedarf besteht also vordringlich bei Zweirädern.
+
+Zum Zusammenhang zwischen Geschwindigkeit und Lärm: Von den Motorrädern, die mit mehr als 85 dB gemessen wurden, fuhren 58,8 Prozent mit einer Geschwindigkeit von unter (!) 80 km/h. Und man darf zudem vermuten, dass viele von den 1056 Motorrädern, die zu laut und mit mehr als 80 km/h gemessen wurden, auch bei einer Geschwindigkeit von unter 80 km/h immer noch lauter als 85 dB gewesen wären.
 
 Das bedeutet: Geschwindigkeitsbeschränkungen auf 80 km/h (bzw. Geschwindigkeitskontrollen in 80 km/h Zonen) bringen isoliert keine durchgreifende Verbesserung.
 
