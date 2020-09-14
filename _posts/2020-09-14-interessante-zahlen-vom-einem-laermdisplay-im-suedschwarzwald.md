@@ -5,9 +5,9 @@ date: 2020-09-14
 shorttext: "Das Landratsamt Lörrach hat auf einer beliebten Motorrad-Rennstrecke im Südschwarzwald ein Lärmdisplay mit intelligenter Sensorik aufgestellt. Das Messgerät an der L 151 in der Gemeinde Präg kann nicht nur die aktuell gefahrene Lautstärke, sondern auch die Geschwindigkeit und den Fahrzeugtyp erfassen."
 ---
 
-Mehrere Medien und auch die <span style="text-decoration: underline;">[Badische Zeitung](https://www.badische-zeitung.de/fast-40-prozent-sind-zu-laut-unterwegs){:target="_blank"}</span> berichten von den Ergebnissen aus Präg. 
+Mehrere Medien und auch die <span style="text-decoration: underline;">[Badische Zeitung](https://www.badische-zeitung.de/fast-40-prozent-sind-zu-laut-unterwegs){:target="_blank"}</span> berichten ausführlich über die Messergebnisse und die Reaktionen aus der Ortschaft Präg. 
 
-Zum einem sind die Ortschaftsräte des Ortes "erschüttert" über die Ergebnisse, denn die Lärmbelastung ist gewaltig. Und deshalb wollen sie auch dem Lärmschutzbeauftragten des Landes Baden-Württemberg Thomas Marwein die Zahlen bei seinem Besuch im Präger Gemeindehaus präsentieren. 
+Zum einem sind die Ortschaftsräte des Schwarzwaldortes "erschüttert" über die Ergebnisse, denn die Lärmbelastung ist gewaltig. Und deshalb wollen sie auch dem Lärmschutzbeauftragten des Landes Baden-Württemberg Thomas Marwein die Zahlen bei seinem Besuch im Präger Gemeindehaus präsentieren. 
 
 Herr Marwein wird allerdings nur mit die Schultern zucken, denn auch er kann am Motorradlärm nichts ändern, solange die GroKo weiterhin dem Treiben der Lärmlobby willenlos gegenübersteht und das Verkehrsministerium alle erfolgversprechenden Maßnahmen zur Reduzierung des Lärms abblockt.
 
