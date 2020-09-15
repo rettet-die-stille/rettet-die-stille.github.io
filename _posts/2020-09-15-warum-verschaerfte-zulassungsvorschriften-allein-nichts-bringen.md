@@ -13,11 +13,13 @@ In der nachfolgenden Tabelle wird auf Basis der offiziellen Bestands- und Neuzul
 <br /> 
 In der Tabelle wird in der letzten Spalte die Zahl der Motorräder berechnet, die ca. in jedem Jahr dauerhaft abgemeldet werden. Im Jahresdurchschnitt der letzten 8 Jahre sind das ca. 80.000 Motorräder bzw. 1,9 Prozent des Gesamtbestands an Motorrädern.
 
-Wenn man also jetzt den Bestand von ca. 4,5 Millionen Zweiräder nimmt (für die mit Ausnahme der normierten Beschleunigungsfahrt von 50 auf 80 km/h - keinerlei Lärmgrenzwerte gelten) und mal nachrechnet, wie lange es überschlägig dauert, bis zumindest 50 Prozent davon verschwinden, dann sind das ca. 28 Jahre! 
+Nehmen wir mal nur theoretisch an, dass ab sofort strengere und effektiv wirkende Lärmgrenzwerte gelten würden. Wenn man dann den Bestand von ca. 4,5 Millionen Zweiräder nimmt (für die mit Ausnahme der normierten Beschleunigungsfahrt von 50 auf 80 km/h ansonsten keinerlei Lärmgrenzwerte gelten) und mal nachrechnet, wie lange es überschlägig dauert, bis zumindest 50 Prozent davon verschwinden, dann sind das ca. 28 Jahre! 
 
 (Für die Rechnung habe ich 4,5 Millionen durch 2 geteilt und die resultierenden 2,25 Millionen durch 80.000 geteilt.))
+#
+Zu den 28 Jahren muss man aber noch mindestens 10 weitere Jahre addieren, denn solange dauert erfahrungsgemäß der technische und politische Abstimmungsprozess für neue Lärmnormen in der EU. Also in ca. 40 Jahren wird die Anzahl der lauten Motorräder zum ersten Mal spürbar etwas abgenommen haben. 
 
-Das sind 28 Jahre, in denen der Motorlärm der Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. 
+Das sind 40 Jahre, in denen der Motorlärm der Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. 
 
 Das kann nicht die Lösung sein! Es braucht unbedingt eine Lösung, die auch die vielen bereits zugelassenen Bestandsmaschinen mit einschließt, so wie man das z.B. mit den EU-konformen Umweltzonen für Abgasemssionen ja einfach und schnell hinbekommen hat.
 
