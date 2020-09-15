@@ -2,7 +2,7 @@
 layout: post
 title: "Interessante Zahlen von einem Lärmdisplay im Süddschwarzwald"
 date: 2020-09-14
-shorttext: "Das Landratsamt Lörrach hat auf einer beliebten Motorrad-Rennstrecke im Südschwarzwald ein Lärmdisplay mit intelligenter Sensorik aufgestellt. Das Messgerät an der L 151 in der Gemeinde Präg kann nicht nur die aktuell gefahrene Lautstärke, sondern auch die Geschwindigkeit und den Fahrzeugtyp erfassen."
+shorttext: "Das Landratsamt Lörrach hat auf einer beliebten Motorrad-Rennstrecke im Südschwarzwald ein Lärmdisplay mit intelligenter Sensorik aufgestellt. Das Messgerät an der L 151 in der Gemeinde Präg kann nicht nur die aktuell gefahrene Lautstärke, sondern auch die Geschwindigkeit und den Fahrzeugtyp erfassen. Ein Ergebnis: Geschwindigkeitsbeschränken sind kein wirksames Mittel gegen Motorradlärm."
 ---
 
 Mehrere Medien und auch die <span style="text-decoration: underline;">[Badische Zeitung](https://www.badische-zeitung.de/fast-40-prozent-sind-zu-laut-unterwegs){:target="_blank"}</span> berichten ausführlich über die Messergebnisse und die Reaktionen aus der Ortschaft Präg. 
