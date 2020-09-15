@@ -5,10 +5,12 @@ date: 2020-09-14
 shorttext: "In der aktuellen Diskussion um Motorradlärm setzen die meisten Politiker auschließlich auf verschärfte Zulassungsvorschriften für Zweiräder. Das bringt aber nur sehr langfristig etwas. In dem nachfolgenden Beitrag wird anhand einer einfacher Rechnung aufgezeigt, dass es aufgrund des Bestandsschutzes und der langen 'Haltbarkeit' von nur saisonal und meist nur bei schönem Wochenendwetter gefahrenen Motorrädern Jahrzehnte dauert, bis die Mehrheit der lauten Fahrzeuge von den Straßen verschwinden."
 ---
 
-In der nachfolgenden Tabelle wird auf Basis der offiziellen Bestands- und Neuzulassungszahlen in Deutschland die Anzahl dauerhaft abgemelderte Zweiräder in den Jahren 2012 bis 2019 berechnet. 
+In der nachfolgenden Tabelle wird auf Basis der offiziellen Bestands- und Neuzulassungszahlen in Deutschland die Anzahl dauerhaft abgemelderte Zweiräder in den Jahren 2012 bis 2019 berechnet.
+<br /> 
 
 <img src="/assets/images/zahlen.jpg" alt="Bestands- und Meldezahlen" title="" />
 
+<br /> 
 In der Tabelle wird in der letzten Spalte die Zahl der Motorräder berechnet, die ca. in jedem Jahr dauerhaft abgemeldet werden. Im Jahresdurchschnitt der letzten 8 Jahre sind das ca. 80.000 Motorräder bzw. 1,9 Prozent des Gesamtbestands an Motorrädern.
 
 Wenn man also jetzt den Bestand von ca. 4,5 Millionen Zweiräder nimmt (für die mit Ausnahme der normierten Beschleunigungsfahrt von 50 auf 80 km/h - keinerlei Lärmgrenzwerte gelten) und mal nachrechnet, wie lange es überschlägig dauert, bis zumindest 50 Prozent davon verschwinden, dann sind das ca. 28 Jahre! 
