@@ -11,7 +11,7 @@ In der nachfolgenden Tabelle wird auf Basis der offiziellen Bestands- und Neuzul
 <img src="/assets/images/zahlen.jpg" alt="Bestands- und Meldezahlen" title="" />
 
 <br /> 
-In der Tabelle wird in der letzten Spalte die Zahl der Motorräder berechnet, die ca. in jedem Jahr dauerhaft abgemeldet werden. Im Jahresdurchschnitt der letzten 8 Jahre sind das ca. 80.000 Motorräder bzw. 1,9 Prozent des Gesamtbestands an Motorrädern.
+In der Tabelle wird in der letzten Spalte die Zahl der Motorräder ausgewiesen, die ca. in jedem Jahr dauerhaft abgemeldet werden. Im Jahresdurchschnitt der letzten 8 Jahre sind das ca. 80.000 Motorräder bzw. 1,9 Prozent des Gesamtbestands an Motorrädern.
 
 Nehmen wir mal nur theoretisch an, dass ab sofort strengere und effektiv wirkende Lärmgrenzwerte gelten würden. Wenn man dann den Bestand von ca. 4,5 Millionen Zweiräder nimmt (für die mit Ausnahme der normierten Beschleunigungsfahrt von 50 auf 80 km/h ansonsten keinerlei Lärmgrenzwerte gelten) und mal nachrechnet, wie lange es überschlägig dauert, bis zumindest 50 Prozent davon verschwinden, dann sind das ca. 28 Jahre! 
 
@@ -23,7 +23,11 @@ Die nachfolgende Grafik zeigt die Entwicklung des Motorrad-Bestands über eine Z
 
 Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor einer Reform der Zulassungsvorschriften in ca. 10 Jahren). Die grünen Balken markieren den Anteil den dann leiseren Motorräder.
 
+<br /> 
+
 <img src="/assets/images/entwicklung.jpg" alt="Bestands- und Meldezahlen" title="" />
+
+<br /> 
 
 Natürlich ist das nur eine überschlägige Rechnung, aber man sieht ganz klar: Wenn wir nur die Zulassungsvorschriften für neu zugelassene Motorräder anfassen, dann sind es viele Jahrzehnte, in denen der Motorradlärm der lauten Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. Das kann nicht die Lösung sein! 
 
