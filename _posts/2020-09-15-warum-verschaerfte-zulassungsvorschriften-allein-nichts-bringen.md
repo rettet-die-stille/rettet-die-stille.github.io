@@ -29,9 +29,9 @@ Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor ein
 
 <br /> 
 
-Natürlich ist das nur eine überschlägige Rechnung, aber man sieht ganz klar: Wenn wir nur die Vorschriften für neu zugelassene Motorräder anfassen, dann sind es viele Jahrzehnte, in denen der Motorradlärm der lauten Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. Das kann nicht die Lösung sein! 
+Natürlich ist das nur eine überschlägige Rechnung, aber man sieht ganz klar: Wenn wir nur die Vorschriften für neu zugelassene Motorräder anfassen, dann sind es viele Jahrzehnte, in denen der Lärm der lauten Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. Das kann nicht die Lösung sein! 
 
-Es braucht unbedingt eine Regelung, die auch die 4,5 Millionen bereits zugelassenen Bestandsmaschinen mit einschließt, so wie man das z.B. mit den EU-konformen Umweltzonen für Abgasemssionen ja einfach und schnell hinbekommen hat. Die Umweltzonen gelten nämlich gleichermaßen für neue wie auch für alte, bereits zugelassene Fahrzeuge.
+Es braucht unbedingt eine Regelung, die auch die 4,5 Millionen bereits zugelassenen Bestandsmaschinen mit einschließt, so wie man das z.B. mit den EU-konformen Umweltzonen für Abgasemissionen ja einfach und schnell hinbekommen hat. Die Umweltzonen gelten nämlich gleichermaßen für neue wie auch für alte, bereits zugelassene Fahrzeuge.
 
 Eine dazu passende, sehr kurzfristig wirkende und außerdem sehr faire Lösung gegen den Motorradlärm wäre das <span style="text-decoration: underline;">["Tiroler Modell"](https://www.spiegel.de/auto/oesterreich-tirol-beschliesst-fahrverbote-fuer-laute-motorraeder-a-d049f6ac-9c2e-48b8-bb82-c4bb5190466d){:target="_blank"}</span>. Es sieht Fahrverbote auf beliebten Motorrad-Rennstrecken vor (bei uns wären das z.B. die Erholungs- und Naturgebiete der Mittelgebirge). Allerdings aber nur (!) für solche Motorräder, die bereits im Fahrzeugschein ein Standgeräusch von 95 Dezibel überschreiten. Besitzer einer lauteren Maschine bleiben draußen oder rüsten ihr Zweirad auf »leiser« um (das geht nämlich genauso einfach wie die beliebte Umrüstung auf »lauter«) und lassen den neuen, leiseren Wert für 15 Euro im KFZ-Schein eintragen.
 
