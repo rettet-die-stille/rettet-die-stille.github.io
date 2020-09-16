@@ -15,9 +15,13 @@ In der Tabelle wird in der letzten Spalte die Zahl der Motorräder berechnet, di
 
 Nehmen wir mal nur theoretisch an, dass ab sofort strengere und effektiv wirkende Lärmgrenzwerte gelten würden. Wenn man dann den Bestand von ca. 4,5 Millionen Zweiräder nimmt (für die mit Ausnahme der normierten Beschleunigungsfahrt von 50 auf 80 km/h ansonsten keinerlei Lärmgrenzwerte gelten) und mal nachrechnet, wie lange es überschlägig dauert, bis zumindest 50 Prozent davon verschwinden, dann sind das ca. 28 Jahre! 
 
-(Für die Rechnung habe ich 4,5 Millionen durch 2 geteilt und die resultierenden 2,25 Millionen durch 80.000 geteilt.))
-#
-Zu den 28 Jahren muss man aber noch mindestens 10 weitere Jahre addieren, denn solange dauert erfahrungsgemäß der technische und politische Abstimmungsprozess für neue Lärmnormen in der EU. Also in ca. 40 Jahren wird die Anzahl der lauten Motorräder zum ersten Mal spürbar etwas abgenommen haben. 
+(Für die Rechnung habe ich 4,5 Millionen durch 2 geteilt und die resultierenden 2,25 Millionen durch 80.000 geteilt.)
+
+Zu den 28 Jahren muss man aber noch mindestens 10 weitere Jahre addieren, denn solange dauert erfahrungsgemäß der technische und politische Abstimmungsprozess für neue Lärmnormen in der EU. Also in ca. 40 Jahren wird die Anzahl der lauten Motorräder zum ersten Mal spürbar etwas abgenommen haben.
+
+Die nachfolgende Grafik zeigt die Entwicklung des Motorrad-Bestands über eine Zeitreihe von 40 Jahren. Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor einer Reform der Zulassungsvorschriften in ca. 10 Jahren). Die grünen Balken markieren den Anteil den dann leiseren Motorräder.
+
+<img src="/assets/images/entwicklung.jpg" alt="Bestands- und Meldezahlen" title="" />
 
 Das sind 40 Jahre, in denen der Motorlärm der Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. 
 
