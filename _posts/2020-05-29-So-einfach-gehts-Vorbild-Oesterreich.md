@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "So einfach gehts: Vorbild Österreich"
+title: "So einfach gehts: Vorbild Österreich - Das Tiroler Modell"
 date: 2020-05-29
 shorttext: "Das sollte ein Vorbild für Deutschland sein. Wer schon im Standgeräusch über 95 dB liegt, der darf bestimmte touristisch beliebte Strecken nicht befahren. So wird es ab  10. Juni 2020 in Tirol in Österreich gemacht."
 ---
