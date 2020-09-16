@@ -29,7 +29,7 @@ Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor ein
 
 <br /> 
 
-Natürlich ist das nur eine überschlägige Rechnung, aber man sieht ganz klar: Wenn wir nur die Zulassungsvorschriften für neu zugelassene Motorräder anfassen, dann sind es viele Jahrzehnte, in denen der Motorradlärm der lauten Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. Das kann nicht die Lösung sein! 
+Natürlich ist das nur eine überschlägige Rechnung, aber man sieht ganz klar: Wenn wir nur die Vorschriften für neu zugelassene Motorräder anfassen, dann sind es viele Jahrzehnte, in denen der Motorradlärm der lauten Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. Das kann nicht die Lösung sein! 
 
 Es braucht unbedingt eine Regelung, die auch die 4,5 Millionen bereits zugelassenen Bestandsmaschinen mit einschließt, so wie man das z.B. mit den EU-konformen Umweltzonen für Abgasemssionen ja einfach und schnell hinbekommen hat. Die Umweltzonen gelten nämlich gleichermaßen für neue wie auch für alte, bereits zugelassene Fahrzeuge.
 
