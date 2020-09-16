@@ -19,13 +19,15 @@ Nehmen wir mal nur theoretisch an, dass ab sofort strengere und effektiv wirkend
 
 Zu den 28 Jahren muss man aber noch mindestens 10 weitere Jahre addieren, denn solange dauert erfahrungsgemäß der technische und politische Abstimmungsprozess für neue Lärmnormen in der EU. Also in ca. 40 Jahren wird die Anzahl der lauten Motorräder zum ersten Mal spürbar etwas abgenommen haben.
 
-Die nachfolgende Grafik zeigt die Entwicklung des Motorrad-Bestands über eine Zeitreihe von 40 Jahren. Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor einer Reform der Zulassungsvorschriften in ca. 10 Jahren). Die grünen Balken markieren den Anteil den dann leiseren Motorräder.
+Die nachfolgende Grafik zeigt die Entwicklung des Motorrad-Bestands über eine Zeitreihe von 40 Jahren. Dabei wurde die 10-jährige Vorbereitungszeit der neuen Verordnungen sowie ein weiter wachsender Gesamtbestand an Motorrädern berücksichtigt. 
+
+Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor einer Reform der Zulassungsvorschriften in ca. 10 Jahren). Die grünen Balken markieren den Anteil den dann leiseren Motorräder.
 
 <img src="/assets/images/entwicklung.jpg" alt="Bestands- und Meldezahlen" title="" />
 
-Das sind 40 Jahre, in denen der Motorlärm der Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird. 
+Man sieht, es sind viele Jahrzehnte, in denen der Motorlärm der Bestandsmaschinen weiterhin das Lärmbild auf den Straßen in den Natur- und Erholungsgebieten der Mittelgebirge dominieren wird, wenn wir nur die Zulassungsvorschriften für neu zugelassene Motorräder anfassen.
 
-Das kann nicht die Lösung sein! Es braucht unbedingt eine Lösung, die auch die vielen bereits zugelassenen Bestandsmaschinen mit einschließt, so wie man das z.B. mit den EU-konformen Umweltzonen für Abgasemssionen ja einfach und schnell hinbekommen hat.
+Das kann nicht die Lösung sein! Es braucht unbedingt eine Verbesserung, die auch die 4,5 Millionen bereits zugelassenen Bestandsmaschinen mit einschließt, so wie man das z.B. mit den EU-konformen Umweltzonen für Abgasemssionen ja einfach und schnell hinbekommen hat.
 
 Eine sehr kurzfristig wirkende und außerdem sehr faire Lösung gegen den Motorradlärm wäre das <span style="text-decoration: underline;">["Tiroler Modell"](https://www.spiegel.de/auto/oesterreich-tirol-beschliesst-fahrverbote-fuer-laute-motorraeder-a-d049f6ac-9c2e-48b8-bb82-c4bb5190466d){:target="_blank"}</span>. Es sieht Fahrverbote auf beliebten Motorrad-Rennstrecken vor (bei uns wären das z.B. die Erholungs- und Naturgebiete der Mittelgebirge). Allerdings aber nur (!) für solche Motorräder, die bereits im Fahrzeugschein ein Standgeräusch von 95 Dezibel überschreiten. Besitzer einer lauteren Maschine bleiben draußen oder rüsten ihr Zweirad auf »leiser« um (das geht nämlich genauso einfach wie die beliebte Umrüstung auf »lauter«) und lassen den neuen, leiseren Wert für 15 Euro im KFZ-Schein eintragen.
 
