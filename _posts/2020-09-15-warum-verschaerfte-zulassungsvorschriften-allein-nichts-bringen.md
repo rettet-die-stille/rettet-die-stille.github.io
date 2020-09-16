@@ -7,6 +7,7 @@ shorttext: "In der aktuellen Diskussion um Motorradlärm setzen die meisten Poli
 
 In der nachfolgenden Tabelle wird auf Basis der offiziellen Bestands- und Neuzulassungszahlen in Deutschland die Anzahl dauerhaft abgemelderte Zweiräder in den Jahren 2012 bis 2019 berechnet.
 <br /> 
+<br />
 
 <img src="/assets/images/zahlen.jpg" alt="Bestands- und Meldezahlen" title="" />
 
@@ -23,10 +24,9 @@ Die nachfolgende Grafik zeigt die Entwicklung des Motorrad-Bestands über eine Z
 
 Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor einer Reform der Zulassungsvorschriften in ca. 10 Jahren). Die grünen Balken markieren den Anteil den dann leiseren Motorräder.
 
-<br />
 <br /> 
 
-<img src="/assets/images/entwicklung.jpg" alt="Bestands- und Meldezahlen" title="" />
+<img src="/assets/images/entwicklung.jpg" alt="Entwicklung des Motorradbestands" title="" />
 
 <br /> 
 
