@@ -2,7 +2,7 @@
 layout: post
 title: "Warum verschärfte Zulassungsvorschriften allein nicht viel bringen"
 date: 2020-09-14
-shorttext: "In der aktuellen Diskussion um Motorradlärm setzen die meisten Politiker auschließlich auf verschärfte Zulassungsvorschriften für Zweiräder. Das bringt aber nur sehr langfristig etwas. In dem nachfolgenden Beitrag wird anhand einer einfacher Rechnung aufgezeigt, dass es aufgrund des Bestandsschutzes und der langen 'Haltbarkeit' von nur saisonal und meist nur bei schönem Wochenendwetter gefahrenen Motorrädern Jahrzehnte dauert, bis die Mehrheit der lauten Fahrzeuge von den Straßen verschwinden."
+shorttext: "In der aktuellen Diskussion um Motorradlärm setzen die viele Politiker auf verschärfte Zulassungsvorschriften für Zweiräder. Das bringt aber nur sehr langfristig etwas. In dem nachfolgenden Beitrag wird anhand einer einfacher Rechnung aufgezeigt, dass es aufgrund des Bestandsschutzes und der langen 'Haltbarkeit' von nur saisonal und meist nur bei schönem Wochenendwetter gefahrenen Motorrädern Jahrzehnte dauert, bis die Mehrheit der lauten Fahrzeuge von den Straßen verschwinden."
 ---
 
 In der nachfolgenden Tabelle wird auf Basis der offiziellen Bestands- und Neuzulassungszahlen in Deutschland die Anzahl dauerhaft abgemelderte Zweiräder in den Jahren 2012 bis 2019 berechnet.
