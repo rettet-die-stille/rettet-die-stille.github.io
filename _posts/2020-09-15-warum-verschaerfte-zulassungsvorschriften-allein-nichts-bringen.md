@@ -23,6 +23,7 @@ Die nachfolgende Grafik zeigt die Entwicklung des Motorrad-Bestands über eine Z
 
 Die roten Balken markieren den Anteil der lauten Motorräder (zugelassen vor einer Reform der Zulassungsvorschriften in ca. 10 Jahren). Die grünen Balken markieren den Anteil den dann leiseren Motorräder.
 
+<br />
 <br /> 
 
 <img src="/assets/images/entwicklung.jpg" alt="Bestands- und Meldezahlen" title="" />
