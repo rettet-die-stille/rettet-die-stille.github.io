@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keine Sportlieger über dem Naturschutzgebiet Feldberg!"
+title: "Keine Sportflieger über dem Naturschutzgebiet Feldberg!"
 date: 2020-11-18
 shorttext: Die Initiative „Rettet die Stille“ setzt sich für ein Überflugverbot von Naturschutzgebieten durch Sportflugzeuge, Gyrocopter und Ultraleichtflugzeugen ein. Bis zu einer entsprechenden gesetzlichen Regelung appelliert „Rettet-die-Stille“ an die Sportflieger, aus Respekt und Rücksicht gegenüber Mensch, Tier und Natur von einem Überflug des Naturschutzgebiets Feldberg freiwillig abzusehen.
 ---
