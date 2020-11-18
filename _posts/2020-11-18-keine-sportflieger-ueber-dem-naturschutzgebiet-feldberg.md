@@ -40,7 +40,7 @@ PS: Schon heute gelten laut <span style="text-decoration: underline;">[Schutzgeb
 * Den Naturgenuß oder den besondere Erholungswert der Landschaft zu beeinträchtigen
 * Motorsport zu betreiben
 
-Also Gründe genug, um Sportflieger davon zu überzeugen, dass das Feldberggebiet für Sie tabu ist.
+Also eigentlich Gründe genug, um Sportflieger schon heute davon zu überzeugen, dass das Feldberggebiet für Sie tabu ist.
 
  
 
