@@ -2,7 +2,7 @@
 layout: post
 title: "Keine Sportlieger über dem Naturschutzgebiet Feldberg!"
 date: 2020-11-18
-shorttext: Die Initiative „Rettet die Stille“ setzt sich für ein Überflugverbot von Naturschutzgebieten durch Sportflugzeuge, Gyrocopter und Ultraleichtflugzeugen ein. Bis zu einer entsprechenden gesetzlichen Regelung appelliert „Rettet-die-Stille“ an die Sportflieger, aus Respekt und Rücksicht gegenüber Mensch, Tier und Natur von einem Überflug des Naturschutzgebiets Feldberg freiwillig abzusehen."
+shorttext: Die Initiative „Rettet die Stille“ setzt sich für ein Überflugverbot von Naturschutzgebieten durch Sportflugzeuge, Gyrocopter und Ultraleichtflugzeugen ein. Bis zu einer entsprechenden gesetzlichen Regelung appelliert „Rettet-die-Stille“ an die Sportflieger, aus Respekt und Rücksicht gegenüber Mensch, Tier und Natur von einem Überflug des Naturschutzgebiets Feldberg freiwillig abzusehen.
 ---
 
 Mit fast 1.500 Metern Höhe ist der Feldberg der höchste deutsche Berg außerhalb der Alpen und gehört zu den beliebtesten Ausflugs- und Wandergebieten des Schwarzwaldes. Gleichzeitig ist das Feldberggebiet Lebensraum vieler seltener Tiere und Pflanzen. Aus diesem Grund wurde es bereits 1937 unter Naturschutz gestellt.
