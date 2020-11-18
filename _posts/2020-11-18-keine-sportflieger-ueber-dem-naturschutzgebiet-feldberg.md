@@ -21,11 +21,13 @@ Ein eindrückliches Beispiel für den Freizeitflieger Fluglärm bietet das nachf
 
 <br />
 
-Die Position im Himmel erzeugen die Sportflugzeuge einen sehr weiten Schalltrichter, der über mehrere Kilometer trägt. Hinzu kommt, dass man Aufsteigen muss, um den Feldberg zu überfliegen, da ist der Fluglärm dann besonders laut. Und leider ist es mit einem schnellen Überfliegen nicht getan, nein, es muss der Gipfel ganz umrundet werden, in langsamer (bei Ultraleichtflugzeugen in ultra-langsamer) Geschwindigkeit, sodass das nervige Geräusch gefühlt ewig in der Luft bleibt. Und ist der erste Flieger gerade weg, kündigt sich schon der nächste an. Das war es dann mit der Stille und Schönheit des Feldbergs.
+Durch die exponierte Position in der Höhe erzeugen die Sportflugzeuge einen sehr weiten Schalltrichter, der über mehrere Kilometer trägt. Hinzu kommt, dass man mit viel Motorkraft Höhe gewinnen muss, um den Feldberg zu überfliegen. Da ist der Fluglärm dann besonders laut. Schallschutzwände wie bei Straßen gibt es da oben am Himmel nicht. 
+
+Und leider ist es mit einem schnellen Überfliegen nicht getan, nein, es muss der Gipfel ganz umrundet werden, in langsamer (bei Ultraleichtflugzeugen in ultra-langsamer) Geschwindigkeit, sodass das nervige Geräusch gefühlt ewig in der Luft bleibt. Und ist der erste Flieger gerade weg, kündigt sich schon der nächste an. Das war es dann mit der Stille und Schönheit des Feldbergs, störempfindliche Tiere werden gestresst, Menschen sind genervt.
 
 Warum das Ganze? Damit 2 Personen im Cockpit ihren Spaß haben. Tausende von Besuchern des Naturschutzgebiets werden um ihre Ruhe und Erholung gebracht, damit einige wenige Rücksichts- und Respektlose Ihre „Freiheit“, sprich ihren Lärm-Egoismus, ausleben können. 
 
-Es sei doch nicht lauter als ein Auto und außerdem sei doch jeder schon mal in einem Ferienflieger gesessen, das mache doch auch Lärm, lautet dann die Begründung der Flieger, warum man guten Gewissens das Naturschutzgebiet in niedriger Höhe überfliegen dürfe.
+Es sei doch nicht "lauter als ein Auto" und außerdem sei doch "jeder schon mal in einem Ferienflieger gesessen, das mache doch auch Lärm", lautet dann die Begründung der Flieger, warum man guten Gewissens das Naturschutzgebiet in niedriger Höhe überfliegen dürfe.
 
 „Rettet die Stille“ appelliert an die Freizeitflieger, aus Respekt vor Mensch, Tier und Natur von einem Überflug des Naturschutzgebiets Feldberg freiwillig abzusehen und auch von den Gebietsgrenzen mindestens 3 km Abstand zu halten, damit der Fluglärm nicht in das Naturschutzgebiet trägt. 
 
