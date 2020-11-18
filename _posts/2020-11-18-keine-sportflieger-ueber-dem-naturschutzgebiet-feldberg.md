@@ -33,4 +33,16 @@ Es sei doch nicht "lauter als ein Auto" und außerdem sei doch "jeder schon mal 
 
 Zudem fordert „Rettet die Stille“ einen politischen Prozess, der in einem Naturschutzgebiet-Überflugverbot für Sportflieger endet, damit auch die uneinsichtigen Flieger in die Schranken gewiesen werden.
 
+PS: Schon heute gelten laut <span style="text-decoration: underline;">[QuSchutzgebietsverordnungen](https://www2.lubw.baden-wuerttemberg.de/public/abt2/dokablage/oac_12/vo/3/3001.htm){:target="_blank"}</span> im Feldberggebiet die folgende Verbote:
+
+* Ohne zwingenden Grund Lärm, Luftverunreinigungen oder Erschütterungen zu verursachen
+* Luftfahrzeuge einschließlich Hängegleiter, Gleitsegel sowie Flugmodelle zu betreiben
+* Den Naturgenuß oder den besondere Erholungswert der Landschaft zu beeinträchtigen
+* Motorsport zu betreiben
+
+
+ 
+
+
+
 
