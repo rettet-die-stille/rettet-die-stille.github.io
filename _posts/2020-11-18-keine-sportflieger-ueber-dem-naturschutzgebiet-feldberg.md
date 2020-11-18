@@ -22,6 +22,7 @@ Es sei doch nicht lauter als ein Auto und außerdem sei doch jeder schon mal in 
 Zudem fordert „Rettet die Stille“ einen politischen Prozess, der in einem Naturschutzgebiet-Überflugverbot für Sportflieger endet, damit auch die uneinsichtigen Flieger in die Schranken gewiesen werden.
 
 Ein eindrückliches Beispiel für den Freizeitflieger Fluglärm bietet das nachfolgende kurze Video, dass direkt am Feldberg gedreht wurde und einen Überflug von zwei Gyrocopter in wenigen hundert Metern über dem Feldberggipfel zeigt.
+
 <br />
 
 <div class="iframe-container">
