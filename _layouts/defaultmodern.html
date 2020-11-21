@@ -104,6 +104,13 @@ layout: default
       </div>
       <div class="rightcolumn">
         <div class="card">
+          <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="hosted_button_id" value="2CGLBY3C2FMB8" />
+            <input type="image" src="https://www.rettet-die-stille.de/assets/images/donate.jpg" width="100%" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="https://www.paypal.com/de_DE/i/scr/pixel.gif" width="1" height="1" />
+          </form>
+        </div>
+        <div class="card">
           <h3><a href="/blog.html">Blogbeiträge:</a></h3>
           <hr>
           {% for post in site.posts %}
