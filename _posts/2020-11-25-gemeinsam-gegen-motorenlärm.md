@@ -7,8 +7,6 @@ shorttext: Schwarzwaldverein und die Großschutzgebiete im Schwarzwald haben im 
 
 <img src="/assets/images/motorradvswaldesruh.jpg" alt="Grafik" title="" />
 
-<br /> 
-
 Die Organisationen begrüßen die „Initiative Motorradlärm“ des Landes Baden-Württemberg und setzen sich für eine Reduzierung des Motorenlärms aller Art ein, besonders in den Großschutzgebieten Baden-Württembergs.
 
 An der gemeinsamen Erklärung beteiligten sich neben dem Schwarzwaldverein die Naturparke Südschwarzwald sowie Schwarzwald Mitte/Nord, der Nationalpark Schwarzwald, das Biosphärengebiet Schwarzwald und das Naturschutzzentrum Südschwarzwald.
