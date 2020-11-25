@@ -5,7 +5,9 @@ date: 2020-11-25
 shorttext: Schwarzwaldverein und die Großschutzgebiete im Schwarzwald haben im Vorfeld einer Online-Diskussion zum Thema "Motorradlärm" (am Do. 26.11.2020) eine gemeinsame Erklärung an Verkehrsminister Winfried Hermann sowie den Lärmschutzbeauftragten des Landes, Thomas Marwein, übermittelt und sich darin für die Reduzierung von Motorenlärm ausgesprochen.
 ---
 
+<img src="/assets/images/motorradvswaldesruh.jpg" alt="Grafik" title="" />
 
+<br /> 
 
 Die Organisationen begrüßen die „Initiative Motorradlärm“ des Landes Baden-Württemberg und setzen sich für eine Reduzierung des Motorenlärms aller Art ein, besonders in den Großschutzgebieten Baden-Württembergs.
 
