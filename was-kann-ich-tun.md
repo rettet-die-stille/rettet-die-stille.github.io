@@ -18,11 +18,11 @@ Und meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwort
 
 Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle E-Mail Adressen der Bundestagsabgeordneten zu finden. 
 
-Der Bundestagswahlkreis Waldshut umfasst den Landkreis Waldshut sowie die Gemeinden Breitnau, Buchenbach, Eisenbach (Hochschwarzwald), Feldberg (Schwarzwald), Friedenweiler, Glottertal, Gundelfingen, Heuweiler, Hinterzarten, Kirchzarten, Lenzkirch, Löffingen, Oberried, Schluchsee, St. Märgen, St. Peter, Stegen und Titisee-Neustadt. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Felix Schreiner lautet [felix.schreiner@bundestag.de](mailto:felix.schreiner@bundestag.de).
+Der Bundestagswahlkreis <b>Waldshut</b> umfasst den Landkreis Waldshut sowie die Gemeinden Breitnau, Buchenbach, Eisenbach (Hochschwarzwald), Feldberg (Schwarzwald), Friedenweiler, Glottertal, Gundelfingen, Heuweiler, Hinterzarten, Kirchzarten, Lenzkirch, Löffingen, Oberried, Schluchsee, St. Märgen, St. Peter, Stegen und Titisee-Neustadt. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Felix Schreiner lautet <b>[felix.schreiner@bundestag.de](mailto:felix.schreiner@bundestag.de).</b>
 
-Der Bundestagswahlkreis Freiburg umfasst den Stadtkreis Freiburg im Breisgau sowie die Gemeinden Au, Bötzingen, Bollschweil, Breisach am Rhein, Ebringen, Ehrenkirchen, Eichstetten am Kaiserstuhl, Gottenheim, Horben, Ihringen, March, Merdingen, Merzhausen, Pfaffenweiler, Schallstadt, Sölden, Umkirch, Vogtsburg im Kaiserstuhl und Wittnau. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Matern von Marschall lautet [matern.vonmarschall@bundestag.de](mailto:matern.vonmarschall@bundestag.de).
+Der Bundestagswahlkreis <b>Freiburg</b> umfasst den Stadtkreis Freiburg im Breisgau sowie die Gemeinden Au, Bötzingen, Bollschweil, Breisach am Rhein, Ebringen, Ehrenkirchen, Eichstetten am Kaiserstuhl, Gottenheim, Horben, Ihringen, March, Merdingen, Merzhausen, Pfaffenweiler, Schallstadt, Sölden, Umkirch, Vogtsburg im Kaiserstuhl und Wittnau. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Matern von Marschall lautet <b>[matern.vonmarschall@bundestag.de](mailto:matern.vonmarschall@bundestag.de)</b>.
 
-Interessant ist für die Region des Südschwarzwalds auch die Abgeordnete und Staatssekretärin im Umweltbundesamt [rita.schwarzeluehr-sutter@bundestag.de](mailto:rita.schwarzeluehr-sutter@bundestag.de).
+Interessant ist für die Region des Südschwarzwalds auch die Abgeordnete und Staatssekretärin im Umweltbundesamt <b>[rita.schwarzeluehr-sutter@bundestag.de](mailto:rita.schwarzeluehr-sutter@bundestag.de)</b>.
 
 ## Was soll ich schreiben?
 
