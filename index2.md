@@ -25,3 +25,8 @@ Was übrigens - anders als viele denken - keine Lösung ist, ist der Ruf nach me
 Eine Änderung der Situation kann nur in der Politik auf Bundes- und EU-Ebene erfolgen. Denn dort werden diese Verordnungen gemacht. Bislang dominiert dort allerdings der Einfluss der Lärmlobby. Vielleicht kann diese Website ein bisschen dazu beitragen, dass sich das ändert. 
 
 PS: Damit sich was ändert, bitte schreiben Sie nicht mir, sondern ihrem Landes-, Bundestags- oder EU-Abgeordneten. Oder dem Landes- bzw. Bundesverkehrsminister oder an die zuständigen EU-Behörden. Ich kann nichts ändern, aber eine Vielzahl von Zuschriften an die politischen Entscheidungsträger kann vielleich etwas bewirken. Allerdings sind Geduld und Ausdauer von Nöten!
+
+Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle E-Mail Adressen der Bundestagsabgeordneten zu finden und meine Erfahrung ist, dass die Mails gelesen und beantwortet werden. Sie brauchen auch kein langes Mail schreiben, einfach nur ein paar Sätze, mit denen Sie die Politik zum Handeln auffordern. Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020-08-03-was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>"Was gegen Motorradlärm helfen würde (und was nicht)"</a></span>.
+
+
+
