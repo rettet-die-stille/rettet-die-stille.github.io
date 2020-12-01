@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: defaultmodern
 ---
 
 # Was kann ich tun?
@@ -22,7 +22,7 @@ Und meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwort
 
 Sie brauchen kein langes Mail schreiben, einfach nur ein paar Sätze, mit denen Sie die Politik zum Handeln auffordern. 
 
-Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020/08/03/was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>"Was gegen Motorradlärm helfen würde (und was nicht)"</a></span>.
+Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020/08/03/was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>Was gegen Motorradlärm helfen würde (und was nicht)</a></span>.
 
 ## Spenden Sie eine BZ-Kleinanzeige
 
@@ -32,4 +32,4 @@ PS: Wenn Sie kein Paypal-Konto haben, einfach mal einen Bekannten bzw. eine Beka
 
 ## Machen Sie anderen Mut!
 
-Erzählen Sie in ihrem Bekanntenkreis von www.rettet-die-stille.de. Und verlinken Sie www.rettet-die-stille.de über Ihre Social Media Accounts. Dann spricht sich rum, dass eine Bewegung im Gang ist, dass man nicht alleine ist und dass jeder ein klein bisschen helfen kann. Wenn jeder minimal hilft, dann wird was großes draus!
+Erzählen Sie in ihrem Bekanntenkreis von www.rettet-die-stille.de. Und verlinken Sie <span style='text-decoration: underline;'><a href='https://www-rettet-die-stille.de'>www.rettet-die-stille.de</a></span> über Ihre Social Media Accounts. Dann spricht sich rum, dass man mit seinem Ärger nicht alleine ist, dass eine Bewegung im Gang ist und dass jeder ein klein bisschen helfen kann. Wenn jeder nur ein wenig hilft, dann wird was Großes daraus!
