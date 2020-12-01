@@ -12,11 +12,17 @@ Eine Änderung der Situation kann nur in der Politik auf Bundes- und EU-Ebene er
 
 Damit sich was ändert, schreiben Sie heute ihrem Bundestags- oder EU-Abgeordneten. Oder dem Landes- bzw. Bundesverkehrsminister oder an die zuständigen EU-Behörden. Ich kann nichts ändern, aber eine Vielzahl von Zuschriften an die politischen Entscheidungsträger kann vielleich etwas bewirken. Allerdings sind Geduld und Ausdauer von Nöten!
 
+Und meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwortet werden! 
+
 ## Woher bekomme ich die Mail-Adresse meines Bundestagsabgeordneten?
 
 Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle E-Mail Adressen der Bundestagsabgeordneten zu finden. 
 
-Und meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwortet werden! 
+Der Bundestagswahlkreis Waldshut umfasst den Landkreis Waldshut sowie die Gemeinden Breitnau, Buchenbach, Eisenbach (Hochschwarzwald), Feldberg (Schwarzwald), Friedenweiler, Glottertal, Gundelfingen, Heuweiler, Hinterzarten, Kirchzarten, Lenzkirch, Löffingen, Oberried, Schluchsee, St. Märgen, St. Peter, Stegen und Titisee-Neustadt. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Felix Schreiner lautet [felix.schreiner@bundestag.de](mailto:felix.schreiner@bundestag.de).
+
+Der Bundestagswahlkreis Freiburg umfasst den Stadtkreis Freiburg im Breisgau sowie die Gemeinden Au, Bötzingen, Bollschweil, Breisach am Rhein, Ebringen, Ehrenkirchen, Eichstetten am Kaiserstuhl, Gottenheim, Horben, Ihringen, March, Merdingen, Merzhausen, Pfaffenweiler, Schallstadt, Sölden, Umkirch, Vogtsburg im Kaiserstuhl und Wittnau. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Matern von Marschall lautet [matern.vonmarschall@bundestag.de](mailto:matern.vonmarschall@bundestag.de).
+
+Interessant ist für die Region des Südschwarzwalds auch die Abgeordnete und Staatssekretärin im Umweltbundesamt [rita.schwarzeluehr-sutter@bundestag.de](mailto:rita.schwarzeluehr-sutter@bundestag.de).
 
 ## Was soll ich schreiben?
 
