@@ -1,5 +1,5 @@
 ---
-layout: defaultmodern
+layout: impressum
 ---
 
 # Was kann ich tun?
@@ -28,7 +28,9 @@ Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnu
 
 Auf der rechten Seite dieser Website finden Sie Muster für die Kleinanzeigen, die wir als Kombi-Anzeige im Schnapp, in der Samstagsausgabe der BZ und in der Zeitung "DER SONNTAG" schalten, wenn wir eine Spende von 28,50 Euro per Paypal erhalten. Einfach auf die Anzeigenentwürfe rechts klicken und per Paypal bezahlen. 
 
-PS: Wenn Sie kein Paypal-Konto haben, einfach mal einen Bekannten bzw. eine Bekannte finden, der/die vielleicht bei Paypal ist.
+Wenn Sie kein Paypal-Konto haben, einfach mal einen Bekannten bzw. eine Bekannte finden, der/die vielleicht bei Paypal ist.
+
+Bitte beachten Sie, dass wir leider keine Spendenbescheinigungen austellen können. Wir versichern ihn aber, dass Ihre Spende zu 100% der Finanzierung der Kleinanzeige verwendet wird.
 
 ## Machen Sie anderen Mut!
 
