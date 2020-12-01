@@ -28,5 +28,11 @@ PS: Damit sich was ändert, bitte schreiben Sie nicht mir, sondern ihrem Landes-
 
 Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle E-Mail Adressen der Bundestagsabgeordneten zu finden und meine Erfahrung ist, dass die Mails gelesen und beantwortet werden. Sie brauchen auch kein langes Mail schreiben, einfach nur ein paar Sätze, mit denen Sie die Politik zum Handeln auffordern. Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020/08/03/was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>"Was gegen Motorradlärm helfen würde (und was nicht)"</a></span>.
 
+Der Bundestagswahlkreis Waldshut umfasst den Landkreis Waldshut sowie die Gemeinden Breitnau, Buchenbach, Eisenbach (Hochschwarzwald), Feldberg (Schwarzwald), Friedenweiler, Glottertal, Gundelfingen, Heuweiler, Hinterzarten, Kirchzarten, Lenzkirch, Löffingen, Oberried, Schluchsee, St. Märgen, St. Peter, Stegen und Titisee-Neustadt. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Felix Schreiner lautet [felix.schreiner@bundestag.de](mailto:felix.schreiner@bundestag.de).
+
+Der Bundestagswahlkreis Freiburg umfasst den Stadtkreis Freiburg im Breisgau sowie die Gemeinden Au, Bötzingen, Bollschweil, Breisach am Rhein, Ebringen, Ehrenkirchen, Eichstetten am Kaiserstuhl, Gottenheim, Horben, Ihringen, March, Merdingen, Merzhausen, Pfaffenweiler, Schallstadt, Sölden, Umkirch, Vogtsburg im Kaiserstuhl und Wittnau. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Matern von Marschall lautet [matern.vonmarschall@bundestag.de](mailto:matern.vonmarschall@bundestag.de).
+
+Interessant ist für die Region des Südschwarzwalds auch die Abgeordnete und Staatssekretärin im Umweltbundesamt [rita.schwarzeluehr-sutter@bundestag.de](mailto:rita.schwarzeluehr-sutter@bundestag.de).
+
 
 
