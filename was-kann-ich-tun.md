@@ -24,7 +24,7 @@ Sie brauchen kein langes Mail schreiben, einfach nur ein paar Sätze, mit denen 
 
 Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020/08/03/was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>Was gegen Motorradlärm helfen würde (und was nicht)</a></span>.
 
-## Spenden Sie eine BZ-Kleinanzeige
+## Spenden Sie eine Kleinanzeige in der Badischen-Zeitung
 
 Auf der rechten Seite dieser Website finden Sie Muster für die Kleinanzeigen, die wir als Kombi-Anzeige im Schnapp, in der Samstagsausgabe der BZ und in der Zeitung "DER SONNTAG" schalten, wenn wir eine Spende von 28,50 Euro per Paypal erhalten. Einfach auf die Anzeigenentwürfe rechts klicken und per Paypal bezahlen. 
 
