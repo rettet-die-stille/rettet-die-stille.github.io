@@ -12,7 +12,7 @@ Eine Änderung der Situation kann nur in der Politik auf Bundes- und EU-Ebene er
 
 Deshalb schreiben Sie heute ihrem Bundestags- oder EU-Abgeordneten. Oder dem Landes- bzw. Bundesverkehrsminister oder an die zuständigen EU-Behörden. Eine Vielzahl von Zuschriften an die politischen Entscheidungsträger ist die Vorraussetzung, dass sich etwas ändern kann. Allerdings sind Geduld und Ausdauer von Nöten!
 
-ABer meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwortet werden! 
+Aber meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwortet werden! 
 
 ## Woher bekomme ich die Mail-Adresse meines Bundestagsabgeordneten?
 
