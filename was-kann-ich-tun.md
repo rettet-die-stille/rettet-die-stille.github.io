@@ -6,17 +6,19 @@ layout: impressum
 
 Es ist durchaus möglich, mit sehr wenig Aufwand aktiv zur Verbesserung der Situation beizutragen. Dazu die folgenden Hinweise:
 
-## Schreiben Sie ihrem Bundestagsabgeordneten 
+## Schreiben Sie ihrem Abgeordneten! Das hilft! 
 
 Eine Änderung der Situation kann nur in der Politik auf Bundes- und EU-Ebene erfolgen. Denn dort werden diese Verordnungen gemacht. Bislang dominiert dort allerdings der Einfluss der Lärmlobby. Werden Sie Teil einer Anti-Lärmlobby!
 
-Damit sich was ändert, schreiben Sie heute ihrem Bundestags- oder EU-Abgeordneten. Oder dem Landes- bzw. Bundesverkehrsminister oder an die zuständigen EU-Behörden. Ich kann nichts ändern, aber eine Vielzahl von Zuschriften an die politischen Entscheidungsträger kann vielleich etwas bewirken. Allerdings sind Geduld und Ausdauer von Nöten!
+Deshalb schreiben Sie heute ihrem Bundestags- oder EU-Abgeordneten. Oder dem Landes- bzw. Bundesverkehrsminister oder an die zuständigen EU-Behörden. Eine Vielzahl von Zuschriften an die politischen Entscheidungsträger ist die Vorraussetzung, dass sich etwas ändern kann. Allerdings sind Geduld und Ausdauer von Nöten!
 
-Und meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwortet werden! 
+ABer meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwortet werden! 
 
 ## Woher bekomme ich die Mail-Adresse meines Bundestagsabgeordneten?
 
-Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle E-Mail Adressen der Bundestagsabgeordneten zu finden. 
+Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle E-Mail Adressen der Bundestagsabgeordneten zu finden.
+
+Für die Bewohner in der Region Freiburg und Südschwarzwald folgen hier die konkreten Namen und Mailadressen der Bundestagsabgeordneten:
 
 Der Bundestagswahlkreis <b>Waldshut</b> umfasst den Landkreis Waldshut sowie die Gemeinden Breitnau, Buchenbach, Eisenbach (Hochschwarzwald), Feldberg (Schwarzwald), Friedenweiler, Glottertal, Gundelfingen, Heuweiler, Hinterzarten, Kirchzarten, Lenzkirch, Löffingen, Oberried, Schluchsee, St. Märgen, St. Peter, Stegen und Titisee-Neustadt. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Felix Schreiner lautet <b>[felix.schreiner@bundestag.de](mailto:felix.schreiner@bundestag.de).</b>
 
