@@ -2,7 +2,7 @@
 layout: impressum
 ---
 
-# Was kann ich tun?
+# Wie kann man mitmachen?
 
 Es ist durchaus möglich, mit sehr wenig Aufwand aktiv zur Verbesserung der Situation beizutragen. Dazu die folgenden Hinweise:
 
