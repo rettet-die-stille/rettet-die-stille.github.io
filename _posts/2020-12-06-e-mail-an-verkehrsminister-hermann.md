@@ -11,7 +11,7 @@ Sehr geehrter Herr Minister Hermann,
 
 vielen Dank, dass Sie in der <span style="text-decoration: underline;">[Podiumsdiskussion](https://vm.baden-wuerttemberg.de/index.php?id=18123){:target="_blank"}</span> Rede und Antwort gestanden haben.
 
-Ein Aspekt ist aber leider sowohl in der Diskussion als auch in der öffentlichen Diskussion viel zu wenig im Mittelpunkt, nämlich die Tatsache, dass alle geplanten Verschärfungen sich immer nur auf die Neuzulassungen beziehen. Es sind aber 4,5 Millionen Motorräder im Bestand. Je nach KFZ-Schein dürfen diese im Standgeräusch legal die 100 dB überschritten, z.B. die Aprilia RSV4 mit 105 dB oder die Ducati Panigale mit 107 dB.
+Ein Aspekt ist aber leider sowohl in der Diskussion als auch in der öffentlichen Diskussion viel zu wenig im Mittelpunkt, nämlich die Tatsache, dass alle geplanten Verschärfungen sich immer nur auf die <b>Neuzulassungen</b> beziehen. Es sind aber 4,5 Millionen Motorräder im <b>Bestand</b>. Je nach KFZ-Schein dürfen diese im Standgeräusch legal die 100 dB überschritten, z.B. die Aprilia RSV4 mit 105 dB oder die Ducati Panigale mit 107 dB.
 
 Es ist mir sehr wichtig, darauf aufmerksam zu machen, dass verschärfte (und nachprüfbare) Zulassungsvorschriften (auch wenn sie wirken würden!) erst in mehreren Jahrzehnten eine spürbare Verbesserung des dominierenden Klangbilds auf den Straßen der Natur- und Erholungsgebiete bringen.
 
