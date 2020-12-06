@@ -21,7 +21,7 @@ Man könnte zum Beispiel festlegen, dass ein Fahrzeug in allen Fahrsituationen (
 
 Generelle Fahrverbote für Motorräder sind Unsinn und sind auch nicht durchsetzbar! Die Mehrheit der vernünftigen Fahrer würde für die Rücksichtslosigkeit einer Minderheit bestraft.
 
-## <a name="tiroler_modell"></a>Das "Tiroler Modell" - Fahrverbote für extralaute Fahrzeuge
+## <a name="tiroler_modell"></a>Das Tiroler Modell - Fahrverbote nur für extralaute Fahrzeuge
 
 Das ist ein guter Schritt und in <span style="text-decoration: underline;">[Tirol](https://www.motorradonline.de/ratgeber/fahrverbote-oesterreich-offiziell-bestaetigt-laute-bikes-tirol-95-db-2020){:target="_blank"}</span> wird das ja schon erfolgreich gemacht!
 
