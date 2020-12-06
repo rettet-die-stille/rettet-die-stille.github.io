@@ -21,7 +21,7 @@ Man könnte zum Beispiel festlegen, dass ein Fahrzeug in allen Fahrsituationen (
 
 Generelle Fahrverbote für Motorräder sind Unsinn und sind auch nicht durchsetzbar! Die Mehrheit der vernünftigen Fahrer würde für die Rücksichtslosigkeit einer Minderheit bestraft.
 
-## Fahrverbote für extralaute Fahrzeuge?
+## Das "Tiroler Modell" - Fahrverbote für extralaute Fahrzeuge
 
 Das ist ein guter Schritt und in <span style="text-decoration: underline;">[Tirol](https://www.motorradonline.de/ratgeber/fahrverbote-oesterreich-offiziell-bestaetigt-laute-bikes-tirol-95-db-2020){:target="_blank"}</span> wird das ja schon erfolgreich gemacht!
 
@@ -37,6 +37,14 @@ Man würde festlegen, dass alle Fahrzeuge (übrigens Motorräder und Sportwagen 
 * Ganz wichtig: die vielen lauten Bestandsfahrzeuge sind vollumfänglich erfasst. Man muss also nicht warten, bis die in 10 oder 20 Jahren aus Altersgründen aus dem Verkehr genommen werden. Es wird also sofort zu einer dramatischen Verbesserung der Situation kommen.
 * Die Regelung scheint konform mit EU-Gesetzen zu sein. Schließlich ist Österreich in der EU und bislang hat keiner argumentiert, die Tiroler Regelung verstoße gegen EU-Recht.
 * Die 80-90 % Biker, die heute schon leise fahren, werden diese Regelung gerne unterstützen. Ergo: die 10 bis 20% extralauten Radau-Fahrer stehen plötzlich alleine auf dem Feld.
+* Das Tiroler Modell wirk auch an den Straßen, wo keine lautstärkebedingte Sperrung eingerichtet wird. Einfach deshalb, weil alle, die z.B. in Tirol fahren wollen, ihre Motorräder umrüsten und den neuen Wert eintragen lassen. Und ist das Motorrad einmal auf leiser umgebaut, dann ist es natürlich auf allen Straßen leiser. Und die Polizei kontrolliert die Einhaltung des neuen Lärmwerts.
+
+ Im Internet wird seit Einführung des Tiroler Modells in Österreich jetzt neuerdings nicht mehr beschrieben, wie Maschinen lauter gemacht werden können, sondern z.B. 
+ <span style="text-decoration: underline;">[in diesem Artikel der Motorradpresse](https://www.motorradonline.de/ratgeber/laermfahrverbot-oesterreich-tirol-betroffene-modelle/ ){:target="_blank"}</span> wird  erklärt, wie man Maschinen leiser bekommt,
+
+Hinter dem Link findet man mit etwas Scrollen das nachfolgendes Zitat:
+
+"Die einschließlich Chef Hubert Sommer aus nur sechs Mitarbeitern bestehende Firma macht Motorräder leiser. Sie bietet beispielsweise an, das Standgeräusch einer nach Euro-3 homologierten BMW R nineT von 98 auf 94 dB(A) zu reduzieren, inklusive TÜV-Segen. Nötig sind dafür zwei dB-Killer-Einsätze, die von Hattech im originalen Schalldämpfer punktuell verschweißt werden – Preis 560 Euro. Darin enthalten sind die Kosten einer Einzelabnahme, die der Halter beim TÜV durchführen lassen muss. Dieser bestätigt die Reduzierung des Standgeräuschs auf 94 dB(A), was zu guter Letzt auf der Zulassungsstelle in die Papiere eingetragen wird (Kosten: circa 15 Euro). Zudem bietet Hattech für alle R1200/1250 GS-Modelle Schalldämpfer an, die zu einer deutlichen Lautstärkereduzierung führen. Dem Betrieb haben die aktuelle Lärmdiskussion und die Tiroler Sperrungen unverhofft zu einer gesteigerten Auftragslage verholfen."Wir haben seither täglich bis zu 200 Anfragen bekommen. Die Leute wollen wissen, wie sie ihre Maschinen leiser kriegen".
 
 ## Konsequente Anwendung des Paragraphen 1 der StVO.
 
