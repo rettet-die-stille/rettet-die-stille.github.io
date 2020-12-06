@@ -2,7 +2,7 @@
 layout: post
 title: "Nach der Podiumsdiskussion: Email an BW-Verkehrsminister Herrmann"
 date: 2020-12-6
-shorttext: Im Nachgang der Online-Diskussion zum Thema "Motorradlärm" (am Do. 26.11.2020) mit Verkehrsminister Winfried Hermann sowie den Lärmschutzbeauftragten des Landes, Thomas Marwein sowie weiteren Akteuren, habe ich das folgende E-Mail an den Verkehrsminister gesendet, das bislang unbeantwortet blieb."
+shorttext: Im Nachgang der Online-Diskussion am 26.11.2020 zum Thema "Motorradlärm" mit Verkehrsminister Winfried Hermann sowie dem Lärmschutzbeauftragten des Landes, Thomas Marwein sowie weiteren Akteuren, habe ich das folgende E-Mail an den Verkehrsminister gesendet, das bislang leider noch unbeantwortet blieb."
 ---
 
 <img src="/assets/images/motorradvswaldesruh.jpg" alt="Grafik" title="" />
