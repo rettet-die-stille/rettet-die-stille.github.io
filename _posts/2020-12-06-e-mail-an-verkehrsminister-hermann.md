@@ -2,11 +2,11 @@
 layout: post
 title: "Nach der Podiumsdiskussion: Email an BW-Verkehrsminister Herrmann"
 date: 2020-12-6
-shorttext: "Im Nachgang der <span style='text-decoration: underline;'><a href='https://vm.baden-wuerttemberg.de/index.php?id=18123'>Podiumsdiskussion</a></span> am 26.11.2020 zum Thema Motorradlärm mit Verkehrsminister Winfried Hermann sowie dem Lärmschutzbeauftragten des Landes, Thomas Marwein sowie weiteren Akteuren, habe ich das folgende E-Mail an den Verkehrsminister gesendet, das bislang leider noch unbeantwortet blieb."
+shorttext: "Im Nachgang der <span style='text-decoration: underline;'><a href='https://vm.baden-wuerttemberg.de/index.php?id=18123' target='_blank'>Podiumsdiskussion</a></span> am 26.11.2020 zum Thema Motorradlärm mit Verkehrsminister Winfried Hermann sowie dem Lärmschutzbeauftragten des Landes, Thomas Marwein sowie weiteren Akteuren, habe ich das folgende E-Mail an den Verkehrsminister gesendet, das bislang leider noch unbeantwortet blieb."
 ---
 
 <img src="https://vm.baden-wuerttemberg.de/fileadmin/_processed_/6/b/csm_190517_ANHANG_Pressemitteilung_Landesregierung_f%C3%B6rdert_Motorradl%C3%A4rm-Displays_bb2141332c.jpg" alt="Grafik" title="" />
-
+<br /><br />
 Sehr geehrter Herr Minister Hermann,
 
 vielen Dank, dass Sie in der <span style="text-decoration: underline;">[Podiumsdiskussion](https://vm.baden-wuerttemberg.de/index.php?id=18123){:target="_blank"}</span> Rede und Antwort gestanden haben.
