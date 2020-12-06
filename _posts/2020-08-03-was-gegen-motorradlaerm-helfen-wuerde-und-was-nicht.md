@@ -20,7 +20,7 @@ Man könnte zum Beispiel festlegen, dass ein Fahrzeug in allen Fahrsituationen (
 ## Generelle Fahrverbote für Motorräder?
 
 Generelle Fahrverbote für Motorräder sind Unsinn und sind auch nicht durchsetzbar! Die Mehrheit der vernünftigen Fahrer würde für die Rücksichtslosigkeit einer Minderheit bestraft.
-<br />
+<br /><br />
 <a name="tiroler_modell"></a>
 
 ## <b>Das Tiroler Modell</b> - Fahrverbote nur für extralaute Fahrzeuge
