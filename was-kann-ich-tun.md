@@ -24,13 +24,19 @@ Der Bundestagswahlkreis <b>Waldshut</b> umfasst den Landkreis Waldshut sowie die
 
 Der Bundestagswahlkreis <b>Freiburg</b> umfasst den Stadtkreis Freiburg im Breisgau sowie die Gemeinden Au, Bötzingen, Bollschweil, Breisach am Rhein, Ebringen, Ehrenkirchen, Eichstetten am Kaiserstuhl, Gottenheim, Horben, Ihringen, March, Merdingen, Merzhausen, Pfaffenweiler, Schallstadt, Sölden, Umkirch, Vogtsburg im Kaiserstuhl und Wittnau. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Matern von Marschall lautet <b>[matern.vonmarschall@bundestag.de](mailto:matern.vonmarschall@bundestag.de)</b>.
 
-Interessant ist für die Region des Südschwarzwalds auch die Abgeordnete und Staatssekretärin im Umweltbundesamt <b>[rita.schwarzeluehr-sutter@bundestag.de](mailto:rita.schwarzeluehr-sutter@bundestag.de)</b>.
+Der Bundestagswahlkreis <b>Lörrach – Müllheim</b> umfasst den Landkreis Lörrach und den südwestlichen Teil des Landkreises Breisgau-Hochschwarzwald mit den Gemeinden Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen, Eschbach, Hartheim, Heitersheim, Müllheim, Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau und Sulzburg. Die Mailadresse des Bundestagsabgeordneten Christian Natterer (am 11.Nov. 2020 nachgerückt für den direkt gewählten Armin Schuster) lautet <b>[christian.natterer@bundestag.de](mailto:christian.natterer@bundestag.de)</b>.
+
+Der Bundestagswahlkreis <b>Schwarzwald-Baar</b> umfasst den Schwarzwald-Baar-Kreis sowie die Gemeinden Gutach (Schwarzwaldbahn), Hausach, Hornberg, Oberwolfach und Wolfach des Ortenaukreises. Die Mailadresse von dem direkt gewählten Bundestagsabgeordneten Matern von Marschall lautet <b>[thorsten.frei@bundestag.de](mailto:thorsten.frei@bundestag.de)</b>.
+
+Interessant ist für die Region des Südschwarzwalds ist sicher auch die Abgeordnete und Staatssekretärin im Umweltbundesamt <b>[rita.schwarzeluehr-sutter@bundestag.de](mailto:rita.schwarzeluehr-sutter@bundestag.de)</b>.
 
 ## Was soll ich schreiben?
 
 Sie brauchen kein langes Mail schreiben, einfach nur ein paar Sätze, mit denen Sie die Politik zum Handeln auffordern. 
 
 Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020/08/03/was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>Was gegen Motorradlärm helfen würde (und was nicht)</a></span>.
+
+Notwendig ist auch eine Änderung bei den Verkehrsvorschriften für Motorsportflugzeuge. Ein Überflugverbot von Naturschutzgebieten wie z.B. dem Naturschutzgebiet Feldberg wäre ein erster Schritt.
 
 ## Spenden Sie eine Kleinanzeige in der Badischen-Zeitung
 
