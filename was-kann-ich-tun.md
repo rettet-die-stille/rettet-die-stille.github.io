@@ -16,7 +16,7 @@ Aber meine Erfahrung ist, dass die Mails tatsächlich gelesen und sogar beantwor
 
 ## Woher bekomme ich die Mail-Adresse meines Bundestagsabgeordneten?
 
-Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle E-Mail Adressen der Bundestagsabgeordneten zu finden.
+Auf dieser <span style="text-decoration: underline;">[Seite](https://www.bundestag.de/abgeordnete){:target="_blank"}</span> sind alle Kontaktdaten der Bundestagsabgeordneten zu finden.
 
 Für die Bewohner in der Region Freiburg und Südschwarzwald folgen hier die konkreten Namen und Mailadressen der Bundestagsabgeordneten:
 
