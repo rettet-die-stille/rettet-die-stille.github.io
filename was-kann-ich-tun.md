@@ -34,7 +34,7 @@ Interessant ist für die Region des Südschwarzwalds ist sicher auch die Abgeord
 
 Sie brauchen kein langes Mail schreiben, einfach nur ein paar Sätze, mit denen Sie die Politik zum Handeln auffordern. 
 
-Es geht um die Verschärftung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020/08/03/was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>Was gegen Motorradlärm helfen würde (und was nicht)</a></span>.
+Es geht um die Verschärfung von Zulassungsvorschriften und Lärmschutzverordnungen, und um Regelungen, die bereits zugelassenen Fahrzeuge im Bestand treffen, zum Beispiel das sogenannte "Tiroler Modell". Lesen Sie dazu den Beitrag <span style='text-decoration: underline;'><a href='/2020/08/03/was-gegen-motorradlaerm-helfen-wuerde-und-was-nicht.html'>Was gegen Motorradlärm helfen würde (und was nicht)</a></span>.
 
 Notwendig ist auch eine Änderung bei den Verkehrsvorschriften für Motorsportflugzeuge. Ein Überflugverbot von Naturschutzgebieten wie z.B. dem Naturschutzgebiet Feldberg wäre ein erster Schritt.
 
