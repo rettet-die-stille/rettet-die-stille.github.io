@@ -2,14 +2,14 @@
 layout: post
 title: "Keine Motorsportflieger über dem Naturschutzgebiet Feldberg!"
 date: 2020-11-18
-shorttext: Die Initiative „Rettet die Stille“ setzt sich für ein Überflugverbot von Naturschutzgebieten durch Sportflugzeuge, Gyrocopter und Ultraleichtflugzeugen ein. Bis zu einer entsprechenden gesetzlichen Regelung appelliert „Rettet-die-Stille“ an die Sportflieger, aus Respekt und Rücksicht gegenüber Mensch, Tier und Natur von einem Überflug des Naturschutzgebiets Feldberg freiwillig abzusehen.
+shorttext: Die Initiative „Rettet die Stille“ setzt sich für ein Überflugverbot von Naturschutzgebieten durch Motorsportflugzeuge, Gyrocopter und Ultraleichtflugzeugen ein. Bis zu einer entsprechenden gesetzlichen Regelung appelliert „Rettet-die-Stille“ an die Sportflieger, aus Respekt und Rücksicht gegenüber Mensch, Tier und Natur von einem Überflug des Naturschutzgebiets Feldberg freiwillig abzusehen.
 ---
 
 Mit fast 1.500 Metern Höhe ist der Feldberg der höchste deutsche Berg außerhalb der Alpen und gehört zu den beliebtesten Ausflugs- und Wandergebieten des Schwarzwaldes. Gleichzeitig ist das Feldberggebiet Lebensraum vieler seltener Tiere und Pflanzen. Aus diesem Grund wurde es bereits 1937 unter Naturschutz gestellt.
 
 Auerhahn, Wanderfalke und weitere empfindliche Tierarten haben dort ein – oft das letzte - Rückzugsgebiet gefunden. Aus diesem Grund sind Teile des Naturschutzgebiets sogar für Wanderer gesperrt, im ganzen Gebiet sind Drohnen, Drachen und Gleitschirmflieger verboten.
 
-Auch für den Menschen sind die Schönheit und Ruhe des Feldberggipfelgebiets die letzte Zuflucht, wo es noch echte Ruhe gibt. Keine lauten Straßen, keine lärmenden Motorradfahrer, einfach nur Natur und Stille. Allerdings gibt es diese Idylle nur, bis bei schönem Wetter dann die ersten Sportflieger kommen, die den Feldberggipfel gerne als eine Wegmarke auf ihrer Ausflugsroute wählen. Schon von weitem hört man sie röhren, der Verbrennungsmotor und die Luftschraube sorgen für einen durchdringenden Ton ähnlich einem lauten Rasenmäher.
+Auch für den Menschen sind die Schönheit und Ruhe des Feldberggipfelgebiets die letzte Zuflucht, wo es noch echte Ruhe gibt. Keine lauten Straßen, keine lärmenden Motorradfahrer, einfach nur Natur und Stille. Allerdings gibt es diese Idylle nur, bis bei schönem Wetter dann die ersten Motorsportflieger kommen, die den Feldberggipfel gerne als eine Wegmarke auf ihrer Ausflugsroute wählen. Schon von weitem hört man sie röhren, der Verbrennungsmotor und die Luftschraube sorgen für einen durchdringenden Ton ähnlich einem lauten Rasenmäher.
 
 Ein eindrückliches Beispiel für den Freizeitflieger Fluglärm bietet das nachfolgende kurze Video, dass direkt am Feldberg gedreht wurde und einen Überflug von zwei Gyrocopter in wenigen hundert Metern über dem Feldberggipfel zeigt.
 
@@ -21,7 +21,7 @@ Ein eindrückliches Beispiel für den Freizeitflieger Fluglärm bietet das nachf
 
 <br />
 
-Durch die exponierte Position in der Höhe erzeugen die Sportflugzeuge einen sehr weiten Schalltrichter, der über mehrere Kilometer trägt. Hinzu kommt, dass man mit viel Motorkraft Höhe gewinnen muss, um den Feldberg zu überfliegen. Da ist der Fluglärm dann besonders laut. Schallschutzwände wie bei Straßen gibt es da oben am Himmel nicht. 
+Durch die exponierte Position in der Höhe erzeugen die Motorsportflugzeuge einen sehr weiten Schalltrichter, der über mehrere Kilometer trägt. Hinzu kommt, dass man mit viel Motorkraft Höhe gewinnen muss, um den Feldberg zu überfliegen. Da ist der Fluglärm dann besonders laut. Schallschutzwände wie bei Straßen gibt es da oben am Himmel nicht. 
 
 Und leider ist es mit einem schnellen Überfliegen nicht getan, nein, es muss der Gipfel ganz umrundet werden, in langsamer (bei Ultraleichtflugzeugen in ultra-langsamer) Geschwindigkeit, sodass das nervige Geräusch gefühlt ewig in der Luft bleibt. Und ist der erste Flieger gerade weg, kündigt sich schon der nächste an. Das war es dann mit der Stille und Schönheit des Feldbergs, störempfindliche Tiere werden gestresst, Menschen sind genervt.
 
