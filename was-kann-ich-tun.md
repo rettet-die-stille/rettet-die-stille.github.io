@@ -46,6 +46,16 @@ Wenn Sie kein Paypal-Konto haben, einfach mal einen Bekannten bzw. eine Bekannte
 
 Bitte beachten Sie, dass wir leider keine Spendenbescheinigungen austellen können. Wir versichern ihn aber, dass Ihre Spende zu 100% der Finanzierung der Kleinanzeige verwendet wird.
 
+## Schreiben Sie Leserbriefe
+
+Leserbriefe werden gelesen und bewirken viel! Ein kurzer und in der Sache einfach verständlicher Leserbrief ist am besten. 
+
+Und Leserbriefe zeigen auch Politikern und Redakteuren, welche Themen die Leute gerade bewegt. Am Besten ist immer ein Aufhänger, also ein Bericht, der vor kurzem in der Badischen Zeitung erschienen ist, auf den man sich bezieht. Und wenn Sie keinen langen Brief schreiben wollen, schreiben sie einfach einen kurzen Beitrag. Drei oder vier Sätze reichen oft schon.
+
+Bei der Badischen Zeitung den Leserbrief per Mail an <b>[forum@badische-zeitung.de](mailto:forum@badische-zeitung.de)</b> schicken. 
+
+PS: Die Badische Zeitung braucht immer auch die komplette Anschrift und Telefonnummer des Leserbriefverfassers. Das dient allein zur Prüfung (oft per Anruf), ob der Leserbrief auch tatsächlich von dem Absender geschrieben wurde. Diese Angaben werden aber nicht veröffentlicht, nur der Name und der Wohnort des Leserbrief-Autors werden abgedruckt.
+
 ## Machen Sie anderen Mut!
 
 Erzählen Sie in ihrem Bekanntenkreis von www.rettet-die-stille.de. Und verlinken Sie <span style='text-decoration: underline;'><a href='https://www-rettet-die-stille.de'>www.rettet-die-stille.de</a></span> über Ihre Social Media Accounts. Dann spricht sich rum, dass man mit seinem Ärger nicht alleine ist, dass eine Bewegung im Gang ist und dass jeder ein klein bisschen helfen kann. Wenn jeder nur ein wenig hilft, dann wird was Großes daraus!
