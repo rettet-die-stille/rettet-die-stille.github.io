@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nürburgring-ähnliche Verhältnisse im Südschwarzwald"
-date: 2020-08-12
+date: 2021-02-04
 shorttext: "Wer an Sommer-Wochenenden im Südschwarzwald wandern geht, der erlebt zunehmend nicht die erholsame Ruhe dieses einzigartigen Naturgebiets, sondern eine Fahrzeugrennen-Soundkulisse, die so laut ist, dass sie sogar am Nürburgring verboten wäre."
 ---
 
