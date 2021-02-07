@@ -18,7 +18,7 @@ Diese Website ist eine private Website ohne Gewinnerzielungsabsicht. Alle Inhalt
 Kristian Raue
 St.-Galler-Straße, 7
 79199 Kirchzarten
-Telefon: 07661-9045351b (bitte nicht anrufen, die Nummer steht hier nur aus rechtlichen Gründen)
+Telefon: 07661-9045351 (bitte nicht anrufen, die Nummer steht hier nur aus rechtlichen Gründen)
 E-Mail: info@rettet-die-stille.de
 
 Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
