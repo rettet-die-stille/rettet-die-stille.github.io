@@ -15,7 +15,7 @@ Auf <span style="text-decoration: underline;">[dieser Website](https://www.motor
 
 ## Strengere Zulassungsvorschriften?
 
-Man könnte zum Beispiel festlegen, dass ein Fahrzeug in allen Fahrsituationen (nicht nur bei der Beschleunigung von 50 auf 80 km/h) die Lärmgrenze von 78 dB nicht überschreiten dürfen. (Das hat der Bundesrat jetzt ja auch gefordert). Allerdings bringen die Maßnahmen nur sehr langfristig etwas, da Motorräder durchaus 10 oder 20 Jahre gefahren werden. Und die alten Fahrzeuge haben Bestandsschutz. Kurz- und mittelfristig bringen strengere Zulassungsvorschriften also nicht die dringend notwendige Entlastung. Zudem wird die Gremienarbeit dazu erfahrungsgemäß 5, 10 oder noch mehr Jahre dauern, insbesondere da das ja ein EU-Thema ist (Stichwort: EU-Typgenehmigung).
+Man könnte zum Beispiel festlegen, dass ein Fahrzeug in allen Fahrsituationen (nicht nur bei der Beschleunigung von 50 auf 80 km/h) die Lärmgrenze von 78 dB nicht überschreiten dürfen. (Das hat der Bundesrat jetzt ja auch gefordert). Allerdings bringen die Maßnahmen nur sehr langfristig etwas, da Motorräder durchaus 20 oder 30 Jahre gefahren werden. Und die alten Fahrzeuge haben Bestandsschutz. Kurz- und mittelfristig bringen strengere Zulassungsvorschriften also nicht die dringend notwendige Entlastung. Zudem wird die Gremienarbeit dazu erfahrungsgemäß 5, 10 oder noch mehr Jahre dauern, insbesondere da das ja ein EU-Thema ist (Stichwort: EU-Typgenehmigung). Mehr dazu in diesem <span style="text-decoration: underline;">[Beitrag](https://www.rettet-die-stille.de/2020/09/14/warum-verschaerfte-zulassungsvorschriften-allein-nichts-bringen.html)</span>.
 
 ## Generelle Fahrverbote für Motorräder?
 
