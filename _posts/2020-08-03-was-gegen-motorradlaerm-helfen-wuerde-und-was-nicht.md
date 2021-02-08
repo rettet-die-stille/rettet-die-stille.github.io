@@ -58,7 +58,7 @@ Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in 
 <br />
 <figure>
   <img src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
-  <figcaption >Bild: Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (Quelle: Umweltbundesamt)</figcaption>
+  <figcaption><small>Bild: Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (Quelle: Umweltbundesamt)</small></figcaption>
 </figure>
 
 Die Studie des Umweltbundesamts finden Sie <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_161-2020_ueberpruefung_der_geraeuschemissionen_von_motorraedern_im_realen_verkehr.pdf)</span>.
