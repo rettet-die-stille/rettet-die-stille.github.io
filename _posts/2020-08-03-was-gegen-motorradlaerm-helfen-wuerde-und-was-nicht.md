@@ -58,7 +58,7 @@ Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in 
 
 <br />
 <figure>
-  <img maxwidth=400 src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung des Dezibel Pegels für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
+  <img style="max-width:400" src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung des Dezibel Pegels für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
   <figcaption><small>Bild: Gegenüberstellung des Dezibel Pegels für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (SD = Schalldämpfer Quelle: Umweltbundesamt)</small></figcaption>
 </figure>
 
