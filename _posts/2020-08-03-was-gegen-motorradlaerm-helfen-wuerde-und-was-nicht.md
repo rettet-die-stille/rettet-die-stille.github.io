@@ -59,7 +59,7 @@ Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in 
 <br />
 <figure>
   <img style="max-width:500px" src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung des Dezibel Pegels für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
-  <figcaption><small>Bild: Gegenüberstellung des Dezibel Pegels für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (SD = Schalldämpfer Quelle: Umweltbundesamt)</small></figcaption>
+  <figcaption><small>Bild: Gegenüberstellung des Dezibel Pegels für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (SD = Schalldämpfer, Quelle: Umweltbundesamt)</small></figcaption>
 </figure>
 
 Die Studie des Umweltbundesamts finden Sie <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_161-2020_ueberpruefung_der_geraeuschemissionen_von_motorraedern_im_realen_verkehr.pdf)</span>.
