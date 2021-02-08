@@ -23,7 +23,7 @@ Generelle Fahrverbote für Motorräder sind Unsinn und sind auch nicht durchsetz
 <br /><br />
 <a name="tiroler_modell"></a>
 
-## <b>Das Tiroler Modell</b> - Fahrverbote nur für extralaute Fahrzeuge
+## <b>Lärmschutzzonen nach dem Tiroler Modell</b> - Fahrverbote nur für extralaute Fahrzeuge in schützenswerten Gebieten
 
 Das ist ein guter Schritt und in <span style="text-decoration: underline;">[Tirol](https://www.motorradonline.de/ratgeber/fahrverbote-oesterreich-offiziell-bestaetigt-laute-bikes-tirol-95-db-2020){:target="_blank"}</span> wird das ja schon erfolgreich gemacht!
 
@@ -37,7 +37,7 @@ Man würde festlegen, dass alle Fahrzeuge (übrigens Motorräder und Sportwagen 
 * Man braucht keine neuen technischen Normen, Messverfahren, etc. Die Regelung kann also kurzfristig umgesetzt werden  
 * Die Polizei kann ganz einfach kontrollieren. Zum einem würde sie auf den für extralaute Fahrzeuge gesperrte Strecken stichprobenartig Fahrzeuge herausziehen und einfach nur den KFZ-Schein kontrollieren. Zudem kann sie bei verdächtig lauten Fahrzeugen den heute schon praktizierten Standgeräusch-Test machen.
 * Ganz wichtig: die vielen lauten Bestandsfahrzeuge sind vollumfänglich erfasst. Man muss also nicht warten, bis die in 10 oder 20 Jahren aus Altersgründen aus dem Verkehr genommen werden. Es wird also sofort zu einer dramatischen Verbesserung der Situation kommen.
-* Die Regelung scheint konform mit EU-Gesetzen zu sein. Schließlich ist Österreich in der EU und bislang hat keiner argumentiert, die Tiroler Regelung verstoße gegen EU-Recht.
+* Die Regelung scheint konform mit EU-Gesetzen zu sein. Schließlich ist Österreich in der EU und bislang hat keiner argumentiert, die Tiroler Regelung verstoße gegen EU-Recht. Zudem gibt es in Deutschland ja bereits seit Jahren die Abgas-Umweltzonen, die es Fahrern legal zugelassener Fahrzeuge, die bestimmte Emissionswerte überschreiten, verbieten, in bestimmte Gebiete einzufahren. Genau die gleiche Logik würde zukünftig für die Lärm-Umweltzonen gelten, nur das hier nicht der Abgas-, sondern der Lärm-Emisssionswert (Nahfeldmethode) herangezogen wird.
 * Die 80-90 % Biker, die heute schon leise fahren, werden diese Regelung gerne unterstützen. Ergo: die 10 bis 20% extralauten Radau-Fahrer stehen plötzlich alleine auf dem Feld.
 * Das Tiroler Modell wirkt zudem auch an den Straßen, an denen keine lautstärkebedingte Sperrung eingerichtet wird. Einfach deshalb, weil alle, die z.B. in Tirol fahren wollen, ihre Motorräder umrüsten und den neuen Wert eintragen lassen. Und ist das Motorrad einmal auf leiser umgebaut, dann ist es natürlich auf allen Straßen leiser. Und die Polizei kontrolliert die Einhaltung des neuen Lärmwerts anhand des geänderten Eintrags im Fahrzeugschein.
 
