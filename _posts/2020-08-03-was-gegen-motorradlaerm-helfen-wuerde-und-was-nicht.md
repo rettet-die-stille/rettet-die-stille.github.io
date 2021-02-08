@@ -58,7 +58,7 @@ Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in 
 
 <br />
 <figure>
-  <img src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
+  <img maxwidth=500 src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
   <figcaption><small>Bild: Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (Quelle: Umweltbundesamt)</small></figcaption>
 </figure>
 
