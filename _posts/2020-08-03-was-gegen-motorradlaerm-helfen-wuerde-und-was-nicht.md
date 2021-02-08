@@ -41,14 +41,32 @@ Man würde festlegen, dass alle Fahrzeuge (übrigens Motorräder und Sportwagen 
 * Die 80-90 % Biker, die heute schon leise fahren, werden diese Regelung gerne unterstützen. Ergo: die 10 bis 20% extralauten Radau-Fahrer stehen plötzlich alleine auf dem Feld.
 * Das Tiroler Modell wirkt zudem auch an den Straßen, an denen keine lautstärkebedingte Sperrung eingerichtet wird. Einfach deshalb, weil alle, die z.B. in Tirol fahren wollen, ihre Motorräder umrüsten und den neuen Wert eintragen lassen. Und ist das Motorrad einmal auf leiser umgebaut, dann ist es natürlich auf allen Straßen leiser. Und die Polizei kontrolliert die Einhaltung des neuen Lärmwerts anhand des geänderten Eintrags im Fahrzeugschein.
 
+**Man kann Fahrverbote nach dem Tiroler Modell legal umgehen**
+
  Im Internet wird seit Einführung des Tiroler Modells in Österreich jetzt nicht mehr nur beschrieben, wie Maschinen lauter gemacht werden können, sondern z.B. 
  <span style="text-decoration: underline;">[in diesem Artikel der Motorradpresse](https://www.motorradonline.de/ratgeber/laermfahrverbot-oesterreich-tirol-betroffene-modelle/ ){:target="_blank"}</span> wird  erklärt, wie man Maschinen <b>leiser</b> bekommt,
 
 Hinter dem Link findet man mit etwas Scrollen das nachfolgendes Zitat:
 
-"Die einschließlich Chef Hubert Sommer aus nur sechs Mitarbeitern bestehende Firma macht Motorräder leiser. Sie bietet beispielsweise an, das Standgeräusch einer nach Euro-3 homologierten BMW R nineT von 98 auf 94 dB(A) zu reduzieren, inklusive TÜV-Segen. Nötig sind dafür zwei dB-Killer-Einsätze, die von Hattech im originalen Schalldämpfer punktuell verschweißt werden – Preis 560 Euro. Darin enthalten sind die Kosten einer Einzelabnahme, die der Halter beim TÜV durchführen lassen muss. Dieser bestätigt die Reduzierung des Standgeräuschs auf 94 dB(A), was zu guter Letzt auf der Zulassungsstelle in die Papiere eingetragen wird (Kosten: circa 15 Euro). Zudem bietet Hattech für alle R1200/1250 GS-Modelle Schalldämpfer an, die zu einer deutlichen Lautstärkereduzierung führen. 
+"Die einschließlich Chef Hubert Sommer aus nur sechs Mitarbeitern bestehende Firma macht Motorräder leiser. Sie bietet beispielsweise an, das Standgeräusch einer nach Euro-3 homologierten BMW R nineT von 98 auf 94 dB(A) zu reduzieren, inklusive TÜV-Segen. Nötig sind dafür zwei dB-Killer-Einsätze, die von Hattech im originalen Schalldämpfer punktuell verschweißt werden – Preis 560 Euro. Darin enthalten sind die Kosten einer Einzelabnahme, die der Halter beim TÜV durchführen lassen muss. Dieser bestätigt die Reduzierung des Standgeräuschs auf 94 dB(A), was zu guter Letzt auf der Zulassungsstelle in die Papiere eingetragen wird (Kosten: circa 15 Euro). Zudem bietet Hattech für alle R1200/1250 GS-Modelle Schalldämpfer an, die zu einer deutlichen Lautstärkereduzierung führen.
 
 Dem Betrieb haben die aktuelle Lärmdiskussion und die Tiroler Sperrungen unverhofft zu einer gesteigerten Auftragslage verholfen."Wir haben seither täglich bis zu 200 Anfragen bekommen. Die Leute wollen wissen, wie sie ihre Maschinen leiser kriegen".
+
+**Ist der Standgeräuschwert aus dem KFZ-Schein ein guter Indikator für das tatsächliche Fahrgeräusch?**
+
+Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in den Lärmschutzvorschriften genannten DIN Norm kein guter Indikator für das tatsächliche Fahrgeräusch ist. Diesbezüglich möchte ich auf die jüngste Untersuchung des Bundesumweltamtes verweisen. Dort wurden drei aktuelle Motorradtypen detailliert in Bezug auf das praktische Einhalten der neuesten Fahrgeräusch Lärmnormen unter die Lupe genommen. Die folgenden Maschinen wurden vom UBA geprüft: die Kawasaki Ninja ZX-10R, die BMW R NineT Urban G/S und die Harley-Davidson Softail Heritage Classic. Bei allen drei Typen stellte sich heraus, dass die Maschinen die geltenden Fahrgeräusch-Lärmgrenzwerte zwar formal einhalten, in der Prüffahrt bei realen Fahrbedingungen aber weit überschreiten, teilweise um 20 Dezibel!
+
+Die Studie des Umweltbundesamts können Sie <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_161-2020_ueberpruefung_der_geraeuschemissionen_von_motorraedern_im_realen_verkehr.pdf)</span>.
+
+Und recheriert man nun die Standgeräuschwerte dieser Maschinen, dann findet man z.B. für die Kawasaki Ninja ZX-10R und die BMW R NineT Urban G/S Standgeräuschwerte von 97 bzw. 98 Dezibel ! Für die Harley-Davidson Softail Heritage Classic konnte ich leider keine offiziellen Werte im Internet finden, wohl aber Online-Kommentare in Motorradforen, die dieser Maschine Standgeräuschwerte von knapp 100 Dezibel bescheinigen. 
+
+Fazit: Es gibt also klare Indizien dafür, dass ein Zusammenhang zwischen lauten Standgeräuschwerten und zu lauten Fahrgeräuschen besteht. Das sagt einem auch der gesunden Menschenverstand: Motorräder, die nach der Nahfeldmethode schon um Stand bei mittleren Drehzahlen (wie bei der Nahfeldmethode vorgeschrieben) Werte von bis zu 107 Dezibel haben, werden bei voller Belastung (z.B. bei hochtourigen Beschleunigungsfahrten) nicht plötzlich leiser werden. Nur Vertreter der Motorradlobby behaupten das Gegenteil, allerdings ohne das mit Beweisen zu unterlegen.
+
+Zu guter Letzt: Die Motorsportexperten am Nürburgring setzen ebenfalls auf das Standgeräusch (Nahfeldmethode) als Indikator für den tatsächlichen Lärm beim Fahren (dort ist man also schon deutlich weiter in Bezug auf den Lärmschutz als das bei uns auf den normalen Straßen der Fall ist). Am Nürburgring gilt eine <span style="text-decoration: underline;">[Fahrordnung](http://www.nuerburgring.de/fileadmin/AGB/2015/cNG-Fahrordnung-Touristenfahrten.pdf){:target="_blank"}</span> und da steht im Paragraph 6 (LÄRM / UMWELT) folgendes drin: 
+
+"Fahrzeuge, die die im Fahrzeugschein eingetragenen Lärmgrenzwerte bezüglich der Stand- und Fahrgeräusche nicht einhalten, sind vom Befahren des Nürburgrings ausgeschlossen. Außerdem dürfen der Lärmgrenzwert gemäß <b>Nahfeldmessmethode (95 Dezibel)</b> sowie der von der NG festgelegte maximale Schallleistungspegel (130 Dezibel, gemessen bei der Vorbeifahrt) <b>nicht überschritten</b> werden."
+
+Was am Nürburgring in Sachen Lärmschutz gilt, dass sollte doch mindestens auch bei den normalen Straßen in Erholungs- und Naturgebieten gelten. Das ist sicher keine übertriebene Forderung.
 
 ## Konsequente Anwendung des Paragraphen 1 der StVO.
 
