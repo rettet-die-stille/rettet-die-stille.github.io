@@ -55,6 +55,7 @@ Dem Betrieb haben die aktuelle Lärmdiskussion und die Tiroler Sperrungen unverh
 **Ist der Standgeräuschwert aus dem KFZ-Schein ein guter Indikator für das tatsächliche Fahrgeräusch?**
 
 Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in den Lärmschutzvorschriften genannten DIN Norm kein guter Indikator für das tatsächliche Fahrgeräusch ist. Diesbezüglich möchte ich auf die jüngste Untersuchung des Bundesumweltamtes verweisen. Dort wurden drei aktuelle Motorradtypen detailliert in Bezug auf das praktische Einhalten der neuesten Fahrgeräusch Lärmnormen unter die Lupe genommen. Die folgenden Maschinen wurden vom UBA geprüft: die Kawasaki Ninja ZX-10R, die BMW R NineT Urban G/S und die Harley-Davidson Softail Heritage Classic. Bei allen drei Typen stellte sich heraus, dass die Maschinen die geltenden Fahrgeräusch-Lärmgrenzwerte zwar formal einhalten, in der Prüffahrt bei realen Fahrbedingungen (inder Grafik als "Worst Case" bezeichnet) aber weit überschreiten, teilweise um 20 Dezibel!
+
 <br />
 <figure>
   <img src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
