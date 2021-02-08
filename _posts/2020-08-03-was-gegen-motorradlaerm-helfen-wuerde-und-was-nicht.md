@@ -36,10 +36,10 @@ Man würde festlegen, dass alle Fahrzeuge (übrigens Motorräder und Sportwagen 
 * Fahrzeugführer mit einem zu lauten Fahrzeug können die Fahrverbote jederzeit legal "umgehen". Ganz einfach, in dem sie Geld für eine leisere Auspuffanlage ausgeben und sich den neuen Standgeräusch-Wert im KfZ eintragen lassen (bislang geben einige ja eher Geld dafür aus, sich um lautere Auspuff-Anlagen zu montieren, müsste also auch umgekehrt funktionieren).
 * Man braucht keine neuen technischen Normen, Messverfahren, etc. Die Regelung kann also kurzfristig umgesetzt werden  
 * Die Polizei kann ganz einfach kontrollieren. Zum einem würde sie auf den für extralaute Fahrzeuge gesperrte Strecken stichprobenartig Fahrzeuge herausziehen und einfach nur den KFZ-Schein kontrollieren. Zudem kann sie bei verdächtig lauten Fahrzeugen den heute schon praktizierten Standgeräusch-Test machen.
-* Ganz wichtig: die vielen lauten Bestandsfahrzeuge sind vollumfänglich erfasst. Man muss also nicht warten, bis die in 10 oder 20 Jahren aus Altersgründen aus dem Verkehr genommen werden. Es wird also sofort zu einer dramatischen Verbesserung der Situation kommen.
+* Ganz wichtig: die vielen lauten Bestandsfahrzeuge sind vollumfänglich erfasst. Man muss also nicht warten, bis die in 20 oder 30 Jahren aus Altersgründen aus dem Verkehr genommen werden. Es wird also sofort zu einer dramatischen Verbesserung der Situation kommen.
 * Die Regelung scheint konform mit EU-Gesetzen zu sein. Schließlich ist Österreich in der EU und bislang hat keiner argumentiert, die Tiroler Regelung verstoße gegen EU-Recht. Zudem gibt es in Deutschland ja bereits seit Jahren die Abgas-Umweltzonen, die es Fahrern legal zugelassener Fahrzeuge, die bestimmte Emissionswerte überschreiten, verbieten, in bestimmte Gebiete einzufahren. Genau die gleiche Logik würde zukünftig für die Lärm-Umweltzonen gelten, nur das hier nicht der Abgas-, sondern der Lärm-Emisssionswert (Nahfeldmethode) herangezogen wird.
 * Die 80-90 % Biker, die heute schon leise fahren, werden diese Regelung gerne unterstützen. Ergo: die 10 bis 20% extralauten Radau-Fahrer stehen plötzlich alleine auf dem Feld.
-* Das Tiroler Modell wirkt zudem auch an den Straßen, an denen keine lautstärkebedingte Sperrung eingerichtet wird. Einfach deshalb, weil alle, die z.B. in Tirol fahren wollen, ihre Motorräder umrüsten und den neuen Wert eintragen lassen. Und ist das Motorrad einmal auf leiser umgebaut, dann ist es natürlich auf allen Straßen leiser. Und die Polizei kontrolliert die Einhaltung des neuen Lärmwerts anhand des geänderten Eintrags im Fahrzeugschein.
+* Das Tiroler Modell wirkt zudem auch an den Straßen, an denen keine lautstärkebedingte Sperrung eingerichtet wird. Einfach deshalb, weil alle, die z.B. in Tirol fahren wollen, ihre Motorräder umrüsten und den neuen Wert eintragen lassen. Und ist das Motorrad einmal auf leiser umgebaut, dann ist es natürlich auf allen Straßen leiser.
 
 **Wie kann man Fahrverbote nach dem Tiroler Modell umgehen?**
 
@@ -56,11 +56,10 @@ Dem Betrieb haben die aktuelle Lärmdiskussion und die Tiroler Sperrungen unverh
 
 Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in den Lärmschutzvorschriften genannten DIN Norm kein guter Indikator für das tatsächliche Fahrgeräusch ist. Diesbezüglich möchte ich auf die jüngste Untersuchung des Bundesumweltamtes verweisen. Dort wurden drei aktuelle Motorradtypen detailliert in Bezug auf das praktische Einhalten der neuesten Fahrgeräusch Lärmnormen unter die Lupe genommen. Die folgenden Maschinen wurden vom UBA geprüft: die Kawasaki Ninja ZX-10R, die BMW R NineT Urban G/S und die Harley-Davidson Softail Heritage Classic. Bei allen drei Typen stellte sich heraus, dass die Maschinen die geltenden Fahrgeräusch-Lärmgrenzwerte zwar formal einhalten, in der Prüffahrt bei realen Fahrbedingungen (inder Grafik als "Worst Case" bezeichnet) aber weit überschreiten, teilweise um 20 Dezibel!
 
-<br /> 
-
-<img src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT" title="" />
-Bild: Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (Quelle: Umweltbundesamt)
-<br /> 
+<figure>
+  <img src="/assets/images/bmw_gegenuber.jpg" alt="Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT"/>
+  <figcaption>Bild: Gegenüberstellung von Pegel, Lautheit, Rauigkeit und Schärfe für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (Quelle: Umweltbundesamt)</figcaption>
+</figure>
 
 Die Studie des Umweltbundesamts finden Sie <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_161-2020_ueberpruefung_der_geraeuschemissionen_von_motorraedern_im_realen_verkehr.pdf)</span>.
 
