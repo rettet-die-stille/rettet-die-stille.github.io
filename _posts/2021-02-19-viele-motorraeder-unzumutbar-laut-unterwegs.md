@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Landesverkehrsminister Hermann: Viele Motorräder unzumutbar laut unterwegs"
+title: "Landesverkehrsminister Hermann: Viele Motorräder sind unzumutbar laut unterwegs"
 date: 2021-02-19
 shorttext: "In einer Pressemitteilung des Ministerium für Verkehr wird das Ausmaß der Belastung durch Motorradlärm anhand der Messergebisse der Motorradlärm-Displays quantifiziert. Der Motorradlärm sticht bei den Messungen deutlich heraus. Damit liegen nun endlich belastbare Zahlen zum Anteil der zu laut fahrenden Motorräder vor. Verkehrsminister Hermann fordert Maßnahmen seitens des Bundesregierung. Der Landes-Lärmschutzbeauftragter Thomas Marwein stellt fest, dass der Motorradlärm dem Lärm von Motorsägen oder Presslufthammern entspricht."
 
