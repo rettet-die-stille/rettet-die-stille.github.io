@@ -6,4 +6,4 @@ Es braucht nur ein paar wenige rücksichtslose Menschen um ganze Naturregionen b
 
 <b>Zur Klarstellung:</b> Gegen einigermaßen leise Motorräder haben wir nichts, wohl aber gegen auf Sound absichtlich laut getunte Fahrzeuge.
 
-Erfahren Sie mehr über die <a href="index2.html">Ziele von Rettet-die-Stille></a>
+Erfahren Sie mehr über die <a href="index2.html">Ziele von Rettet-die-Stille</a>
