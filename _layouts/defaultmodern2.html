@@ -122,13 +122,6 @@ layout: default
           <p>Schon mit <span style='text-decoration: underline;'><a href="/was-kann-ich-tun.html">wenig Aufwand</a></span> kann jeder helfen und viel mehr bewirken als man glaubt!</p>
         </div>
         <div class="card">
-          <form action="https://www.paypal.com/donate" method="post" target="_top">
-            <input type="hidden" name="hosted_button_id" value="2CGLBY3C2FMB8" />
-            <input type="image" src="https://www.rettet-die-stille.de/assets/images/donate.jpg" style="width:100%;max-width:500px;border:0" name="submit" title="PayPal - Einfach und sicher online zahlen!" alt="Donate with PayPal button" />
-            <img alt="" style="border:0" src="https://www.paypal.com/de_DE/i/scr/pixel.gif" width="1" height="1" />
-          </form>
-        </div>
-        <div class="card">
           <h2>Anmeldung zum Newsletter</h2>
           <hr>
           <p><span style='text-decoration: underline;'><a href="http://eepurl.com/ha88dz">Hier klicken</a></span> um sich für den Newsletter anzumelden.</p>
@@ -139,6 +132,13 @@ layout: default
           {% for post in site.posts %}
           <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>  
           {% endfor %}
+        </div>
+        <div class="card">
+          <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="hosted_button_id" value="2CGLBY3C2FMB8" />
+            <input type="image" src="https://www.rettet-die-stille.de/assets/images/donate.jpg" style="width:100%;max-width:500px;border:0" name="submit" title="PayPal - Einfach und sicher online zahlen!" alt="Donate with PayPal button" />
+            <img alt="" style="border:0" src="https://www.paypal.com/de_DE/i/scr/pixel.gif" width="1" height="1" />
+          </form>
         </div>
       </div>
     </div>
