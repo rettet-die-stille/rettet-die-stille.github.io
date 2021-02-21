@@ -24,7 +24,7 @@ Auch eine <span style="text-decoration: underline;">[aktuelle Studie des Umweltb
 
 <br /> 
 
-<img src="/assets/images/pm_hermann.jpg" alt="Lärmverteilung an der B39 bei Löwenstein" title="" />
+<img src="/assets/images/pm_herman.jpg" alt="Lärmverteilung an der B39 bei Löwenstein" title="" />
 
 <br /> 
 
