@@ -12,11 +12,7 @@ Motorradlärm verursacht weiterhin Konflikte. In Erholungsgebieten, wo Menschen 
 
 Mit Leitpfostenmessgeräten wird neben den Verkehrszahlen auch der Fahrzeuglärm erfasst, wie dieser auf der Straße zu hören ist. Die Auswertungen zeigen, dass bei den besonders lauten Fahrzeugen Motorräder besonders aus dem Gesamtverkehr hervorstechen. So war an der Bundesstraße 39 bei Löwenstein (Landkreis Heilbronn) im betrachteten Zeitraum etwa jedes zweite Motorrad mit 87 dB(A) oder lauter unterwegs, jedes Dritte sogar lauter als 90 dB(A). Bei den Pkw kam nur eins von acht bzw. eins von 30 Fahrzeugen auf diese Lautstärke. An anderen Straßenabschnitten mit sehr unterschiedlichen Verkehrsverhältnissen ergibt sich ein vergleichbares Bild (vgl. Grafiken im <span style="text-decoration: underline;">[Anhang](/assets/images/210219_ANHANG.pdf){:target="_blank"}</span>).
 
-<br /> 
-
 <a href="/assets/images/pm_herman.jpg"><img src="/assets/images/pm_herman.jpg" alt="Lärmverteilung an der B39 bei Löwenstein" title="" /></a>
-
-<br /> 
 
 Der Lärmschutzbeauftragte, Thomas Marwein MdL, appelliert: „Es ist eine Zumutung für Anwohnerinnen, Anwohner und auch für Erholungssuchende, wenn Motorräder mit ohrenbetäubenden 90 dB(A) und mehr vorbeifahren. Eine solche Lärmbelastung erreichen üblicherweise Motorsägen oder auch Presslufthammer. Aus Rücksicht auf die Mitmenschen sollten leise Motorräder gefahren werden, am besten elektrische.“ 
 
