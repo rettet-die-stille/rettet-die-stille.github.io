@@ -22,6 +22,12 @@ Beispielhaft wurden die Daten an der B 39 bei Löwenstein (Landkreis Heilbronn) 
 
 Auch eine <span style="text-decoration: underline;">[aktuelle Studie des Umweltbundesamtes](https://www.umweltbundesamt.de/presse/pressemitteilungen/laute-motorraeder-pkw-sorgen-zunehmend-fuer/){:target="_blank"}</span> vom September 2020 zeigt, dass verschiedene fabrikneue Motorräder um 20 dB und lauter waren, als beim Betriebszustand, der für die Typprüfung maßgeblich ist. Marwein fordert daher: „Solch ein Lärm ist absolut vermeidbar. Der Respekt vor den Anwohnerinnen und Anwohnern gebietet, dass solche Fahrzeuge gar nicht erst auf die Straße kommen. Ich setze große Hoffnungen auf Elektro-Motorräder, habe aber auch die klare Erwartung an die Hersteller, mit leisen Motorrädern ein weiteres Kaufargument für umweltbewusste Biker zu schaffen.“
 
+<br /> 
+
+<img src="/assets/images/pm_hermann.jpg" alt="Lärmverteilung an der B39 bei Löwenstein" title="" />
+
+<br /> 
+
 Verkehrsminister Winfried Hermann MdL kündigt an, das Thema im Bundesrat erneut zur Sprache zu bringen: „Das Problem Motorradlärm ist absolut ungelöst. Der Bund muss endlich handeln. Eine künftige Bundesregierung muss sich dafür einsetzen, dass das real messbare Geräusch von Motorrädern zu einem entscheidenden Kriterium der Zulassung wird und die europäischen Zulassungsregeln entsprechend geändert werden. Wir werden mit dieser Forderung nicht nachlassen.“
 
 Gerade das Corona-Ausnahmejahr 2020 zeigt, wie wichtig es ist, frühzeitig auf gesundheitsschädliche Belästigungen zu reagieren. Hohe und dauerhafte Lärmbelastungen wirken sich ohne Zweifel auf die Gesundheit der Menschen aus. Der Sachverständigenrat für Umweltfragen (SRU) hat dies in ihrem aktuellen Gutachten bestätigt. Lärm wirkt auf den gesamten Organismus und kann körperliche Stressreaktionen bis hin zu Herz-Kreislauf-Erkrankungen verursachen. Um eine Verbesserung für die lärmgeplagten Anwohnerinnen und Anwohner zu erreichen, ist eine schnelle Umsetzung von geeigneten Maßnahmen notwendig. EU, Bund, Länder, Hersteller und die Motorradfahrer selbst sind daher zum Handeln aufgefordert.
