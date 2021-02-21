@@ -14,7 +14,7 @@ Mit Leitpfostenmessgeräten wird neben den Verkehrszahlen auch der Fahrzeuglärm
 
 <br /> 
 
-<img src="/assets/images/pm_herman.jpg" alt="Lärmverteilung an der B39 bei Löwenstein" title="" />
+<a href="/assets/images/pm_herman.jpg"><img src="/assets/images/pm_herman.jpg" alt="Lärmverteilung an der B39 bei Löwenstein" title="" /></a>
 
 <br /> 
 
