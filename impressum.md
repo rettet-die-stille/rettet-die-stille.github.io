@@ -21,7 +21,9 @@ St.-Galler-Straße, 7
 Telefon: 07661-9045351 (bitte nicht anrufen, die Nummer steht hier nur aus rechtlichen Gründen)
 E-Mail: info@rettet-die-stille.de
 
-Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
+Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV),
+Verantwortlicher i.S.d. §18 Abs. 2 MStV,
+und V.i.S.d.P.:
 Kristian Raue
 St. Galler Str. 7
 79199 Kirchzarten
