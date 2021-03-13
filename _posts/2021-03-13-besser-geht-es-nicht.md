@@ -2,17 +2,15 @@
 layout: post
 title: "Besser geht es nicht"
 date: 2021-02-19
-shorttext: "Motorradlärm – aktuelle Konflikte,Positionen und Lösungsvorschläge - unter diesem Titel hat die Deutsche Gesellschaft für Akustik e.V. (DEGA) in ihrer aktuellen Ausgabe des Akustik Journal (Nr. 01/21 vom Februar 2021) die bisher beste mir bekannte Aufarbeitung des Themas Motorradlärms veröffentlich. Es handelt sich hier zwar um einen recht langen Artikel, aber jeder Zeile davon ist absolut lesenswert. Wer beim Thema Motorradlärm mitreden will, muss diese Veröffentlichung gelesen haben."
+shorttext: "Motorradlärm – aktuelle Konflikte,Positionen und Lösungsvorschläge - unter diesem Titel hat die Deutsche Gesellschaft für Akustik e.V. (DEGA) in ihrer aktuellen Ausgabe des Akustik Journal (Nr. 01/21 vom Februar 2021) die bisher beste (mir bekannte) Aufarbeitung des Themas Motorradlärms veröffentlich. Es handelt sich hier zwar um einen recht langen Artikel, aber jeder Zeile davon ist absolut lesenswert. Wer beim Thema Motorradlärm mitreden will, muss diese Veröffentlichung gelesen haben."
 ---
-Der von Dipl.-Ing. Michael Jäcker-Cüppers (Vorsitzender des Arbeitsrings Lärm der DEGA) verfasste Artikel umfasst die folgenden
-Themen:
+Der von Dipl.-Ing. Michael Jäcker-Cüppers (Vorsitzender des Arbeitsrings Lärm der DEGA) verfasste Artikel umfasst die folgenden Themen:
 * In der Einleitung wird das Thema Motorradlärm grundsätzlich eingeordnet und die aktuelle Auseinandersetzung in Details beschrieben.
 * Im Abschnitt „Ausmaß des Problems“ werden die Beeinträchtigungen durch Motorradlärm, aktuelle Messungen der Geräuschemissionen von Motorrädern und die Gründung von Initiativen gegen Motorradlärm als weiterer Indikator für das Problem dargestellt.
 * Anschließend werden die verschiedenen Positionen der beteiligten Akteure detailliert beschrieben (Bundesrat, Fraktionen des Bundesrats, Motorradverbände und Hersteller
 * Abschließend werden die verschiedenen Positionen zum Motorradlärm und seiner Lösung aus Sicht des Arbeitsrings Lärm der DEGA (ALD) bewertet.
 
-Der Artikel ist kostenlos online als PDF verfügbar! Einfach <span style="text-decoration: underline;">[hier klicken](https://www.dega-akustik.de/fileadmin/dega-akustik.de/publikationen/akustik-journal/21-01/akustik_journal_2021_01_online_artikel2.pdf){:target="_blank"} und sich die Zeit nehmen, alle Seiten bis zum Schluß zu lesen.</span>).
-
+Der Artikel ist kostenlos online als PDF verfügbar. Einfach <span style="text-decoration: underline;">[hier klicken](https://www.dega-akustik.de/fileadmin/dega-akustik.de/publikationen/akustik-journal/21-01/akustik_journal_2021_01_online_artikel2.pdf){:target="_blank"}</span> und sich die Zeit nehmen, alle Seiten bis zum Schluß zu lesen.
 
 ## Hier noch die Online-Verweise zu einigen der im Artikel genannten Quellen##
 
