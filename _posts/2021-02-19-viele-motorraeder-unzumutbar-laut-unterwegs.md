@@ -28,7 +28,7 @@ Verkehrsminister Winfried Hermann MdL kündigt an, das Thema im Bundesrat erneut
 
 Gerade das Corona-Ausnahmejahr 2020 zeigt, wie wichtig es ist, frühzeitig auf gesundheitsschädliche Belästigungen zu reagieren. Hohe und dauerhafte Lärmbelastungen wirken sich ohne Zweifel auf die Gesundheit der Menschen aus. Der Sachverständigenrat für Umweltfragen (SRU) hat dies in ihrem aktuellen Gutachten bestätigt. Lärm wirkt auf den gesamten Organismus und kann körperliche Stressreaktionen bis hin zu Herz-Kreislauf-Erkrankungen verursachen. Um eine Verbesserung für die lärmgeplagten Anwohnerinnen und Anwohner zu erreichen, ist eine schnelle Umsetzung von geeigneten Maßnahmen notwendig. EU, Bund, Länder, Hersteller und die Motorradfahrer selbst sind daher zum Handeln aufgefordert.
 
-## Hintergrundinformationen ##
+## Hintergrundinformationen
 
 **Initiative Motorradlärm: Land und Kommunen gehen gegen Lärm vor**
 

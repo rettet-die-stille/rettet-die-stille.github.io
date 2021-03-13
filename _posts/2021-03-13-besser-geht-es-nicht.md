@@ -12,7 +12,7 @@ Der von Dipl.-Ing. Michael Jäcker-Cüppers (Vorsitzender des Arbeitsrings Lärm
 
 Der Artikel ist kostenlos online als PDF verfügbar. Einfach <span style="text-decoration: underline;">[hier klicken](https://www.dega-akustik.de/fileadmin/dega-akustik.de/publikationen/akustik-journal/21-01/akustik_journal_2021_01_online_artikel2.pdf){:target="_blank"}</span> und sich die Zeit nehmen, alle Seiten bis zum Schluß zu lesen.
 
-## Hier noch die Online-Verweise zu einigen der im Artikel genannten Quellen##
+## Hier noch die Online-Verweise zu einigen der im Artikel genannten Quellen
 
 **Initiative Motorradlärm: Land und Kommunen gehen gegen Lärm vor**
 
