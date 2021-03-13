@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Besser geht es nicht!"
-date: 2021-02-19
+date: 2021-03-13
 shorttext: "Motorradlärm – aktuelle Konflikte,Positionen und Lösungsvorschläge - unter diesem Titel hat die Deutsche Gesellschaft für Akustik e.V. (DEGA) in ihrer aktuellen Ausgabe des Akustik Journals (Nr. 01/21 vom Februar 2021) die bisher beste (mir bekannte) zusammenfassende Aufarbeitung des Themas Motorradlärm veröffentlicht. Es handelt sich hier zwar um einen recht langen Artikel, aber jeder Zeile davon ist absolut lesenswert. Wer beim Thema Motorradlärm mitreden will, muss diese Veröffentlichung gelesen haben."
 ---
 Der von Dipl.-Ing. Michael Jäcker-Cüppers (Vorsitzender des Arbeitsrings Lärm der DEGA) verfasste Artikel umfasst die folgenden Themen:
