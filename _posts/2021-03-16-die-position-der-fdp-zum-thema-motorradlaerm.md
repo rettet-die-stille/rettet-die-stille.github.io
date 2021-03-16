@@ -10,11 +10,11 @@ Der Antrag der FDP Bundestagsfraktion enthält neben der Aufforderung, den Statu
 
 Es muss der Eindruck entstehen, dass die FDP tatsächlich glaubt, dass das Geräusch der Motorradkette bzw. die Reifenrollgeräusche bereits so laut sind, dass selbst ein Motorrad mit Elektroantrieb die 80 Dezibel im Fahrgeräusch überschreiten würde. 
 
-Interessanterweise gibt es aber schon heute Motorräder mit Verbrennungsmotor, die beim Fahrgeräusch (außer auf der Autobahn bei Geschwindigkeiten deutlich über 100 km/h) unterhalb der 80 Dezibel bleiben. Wie passt das zusammen? 
+Interessanterweise gibt es aber schon heute viele Motorräder mit Verbrennungsmotor, die beim Fahrgeräusch mit konstanter Geschwindigkeit (außer auf der Autobahn bei Geschwindigkeiten deutlich über 100 km/h) unterhalb der 80 Dezibel bleiben. Man kann also - technisch gesehen - sehr wohl 80 km/h oder 100 km/h mit einem Motorrad fahren, ohne die 80 Dezibel Fahrgeräusch zu überschreiten. 
 
-Motorräder, die die Grenze von 80 Dezibel überschreiten, tun dies aufgrund der Kombination von rücksichtslosen Beschleunigungsmanövern mit absichtlich auf laut getunter Abgasanlage, aber nicht aufgrund des Reifen- oder Kettengeräuschs. Die Reifen- oder Kettengeräusche werden durch eine rücksichtslose Beschleunigung nicht entscheidend lauter.
+Motorräder, die die Grenze von 80 Dezibel überschreiten, tun dies aufgrund der Kombination von rücksichtslosen Beschleunigungsmanövern mit absichtlich auf laut getunter Abgasanlage, aber sicher nicht aufgrund des Reifen- oder Kettengeräuschs. Die Reifen- oder Kettengeräusche werden durch eine rücksichtslose Beschleunigung nicht entscheidend lauter.
 
-Zudem fordert die FDP in ihrem Antrag:
+Weiter fordert die FDP in ihrem Antrag:
 
 *"am Schuldprinzip bei Straftaten und Ordnungswidrigkeiten festzuhalten und deshalb nicht den Halter eines Motorrads für Verstöße des Fahrers zu bestrafen"*
 
