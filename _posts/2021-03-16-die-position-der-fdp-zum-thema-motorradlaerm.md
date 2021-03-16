@@ -16,7 +16,7 @@ Motorräder, die die Grenze von 80 Dezibel überschreiten, tun dies aufgrund der
 
 Die FDP stellt weiter fest:
 
-*"Wenn die geltenden Bestimmungen zu Lärmemissionen eingehalten werden, kommen die Interessen beider Seiten zu einem angemessenen Ausgleich."
+*"Wenn die geltenden Bestimmungen zu Lärmemissionen eingehalten werden, kommen die Interessen beider Seiten zu einem angemessenen Ausgleich."*
 
 Diese Aussage steht im krassen Widerspruch zu den Untersuchungen des Umweltbundesamts, das feststellt hat, dass das reale Fahrgeräusch und das gemäß der geltenden Bestimmungen gemessen Fahrgeräusch durchaus 20 Dezibel voneinander abweichen können. 
 
