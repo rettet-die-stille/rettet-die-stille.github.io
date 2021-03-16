@@ -2,7 +2,7 @@
 layout: post
 title: "Die Postion der FDP zum Thema Motorradlärm"
 date: 2021-03-13
-shorttext: "Die FDP Bundestagsfraktion fordert die Bundesregierung in ihrem Antrag zum Thema Motorradlärm auf, die Diskriminierung von Motorradfahrern zu verhindern und deshalb u.a. eine weitere Verschärfung von Emissionsgrenzwerten für Motorräder auf nationaler und auf EU-Ebene abzulehnen. Auch in anderen Positionen vertritt die FDP die Interessen der Motorradlobby."
+shorttext: "Die FDP Bundestagsfraktion fordert die Bundesregierung in einem Antrag zum Thema Motorradlärm auf, die Diskriminierung von Motorradfahrern zu verhindern und deshalb u.a. eine weitere Verschärfung von Emissionsgrenzwerten für Motorräder auf nationaler und auf EU-Ebene abzulehnen. Auch in anderen Positionen vertritt die FDP die Interessen der Motorradlobby."
 ---
 Der Antrag der FDP Bundestagsfraktion enthält neben der Aufforderung, den Status quo bei den Immissionsgrenzwerten nicht zu verändern, auch eine technisch interessante Theorie. So heisst es im Antrag wörtlich: 
 
