@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Die Postion der FDP zum Thema Motorradlärm"
+title: "Die Position der FDP zum Thema Motorradlärm"
 date: 2021-03-13
 shorttext: "Die FDP Bundestagsfraktion fordert die Bundesregierung in einem Antrag zum Thema Motorradlärm auf, die Diskriminierung von Motorradfahrern zu verhindern und deshalb u.a. eine weitere Verschärfung von Emissionsgrenzwerten für Motorräder auf nationaler und auf EU-Ebene abzulehnen. Auch in anderen Positionen vertritt die FDP die Interessen der Motorradlobby."
 ---
-Der Antrag der FDP Bundestagsfraktion enthält neben der Aufforderung, den Status quo bei den Immissionsgrenzwerten nicht zu verändern, auch eine technisch interessante Theorie. So heisst es im Antrag wörtlich: 
+Der Antrag der FDP Bundestagsfraktion enthält neben der Aufforderung, den Status quo bei den Immissionsgrenzwerten **nicht** zu verändern, auch eine technisch interessante Theorie. So heisst es im Antrag wörtlich: 
 
 *"Die in der Entschließung aufgeführte Einführung eines zusätzlichen Fahrzeuggesamtgeräuschwertes von 80 dB(A) über alle Fahrzustände ist allerdings realitätsfern und berücksichtigt in keiner Weise motorfremde Klänge wie beispielsweise das Reifenabrollgeräusch oder das der offen liegenden Antriebskette. Die unterschiedlichen Geräuschquellen können bei schmalen einspurigen Zweiradfahrzeugen konstruktionsbedingt schlechter abgeschirmt werden als bei PKW. In der Praxis lässt sich daher der geforderte Gesamtgeräuschwert von 80 dB(A) sowohl bei Motorrädern mit Verbrennungsmotor als auch bei solchen mit Elektroantrieben in allen Fahrzuständen kaum realisieren."*
 
@@ -13,6 +13,16 @@ Es muss der Eindruck entstehen, dass die FDP tatsächlich glaubt, dass das Gerä
 Interessanterweise gibt es aber schon heute viele Motorräder mit Verbrennungsmotor, die beim Fahrgeräusch mit konstanter Geschwindigkeit (außer auf der Autobahn bei Geschwindigkeiten deutlich über 100 km/h) unterhalb der 80 Dezibel bleiben. Man kann also - technisch gesehen - sehr wohl 80 km/h oder 100 km/h mit einem Motorrad fahren, ohne die 80 Dezibel Fahrgeräusch zu überschreiten. 
 
 Motorräder, die die Grenze von 80 Dezibel überschreiten, tun dies aufgrund der Kombination von rücksichtslosen Beschleunigungsmanövern mit absichtlich auf laut getunter Abgasanlage, aber sicher nicht aufgrund des Reifen- oder Kettengeräuschs. Die Reifen- oder Kettengeräusche werden durch eine rücksichtslose Beschleunigung nicht entscheidend lauter.
+
+Die FDP stellt weiter fest:
+
+*"Wenn die geltenden Bestimmungen zu Lärmemissionen eingehalten werden, kommen die Interessen beider Seiten zu einem angemessenen Ausgleich."
+
+Diese Aussage steht im krassen Widerspruch zu den Untersuchungen des Umweltbundesamts, das feststellt hat, dass das reale Fahrgeräusch und das gemäß der geltenden Bestimmungen gemessen Fahrgeräusch durchaus 20 Dezibel voneinander abweichen können. 
+
+Sprich: Nach Norm wird für ein Motorrad ein Fahrgeräuschwert von 80 Dezibel ermittelt, in der Realität kann das gleiche Motorrad durch eine veränderte (sportliche) Fahrweise dann aber auch 100 Dezibel laut sein, das entspricht einer **4-fach** lauteren Geräuschbelastung (weil die Einheit Dezibel auf einer logarithmischen Skale erfolgt).
+
+Die entsprechende Studie des Umweltbundesamtes findet man <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/presse/pressemitteilungen/laute-motorraeder-pkw-sorgen-zunehmend-fuer/){:target="_blank"}</span>.
 
 Weiter fordert die FDP in ihrem Antrag:
 
