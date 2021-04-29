@@ -30,3 +30,5 @@ Weitere Informationen zum Bundesratsbeschluss finden Sie <span style="text-decor
 **Studie Umweltbundesamt - Überprüfung der Geräuschemissionen von Motorrädern im realen Verkehr**
 
 Verschiedene fabrikneue Motorräder und Sportwagen, die die Zulassungsvorschriften einhielten, waren bei den Messungen außerhalb des Typprüfbereichs der Zulassung um 20 dB und mehr lauter als beim Betriebszustand, der für die Typprüfung maßgeblich ist.
+
+Die Pressemitteilung des Umweltbundesamts und der Link zur Studie finden Sie <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/presse/pressemitteilungen/laute-motorraeder-pkw-sorgen-zunehmend-fuer/){:target="_blank"}</span>.
