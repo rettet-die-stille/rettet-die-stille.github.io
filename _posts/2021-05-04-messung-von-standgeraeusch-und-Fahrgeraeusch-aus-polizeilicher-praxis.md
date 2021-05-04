@@ -6,7 +6,7 @@ shorttext: "Auf den Servern des Bundesumweltamts findet sich eine sehr eindrück
 ---
 Albert Lechner von der Verkehrspolizei der Polizeidirektion Sigmaringen hat schon im Jahr 2010 auf den "verlorenen Kampf" gegen den Motorradlärm hingewiesen. In seiner Präsentation beschreibt er die Tücken bei der Messung von Motorradlärms, die Tricks der Hersteller bzw. Motorradfahrer und die Unzulänglichkeit der geltenden Gesetze und Verordnungen. Das geht richtig ins Detail, ist aber hochinteressant, weil seine Ausführungen sehr dazu beitragen, das Spektrum effektiver (und auch nutzloser) Maßnahmen gegen den Motorradlärm mit belastbaren Fakten zu unterlegen.
 
-Neben einer Beschreibung der Meßverfahren, möglicher technischen Manipulationen listet Albert Lechner auch Meßergebnisse verschiedenen Motorradtypen auf und zeigt dabei sehr gut, dass hohe Standgeräuschwerte immer auch mit zu hohen (realen!) Fahrgeräuschwerten korrelieren. 
+Neben viel Hintergrundwissen, Beschreibung der Meßverfahren und möglicher technischen Manipulationen listet Albert Lechner auch konkrete Meßergebnisse verschiedenen Motorradtypen auf und zeigt dabei sehr gut, dass hohe Standgeräuschwerte immer mit zu hohen (realen!) Fahrgeräuschwerten korrelieren. 
 
 Die Präsentation von Albert Lechner kann man als PDF <span style="text-decoration: underline;">[hier ansehen](https://www.umweltbundesamt.de/sites/default/files/medien/377/dokumente/lechner.pdf){:target="_blank"}</span>.
 
