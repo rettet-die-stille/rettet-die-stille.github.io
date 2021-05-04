@@ -14,4 +14,4 @@ Die Aussagen aus dem Jahre 2010 passen übrigens sehr gut auch zu den aktuellen 
 
 Sprich: Nach geltenden Bestimmungen wird für ein Motorrad z.B. ein Fahrgeräuschwert von knapp 80 Dezibel ermittelt, in der Realität kann das gleiche Motorrad durch eine veränderte (sportliche) Fahrweise dann aber auch fast 100 Dezibel laut sein. Das entspricht einer **4-fach** lauteren Geräuschbelastung (weil die Einheit Dezibel auf einer logarithmischen Skala erfolgt und eine Erhöhung um 10 Dezibel einer Verdopplung der gefühlten Lautstärke entspricht). 
 
-Die entsprechende Studie des Umweltbundesamtes findet man <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/presse/pressemitteilungen/laute-motorraeder-pkw-sorgen-zunehmend-fuer/){:target="_blank"}</span>.
+Die entsprechende Studie des Umweltbundesamtes findet man <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/publikationen/ueberpruefung-der-geraeuschemissionen-von){:target="_blank"}</span>.
