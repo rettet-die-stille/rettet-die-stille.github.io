@@ -42,7 +42,7 @@ Notwendig ist auch eine Änderung bei den Verkehrsvorschriften für Motorsportfl
 
 Auf der rechten Seite dieser Website finden Sie Muster für die Kleinanzeigen, die wir als Kombi-Anzeige im Schnapp, in der Samstagsausgabe der BZ und in der Zeitung "DER SONNTAG" schalten, wenn wir eine Spende von 28,50 Euro per Paypal erhalten. Einfach auf die Anzeigenentwürfe rechts klicken und per Paypal bezahlen. 
 
-Wenn Sie kein Paypal-Konto haben, einfach mal einen Bekannten bzw. eine Bekannte finden, der/die vielleicht bei Paypal ist.
+Wenn Sie kein Paypal-Konto haben, schreiben Sie bitte eine Mail an info@rettet-die-stille.de und wir senden Ihnen gerne eine Kontoverbindung für Ihre Spende.
 
 Bitte beachten Sie, dass wir leider keine Spendenbescheinigungen austellen können. Wir versichern ihn aber, dass Ihre Spende zu 100% der Finanzierung der Kleinanzeige verwendet wird.
 
