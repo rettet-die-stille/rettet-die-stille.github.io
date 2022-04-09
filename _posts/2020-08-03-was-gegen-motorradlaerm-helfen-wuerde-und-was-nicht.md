@@ -54,7 +54,7 @@ Dem Betrieb haben die aktuelle Lärmdiskussion und die Tiroler Sperrungen unverh
 
 **Ist der Standgeräuschwert aus dem KFZ-Schein ein guter Indikator für das tatsächliche Fahrgeräusch?**
 
-Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in den Lärmschutzvorschriften genannten DIN Norm kein guter Indikator für das tatsächliche Fahrgeräusch ist. Diesbezüglich möchte ich auf die jüngste Untersuchung des Bundesumweltamtes verweisen. Dort wurden drei aktuelle Motorradtypen detailliert in Bezug auf das praktische Einhalten der neuesten Fahrgeräusch Lärmnormen unter die Lupe genommen. Die folgenden Maschinen wurden vom UBA geprüft: die Kawasaki Ninja ZX-10R, die BMW R NineT Urban G/S und die Harley-Davidson Softail Heritage Classic. Bei allen drei Typen stellte sich heraus, dass die Maschinen die geltenden Fahrgeräusch-Lärmgrenzwerte zwar formal einhalten, in der Prüffahrt bei realen Fahrbedingungen (in der Grafik als "Worst Case" bezeichnet) aber weit überschreiten, teilweise um 20 Dezibel!
+Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in den Lärmschutzvorschriften genannten Norm (EU) Nr. 540/2014 kein guter Indikator für das tatsächliche Fahrgeräusch ist. Diesbezüglich möchte ich auf die jüngste Untersuchung des Bundesumweltamtes verweisen. Dort wurden drei aktuelle Motorradtypen detailliert in Bezug auf das praktische Einhalten der neuesten Fahrgeräusch Lärmnormen unter die Lupe genommen. Die folgenden Maschinen wurden vom UBA geprüft: die Kawasaki Ninja ZX-10R, die BMW R NineT Urban G/S und die Harley-Davidson Softail Heritage Classic. Bei allen drei Typen stellte sich heraus, dass die Maschinen die geltenden Fahrgeräusch-Lärmgrenzwerte zwar formal einhalten, in der Prüffahrt bei realen Fahrbedingungen (in der Grafik als "Worst Case" bezeichnet) aber weit überschreiten, teilweise um 20 Dezibel!
 
 <br />
 <figure>
@@ -62,7 +62,7 @@ Zunächst muss man feststellen, dass schon die Fahrgeräuschmessung nach der in 
   <figcaption><small>Bild: Gegenüberstellung des Dezibel Pegels für Worst-Case- und Vorschriftsvorbeifahrt der BMW R NineT (SD = Schalldämpfer, Quelle: Umweltbundesamt)</small></figcaption>
 </figure>
 
-Die Pressemitteilungd es Umweltbundesamts und der Link zur Studie finden Sie <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/presse/pressemitteilungen/laute-motorraeder-pkw-sorgen-zunehmend-fuer/){:target="_blank"}</span>.
+Die Pressemitteilung des Umweltbundesamts und der Link zur Studie finden Sie <span style="text-decoration: underline;">[hier](https://www.umweltbundesamt.de/presse/pressemitteilungen/laute-motorraeder-pkw-sorgen-zunehmend-fuer/){:target="_blank"}</span>.
 
 Und recheriert man nun die Standgeräuschwerte dieser Maschinen, dann findet man z.B. für die Kawasaki Ninja ZX-10R und die BMW R NineT Urban G/S Standgeräuschwerte von 97 bzw. 98 Dezibel. Für die Harley-Davidson Softail Heritage Classic konnte ich leider keine offiziellen Werte im Internet finden, wohl aber Online-Kommentare in Motorradforen, die dieser Maschine Standgeräuschwerte von knapp 100 Dezibel bescheinigen. 
 
