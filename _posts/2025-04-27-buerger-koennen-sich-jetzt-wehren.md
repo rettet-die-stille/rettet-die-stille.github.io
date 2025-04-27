@@ -28,8 +28,7 @@ Der Leitfaden nennt klare Schwellenwerte, ab denen eine Beeinträchtigung der Er
 - **60 Motorräder pro Stunde über mindestens 4 Stunden am Tag** – dann ist die Belastung so hoch, dass keine „ruhige Minute“ mehr bleibt.  
 - **600 Motorräder zwischen 6 und 22 Uhr** – diese vereinfachte Tageszahl entspricht einer starken Dauerbelastung an Wochenenden.
 
-Wichtig:  
-Diese Werte müssen an **mindestens einem Drittel der Wochenend- und Feiertage im Zeitraum April bis September** überschritten werden – das heißt etwa **10 Wochenenden pro Saison**.  
+Wichtig: Diese Werte müssen an **mindestens einem Drittel der Wochenend- und Feiertage im Zeitraum April bis September** überschritten werden – das heißt etwa **10 Wochenenden pro Saison**.  
 Nur dann gilt die Belastung als systematisch und nicht als bloßer Einzelfall.
 
 ## Was können Bürger konkret tun?
